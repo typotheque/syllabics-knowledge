@@ -6,7 +6,7 @@ https://www.typotheque.com/articles/syllabics_typographic_guidelines
 
 In order to work on font development for the Canadian Syllabics, it is important to become acquainted with the behaviours and concepts that are inherently unique to this writing system. The above article has been prepared to outline these concepts that are unique to the Syllabics, and is a good starting point towards understanding the terminology and concepts provided within these development materials.
 
-## ᐊᓂᐦᔑᓈᐯᒧᐎᣙ / Anishinaabemowin / Ojibway
+## ᐊᓂᐦᔑᓈᐯᒧᐎᣙ / Anishinaabemowin (Ojibway)
 There is a great deal of variation in Ojibway Syllabics, and this persists to perhaps an even higher or similar degree in the roman orthographies within this language community. Although all Ojibway language communities could use Syllabics to accurately represent their languages, it is important to note that not all Ojibway communtiies use Syllabics. It is particularly the communities of northern Ontario and western Ojibway dialect speakers of Manitoba and Saskatchewan that have a current use of Syllabics. All other communities use a number of roman orthography systems to write their local dialects, including Algonquin, Odawa, Eastern Ojibwe, and Central Ojibwe. The following chart shows the preferred representation of the Ojibway Syllabics orthography:
 
 ![Ojibway-Syllabics-chart](https://user-images.githubusercontent.com/17300547/175665254-a2b2eaad-a51c-4c1f-86ea-9c53888b3a6a.png)
@@ -22,11 +22,11 @@ Note that there is a high degree of variability in locally-preferred typographic
 >> centered ᓐ for Rice Lake communities.
 
 ###### notes on local encoding practices
->> discuss the w-dot encoding here, sometimes it is middle dot cans (ᐧ), and sometimes it is the composite glyph (ᐎ).
+>> discuss the w-dot encoding here, sometimes it is middle dot cans (ᐧ) (ᐧ + ᐃ = ᐧᐃ), and sometimes it is the composite glyph (ᐎ).
 
-## ᖃᓂᐅᔮᖅᐸᐃᑦ / Inuktut / Inuktitut
+## ᖃᓂᐅᔮᖅᐸᐃᑦ / Inuktut (Inuktitut)
 
-## ᖃᓂᐅᔮᖅᐸᐃᑦ / Inuktut / Inuktitut
+## ᓀᐦᐃᔭᐏ / Nêhiyawêwin (Cree) 
 
-## ᖃᓂᐅᔮᖅᐸᐃᑦ / Inuktut / Inuktitut
+## ᐃᔪᐤ ᐃᔨᒧᐅᓐ / Iyuw Iyimuun (Naskapi)
 
