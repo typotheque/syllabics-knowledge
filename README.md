@@ -14,7 +14,7 @@ Below these charts is a subset of the required glyph set for each community. In 
 Furthermore, each section contains any relevant notes that may be applicable towards accommodating specific local typographic preferences and variations, or issues surrounding encoding.
 
 ## ᐊᓂᐦᔑᓈᐯᒧᐎᣙ / Anishinaabemowin (Ojibway)
-There is a great deal of variation in Ojibway Syllabics, and this persists to perhaps an even higher or similar degree in the roman orthographies within this language community. Although all Ojibway language communities could use Syllabics to accurately represent their languages, it is important to note that not all Ojibway communtiies use Syllabics. It is particularly the communities of northern Ontario and western Ojibway dialect speakers of Manitoba and Saskatchewan that have a current use of Syllabics. All other communities use a number of roman orthography systems to write their local dialects, including Algonquin, Odawa, Eastern Ojibwe, and Central Ojibwe. The following chart shows the preferred representation of the Ojibway Syllabics orthography:
+Although all Ojibway language communities could use Syllabics to accurately represent their languages, it is important to note that not all Ojibway communtiies use Syllabics. It is particularly the communities of northern Ontario and western Ojibway dialect speakers of Manitoba and Saskatchewan that have a current use of Syllabics. All other communities use a number of roman orthography systems to write their local dialects, including Algonquin, Odawa, Eastern Ojibwe, and Central Ojibwe. There is a relatively high degree of variation in the local typographic and orthographic preferences for Ojibway Syllabics between communities, particularly for communities in northern Ontario. This is particularly evident in northern Ontario communities, and can be seen primarily in the form and orientation of finals characters and their vertical positioning. The following chart shows the preferred representation of the Ojibway Syllabics orthography:
 
 ![Ojibway-Syllabics](https://user-images.githubusercontent.com/17300547/197810217-73bf4a44-1d59-406a-8f42-2933b8a24e90.png)
 
@@ -22,23 +22,18 @@ There is a great deal of variation in Ojibway Syllabics, and this persists to pe
 ###### Ojibway Syllabics Subset
 `ᐁ	ᐃ	ᐅ	ᐊ	ᐄ	ᐆ	ᐋ ᐯ	ᐱ	ᐳ	ᐸ	ᐲ	ᐴ	ᐹ ᑌ	ᑎ	ᑐ	ᑕ	ᑏ	ᑑ	ᑖ ᑫ	ᑭ	ᑯ	ᑲ	ᑮ	ᑰ	ᑳ ᒉ	ᒋ	ᒍ	ᒐ	ᒌ	ᒎ	ᒑ ᒣ	ᒥ	ᒧ	ᒪ	ᒦ	ᒨ	ᒫ ᓀ	ᓂ	ᓄ	ᓇ	ᓃ	ᓅ	ᓈ ᓭ	ᓯ	ᓱ	ᓴ	ᓰ	ᓲ	ᓵ ᔐ	ᔑ	ᔓ	ᔕ	ᔒ	ᔔ	ᔖ ᔦ	ᔨ	ᔪ	ᔭ	ᔩ	ᔫ	ᔮ ᕓ	ᕕ	ᕖ	ᕗ	ᕘ	ᕙ	ᕚ ᕞ	ᕠ	ᕢ	ᕤ	ᕥ	ᕦ	ᕧ ᐎ ᐄ ᐐ	ᐆ ᐕ ᐓ ᐗ	ᐋ ᐙ ᐧ ᑊ	ᑉ	ᣔ	ᐟ	ᑦ	ᣕ ᐠ	ᒃ	ᣖ ᐨ	ᒡ	ᣗ	ᒻ	ᣘ ᐣ	ᓐ	ᣙ	ᐢ	ᔅ	ᣚ	 ᐡ	ᔥ	ᣛ	˚	ᔾ	 ᕝ	ᕪ ᐤ ᣜ	ᣝ ᓫ	ᕑ ᐦ	ᐞ
 `
-###### local typographic variation
-Note that there is a high degree of variability in locally-preferred typographic forms in Ojibway communities that use Syllabics. This is particularly evident in northern Ontario communities, and can be seen primarily in the orientation of finals characters and their vertical positioning. 
-
+###### notes on local typographic variation
 >> This is notably the difference between the i-pos and a-pos finals glyphs.
 
 >> centered ᓐ for Rice Lake communities.
 
 ###### notes on local encoding practices
->> discuss the w-dot encoding here, sometimes it is middle dot cans (ᐧ) (ᐧ + ᐃ = ᐧᐃ), and sometimes it is the composite glyph (ᐎ).
+>> discuss the w-dot encoding here, sometimes it is middle dot cans (ᐧ) (ᐧ + ᐃ = ᐧᐃ), and sometimes it is the composite glyph (ᐎ). This would also potentially repeat for Cree communities as well.
 
 
 ## ᐊᓂᐦᔑᓂᓃᒧᐏᐣ (Anishininiimowin) (Oji-Cree)
 
 ![Oji-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198724516-d547cbf1-b4b0-458f-8c1c-94c8095417e9.png)
-
-
-###### References
 
 
 
