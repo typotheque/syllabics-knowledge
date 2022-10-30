@@ -9,7 +9,7 @@ In order to work on font development for the Canadian Syllabics, it is important
 
 The following sections provide an overview of the local typographic preferences and orthographic requirements for each individual Indigenous language community that uses the Syllabics, with the purpose of typeface design and development in mind. For each community, their local Syllabics preferences have been presented graphically in the form of their Syllabics orthography chart, accompanied by footnotes were necessary beneath the chart. 
 
-Below these charts is a subset of the required glyph set for each community. In these subsets, please note that the glyph representations will in some cases differ from the graphical representation in the orthography charts above. This is expected, as UCAS harmonizes many of the Syllabics orthographies into one unified set, although a much greater diversity of glyph representations exists within the scope of Syllabics communities. These subsets are useful for developing typefaces for specific communities, where one may not need to cover the entire UCAS encoding range, which is quite large.
+Below these charts is a subset of the required glyph set for each community. In these subsets, please note that the glyph representations will in some cases differ from the graphical representation in the orthography charts above. This is expected, as UCAS harmonizes many of the Syllabics orthographies into one unified set, although a much greater diversity of glyph representations exists within the scope of Syllabics communities. These subsets are useful for developing typefaces for specific Indigenous language communities, where one may not need to cover the entire UCAS encoding range, which is quite large.
 
 Furthermore, each section contains any relevant notes that may be applicable towards accommodating specific local typographic preferences and variations, or issues surrounding encoding.
 
@@ -20,8 +20,7 @@ Although all Ojibway language communities could use Syllabics to accurately repr
 
 
 ###### Ojibway Syllabics Subset
-`ᐁ	ᐃ	ᐅ	ᐊ	ᐄ	ᐆ	ᐋ ᐯ	ᐱ	ᐳ	ᐸ	ᐲ	ᐴ	ᐹ ᑌ	ᑎ	ᑐ	ᑕ	ᑏ	ᑑ	ᑖ ᑫ	ᑭ	ᑯ	ᑲ	ᑮ	ᑰ	ᑳ ᒉ	ᒋ	ᒍ	ᒐ	ᒌ	ᒎ	ᒑ ᒣ	ᒥ	ᒧ	ᒪ	ᒦ	ᒨ	ᒫ ᓀ	ᓂ	ᓄ	ᓇ	ᓃ	ᓅ	ᓈ ᓭ	ᓯ	ᓱ	ᓴ	ᓰ	ᓲ	ᓵ ᔐ	ᔑ	ᔓ	ᔕ	ᔒ	ᔔ	ᔖ ᔦ	ᔨ	ᔪ	ᔭ	ᔩ	ᔫ	ᔮ ᕓ	ᕕ	ᕖ	ᕗ	ᕘ	ᕙ	ᕚ ᕞ	ᕠ	ᕢ	ᕤ	ᕥ	ᕦ	ᕧ ᐎ ᐄ ᐐ	ᐆ ᐕ ᐓ ᐗ	ᐋ ᐙ ᐧ ᑊ	ᑉ	ᣔ	ᐟ	ᑦ	ᣕ ᐠ	ᒃ	ᣖ ᐨ	ᒡ	ᣗ	ᒻ	ᣘ ᐣ	ᓐ	ᣙ	ᐢ	ᔅ	ᣚ	 ᐡ	ᔥ	ᣛ	˚	ᔾ	 ᕝ	ᕪ ᐤ ᣜ	ᣝ ᓫ	ᕑ ᐦ	ᐞ
-`
+`ᐁ	ᐃ	ᐅ	ᐊ	ᐄ	ᐆ	ᐋ ᐯ	ᐱ	ᐳ	ᐸ	ᐲ	ᐴ	ᐹ ᑌ	ᑎ	ᑐ	ᑕ	ᑏ	ᑑ	ᑖ ᑫ	ᑭ	ᑯ	ᑲ	ᑮ	ᑰ	ᑳ ᒉ	ᒋ	ᒍ	ᒐ	ᒌ	ᒎ	ᒑ ᒣ	ᒥ	ᒧ	ᒪ	ᒦ	ᒨ	ᒫ ᓀ	ᓂ	ᓄ	ᓇ	ᓃ	ᓅ	ᓈ ᓭ	ᓯ	ᓱ	ᓴ	ᓰ	ᓲ	ᓵ ᔐ	ᔑ	ᔓ	ᔕ	ᔒ	ᔔ	ᔖ ᔦ	ᔨ	ᔪ	ᔭ	ᔩ	ᔫ	ᔮ ᕓ	ᕕ	ᕖ	ᕗ	ᕘ	ᕙ	ᕚ ᕞ	ᕠ	ᕢ	ᕤ	ᕥ	ᕦ	ᕧ ᐎ ᐄ ᐐ	ᐆ ᐕ ᐓ ᐗ	ᐋ ᐙ ᐧ ᑊ	ᑉ	ᣔ	ᐟ	ᑦ	ᣕ ᐠ	ᒃ	ᣖ ᐨ	ᒡ	ᣗ	ᒻ	ᣘ ᐣ	ᓐ	ᣙ	ᐢ	ᔅ	ᣚ	 ᐡ	ᔥ	ᣛ	˚	ᔾ	 ᕝ	ᕪ ᐤ ᣜ	ᣝ ᓫ	ᕑ ᐦ	ᐞ ᐀ ᙮ - . `
 ###### notes on local typographic variation
 >> This is notably the difference between the i-pos and a-pos finals glyphs.
 
