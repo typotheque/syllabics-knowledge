@@ -92,15 +92,17 @@ Although all Ojibway language communities could use Syllabics to accurately repr
 
 
 
-## ## ᑕᓀᖚ ᖚᗀᐥ  (Dane-zaa ZáágeɁ) (Beaver)
+## ᑕᓀᖚ ᖚᗀᐥ  (Dane-zaa ZáágeɁ) (Beaver)
 
 
-![Beaver-Syllabics](https://user-images.githubusercontent.com/17300547/198724645-f96f82b0-b8a4-4aef-af15-8fbc29f682f0.png)
+![Beaver-Syllabics](https://user-images.githubusercontent.com/17300547/199070859-aab403a2-2937-4200-b20f-1ef4589b778d.png)
+
 
 
 ## ᑐᑊᘁᗕᑋᗸ (Dulk wah’ke) (Carrier Syllabics)
 
-![Carrier-Syllabics](https://user-images.githubusercontent.com/17300547/198724654-e03f0c52-7ba9-4130-b5cf-e897ebb8700d.png)
+
+![Carrier-Syllabics](https://user-images.githubusercontent.com/17300547/199070885-2a190499-0264-437a-8f0d-b3ed83325eb7.png)
 
 
 
