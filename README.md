@@ -24,7 +24,7 @@ Although all Ojibway language communities could use Syllabics to accurately repr
 
 **[3]** There is variation in the preferred positioning of the w-dot in relation to the syllabic that it is modifying. Traditionally, Western Cree and Ojibwe communities place the w-dot to the right of the base syllabic, while Eastern Cree and Ojibwe communities will place the dot to the left of the syllabic, to lead the base character it is modifying. There is variation within 
 
-There is also variation in how this dot is encoded in texts between communities and individual users within communities. sometimes it is middle dot cans (ᐧ) (ᐧ + ᐃ = ᐧᐃ), and sometimes it is the composite glyph (ᐎ).
+There is also variation in how this dot is encoded in texts between communities and individual users within communities. Some users will encode the w-dot as two distinct code points: U+1427 FINAL MIDDLE DOT (ᐧ) plus the base syllabic glyph (ᐧ + ᐃ = ᐧᐃ). Others will encode these sequences of w-dot with the pre-composed base glyphs within UCAS, where w-dot and the base syllabic are treated as a composite glyph (ᐎ, ᐗ).
 
 ###### Ojibway Syllabics Subset
 `ᐁ    ᐃ    ᐅ    ᐊ    ᐄ    ᐆ    ᐋ ᐯ    ᐱ    ᐳ    ᐸ    ᐲ    ᐴ    ᐹ ᑌ    ᑎ    ᑐ    ᑕ    ᑏ    ᑑ    ᑖ ᑫ    ᑭ    ᑯ    ᑲ    ᑮ    ᑰ    ᑳ ᒉ    ᒋ    ᒍ    ᒐ    ᒌ    ᒎ    ᒑ ᒣ    ᒥ    ᒧ    ᒪ    ᒦ    ᒨ    ᒫ ᓀ    ᓂ    ᓄ    ᓇ    ᓃ    ᓅ    ᓈ ᓭ    ᓯ    ᓱ    ᓴ    ᓰ    ᓲ    ᓵ ᔐ    ᔑ    ᔓ    ᔕ    ᔒ    ᔔ    ᔖ ᔦ    ᔨ    ᔪ    ᔭ    ᔩ    ᔫ    ᔮ ᕓ    ᕕ    ᕖ    ᕗ    ᕘ    ᕙ    ᕚ ᕞ    ᕠ    ᕢ    ᕤ    ᕥ    ᕦ    ᕧ ᐎ ᐄ ᐐ    ᐆ ᐕ ᐓ ᐗ    ᐋ ᐙ ᐧ ᑊ    ᑉ    ᣔ    ᐟ    ᑦ    ᣕ ᐠ    ᒃ    ᣖ ᐨ    ᒡ    ᣗ    ᒻ    ᣘ ᐣ    ᓐ    ᣙ    ᐢ    ᔅ    ᣚ     ᐡ    ᔥ    ᣛ    ˚    ᔾ     ᕝ    ᕪ ᐤ ᣜ    ᣝ ᓫ    ᕑ ᐦ    ᐞ
