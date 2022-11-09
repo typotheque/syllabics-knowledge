@@ -18,17 +18,19 @@ Although all Ojibway language communities could use Syllabics to accurately repr
 
 ![Ojibway-Syllabics](https://user-images.githubusercontent.com/17300547/199098340-7e85f27a-89b7-4e12-85e3-9435af13a1b2.png)
 
+**[1]** A major distinction towards local typographic preferences amongst Northern Ontario Ojibwe communities is in the preferred form or orientation of finals characters. This is notably the difference between Western and Eastern Cree finals forms, and the i-pos and a-pos orientation scheme of finals glyphs. This can vary between communities, and between users within the same community. Some northern Ontario Ojibwe communities may follow the form of the Western Cree finals shapes, while others the Eastern Cree. For those who use the Eastern Cree finals forms, they may follow either the a-vowel position or i-vowel position orientation, a convention unique to Ontario Ojibwe Syllabics. There can also be mixing of these two orientation positions within the same text. Unicode encodes both the a- and i- position finals orientations to accommodate these preferences.
+
+**[2]** Note that there is a local preference for a horizontally-centered n final (ᓐ) for some Northwestern Ojibwe communities.
+
+**[3]** There is variation in the preferred positioning of the w-dot in relation to the syllabic that it is modifying. Traditionally, Western Cree and Ojibwe communities place the w-dot to the right of the base syllabic, while Eastern Cree and Ojibwe communities will place the dot to the left of the syllabic, to lead the base character it is modifying. There is variation within 
+
+There is also variation in how this dot is encoded in texts between communities and individual users within communities. sometimes it is middle dot cans (ᐧ) (ᐧ + ᐃ = ᐧᐃ), and sometimes it is the composite glyph (ᐎ).
 
 ###### Ojibway Syllabics Subset
-`ᐁ	ᐃ	ᐅ	ᐊ	ᐄ	ᐆ	ᐋ ᐯ	ᐱ	ᐳ	ᐸ	ᐲ	ᐴ	ᐹ ᑌ	ᑎ	ᑐ	ᑕ	ᑏ	ᑑ	ᑖ ᑫ	ᑭ	ᑯ	ᑲ	ᑮ	ᑰ	ᑳ ᒉ	ᒋ	ᒍ	ᒐ	ᒌ	ᒎ	ᒑ ᒣ	ᒥ	ᒧ	ᒪ	ᒦ	ᒨ	ᒫ ᓀ	ᓂ	ᓄ	ᓇ	ᓃ	ᓅ	ᓈ ᓭ	ᓯ	ᓱ	ᓴ	ᓰ	ᓲ	ᓵ ᔐ	ᔑ	ᔓ	ᔕ	ᔒ	ᔔ	ᔖ ᔦ	ᔨ	ᔪ	ᔭ	ᔩ	ᔫ	ᔮ ᕓ	ᕕ	ᕖ	ᕗ	ᕘ	ᕙ	ᕚ ᕞ	ᕠ	ᕢ	ᕤ	ᕥ	ᕦ	ᕧ ᐎ ᐄ ᐐ	ᐆ ᐕ ᐓ ᐗ	ᐋ ᐙ ᐧ ᑊ	ᑉ	ᣔ	ᐟ	ᑦ	ᣕ ᐠ	ᒃ	ᣖ ᐨ	ᒡ	ᣗ	ᒻ	ᣘ ᐣ	ᓐ	ᣙ	ᐢ	ᔅ	ᣚ	 ᐡ	ᔥ	ᣛ	ᣞ	ᔾ	 ᕝ	ᕪ ᐤ ᣜ	ᣝ ᓫ	ᕑ ᐦ	ᐞ ᐀ ᙮ - . `
+`ᐁ    ᐃ    ᐅ    ᐊ    ᐄ    ᐆ    ᐋ ᐯ    ᐱ    ᐳ    ᐸ    ᐲ    ᐴ    ᐹ ᑌ    ᑎ    ᑐ    ᑕ    ᑏ    ᑑ    ᑖ ᑫ    ᑭ    ᑯ    ᑲ    ᑮ    ᑰ    ᑳ ᒉ    ᒋ    ᒍ    ᒐ    ᒌ    ᒎ    ᒑ ᒣ    ᒥ    ᒧ    ᒪ    ᒦ    ᒨ    ᒫ ᓀ    ᓂ    ᓄ    ᓇ    ᓃ    ᓅ    ᓈ ᓭ    ᓯ    ᓱ    ᓴ    ᓰ    ᓲ    ᓵ ᔐ    ᔑ    ᔓ    ᔕ    ᔒ    ᔔ    ᔖ ᔦ    ᔨ    ᔪ    ᔭ    ᔩ    ᔫ    ᔮ ᕓ    ᕕ    ᕖ    ᕗ    ᕘ    ᕙ    ᕚ ᕞ    ᕠ    ᕢ    ᕤ    ᕥ    ᕦ    ᕧ ᐎ ᐄ ᐐ    ᐆ ᐕ ᐓ ᐗ    ᐋ ᐙ ᐧ ᑊ    ᑉ    ᣔ    ᐟ    ᑦ    ᣕ ᐠ    ᒃ    ᣖ ᐨ    ᒡ    ᣗ    ᒻ    ᣘ ᐣ    ᓐ    ᣙ    ᐢ    ᔅ    ᣚ     ᐡ    ᔥ    ᣛ    ˚    ᔾ     ᕝ    ᕪ ᐤ ᣜ    ᣝ ᓫ    ᕑ ᐦ    ᐞ
+` 
 
-###### notes on local typographic variation
-**[1]** This is notably the difference between the i-pos and a-pos finals glyphs.
 
-**[2]** centered ᓐ for Rice Lake communities.
-
-###### notes on local encoding practices
-**[3]** discuss the w-dot encoding here, sometimes it is middle dot cans (ᐧ) (ᐧ + ᐃ = ᐧᐃ), and sometimes it is the composite glyph (ᐎ). This would also potentially repeat for Cree communities as well.
 
 
 ## ᐊᓂᐦᔑᓂᓃᒧᐏᐣ (Anishininiimowin) (Oji-Cree)
