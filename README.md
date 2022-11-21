@@ -54,9 +54,11 @@ There is variation, though, in how `w dot` is encoded in texts between communiti
 
 
 ## ᓇᐦᑲᐌᒧᐎᐣ (Nakawêmowin) (Western Ojibwe)
-
+Western Ojibwe is the dialect of Ojibwe spoken by the communities west of Ontario. As a result of their proximity to neighbouring Western Cree communities, the orthographic and typographic conventions tend to follow verry closely that of the Plains and Western Swampy Cree Syllabics, where `w dot` is positioned right of the base syllabic. Note that Western Ojibwe requires the `sh series (ᔐ ᔑ ᔓ ᔕ)` in it's orthographic repertoire – as does Oji-Cree – not needed in the Cree language orthographies.
 
 ![Western-Ojibwe-Syllabics](https://user-images.githubusercontent.com/17300547/198724625-1364a42d-901b-4517-a12b-039831bac3ca.png)
+
+❶ While Western Ojibwe typically follows the style Round form style of Syllabicsm, consistent with other Western Cree communities, it is possible that these communities prefer to have the glyphs `ᔓ` and `ᔕ` represented in the Square form style, while Eastern Ojibwe and Cree communities would represent this glyph in the Round form style.
 
 
 ###### Western Ojibwe Syllabics Subset
