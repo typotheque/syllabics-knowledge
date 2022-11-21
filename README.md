@@ -82,10 +82,21 @@ The historical Blackfoot Syllabics encoded in UCAS are no longer in use by the c
 
 ## ᓀᐦᐃᔭᐍᐏᐣ (nêhiyawêwin) (Plains Cree)
 
+Plains Cree communities comprise the largest group of speakers who use Syllabics as their primary and preferred writing system, and have a long and vibrant use of Syllabics. Plains Cree Syllabics follow the Round form style, although historically, the Square form style would have also been employed in 19th century and early-to-mid 20th century texts. Note that Plains Cree communities may use the Syllabics hyphen `U+1400 (᐀) CANADIAN SYLLABICS HYPHEN and the Syllabics full stop `U+166E (᙮) CANADIAN SYLLABICS FULL STOP`, or, the Latin script representations and encoding for these characters.
+
 ![Plains-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723126-9f012023-f062-4f4d-9de5-1949be50b803.png)
+
+❶ Plains Cree Syllabics users may encode `w dot` using may encode the `w dot` as `U+1427 FINAL MIDDLE DOT (ᐧ)` plus the base syllabic glyph (`ᐧ` + `ᐃ` = `ᐧᐃ`) or with the pre-composed base glyphs within UCAS, where `w dot` and the base syllabic are treated as a composite glyph (`ᐎ`, `ᐗ`).
+
+❷ Although some system-level Syllabics typefaces and historical texts have represented `U+1425 (ᐤ) CANADIAN SYLLABICS FINAL RING` at horizontally centered at the mid line, contemporary texts and communities show the preference for this glyph to be vertically positioned at the top line, consistent with the positioning of all other finals.
+
+❸ There is variation within Plains Cree communities in terms of the representation of the `y series` final character and how it transforms when paired with the `w dot`. The common form of this in Plains Cree is a plus mark `U+1429 (ᐩ)`; however, some communities prefer to use a superposed dot mark `U+141D (ᐝ)`, which is graphically distinct from the common `y final`. It should be noted that this alternative `y final` form should take the shape of a closed `w dot mark`, as well as an open, small ring character, rather than two open ring characters. 
+
+******** There are multiple representations of `U+141D (ᐝ)`. It has been represented in common system-level typefaces **************
 
 ###### Plains Cree Syllabics Subset
 `ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐍ ᐏ ᐑ ᐓ ᐕ ᐘ ᐚ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᐧ  ᐤ  ᑊ  ᐟ  ᐠ  ᐨ  ᐨ  ᐣ  ᐢ  ᐩ  ᓬ  ᕒ  ᐦ  ᕁ  ᐝ ᛬ ᐀ ᙮`
+
 
 
 ## ᓀᐦᐃᖬᐍᐏᐣ (nīhithawīwin) (Woods Cree)
