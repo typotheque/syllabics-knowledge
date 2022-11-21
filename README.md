@@ -40,8 +40,8 @@ There is also variation in how this dot is encoded in texts between communities 
 
 Orthographically and typographically speaking, Oji-Cree follows the same general pattern as Western Cree and Ojibwe Syllabics: `w dot` positioned to the right, following the syllabic, and employing the Western Cree finals forms. The difference from Cree being that Oji-Cree requires the `sh series (ᔐ ᔑ ᔓ ᔕ)` in its orthography. Additionally, Oji-Cree may use Latin script full stop and hyphen in contemporary texts, rather than the local Syllabics characters.
 
+![Oji-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/203162141-18a99ee9-149a-4322-b74c-c2943c9c0a20.png)
 
-![Oji-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198724516-d547cbf1-b4b0-458f-8c1c-94c8095417e9.png)
 
 ❶ While variation exists within Northwestern Ojibway communities in regards to the positioning of the `w dot` between users in contemporary texts, Oji-Cree users always follow the Western Cree convention of placing `w dot` to the right of the modified base syllabic.
 
