@@ -28,7 +28,7 @@ Although all Ojibway language communities could use Syllabics to accurately repr
 
 ❸ Note that this small ring character `U+18DE (ᣞ)` is often depicted as a raised glyph, sitting above the top line in some common, system-level Syllabics typefaces. This is a finals character and should be vertically positioned and drawn to work in harmony with the other finals glyphs, as in the example below:
 
-![small final ring_SyL-Knowledge-figures](https://user-images.githubusercontent.com/17300547/203865591-c7b35564-cd10-42b4-a846-f1d0acb79d3d.png)
+<img src="https://user-images.githubusercontent.com/17300547/203865591-c7b35564-cd10-42b4-a846-f1d0acb79d3d.png" width="760">
 
 
 This glyph is used in several other Algonquian Syllabics using languages, and should appear in the same manner for all language communities.
@@ -131,8 +131,7 @@ The Swampy Cree dialect of the larger Cree-Montagnais-Naskapi dialect continuum 
 
 ❶ Note that Eastern Swampy Cree places the `w dot` mark to the left of the base syllabic it modifies, as in the above chart representation. There may be variation in how the `w dot` is encoded (see Ojibway, Oji-Cree Syllabics, above), however, it is important to provide support for the pre-composed characters provided in Unicode that position the dot to the left of the syllabic, as some users may encode their texts this way.
 
-❷ The only major graphical difference between Eastern and Western Swampy Cree is in an alternative form for the `y final (ᔾ)`. The standard form for the `y final` in Eastern Swampy Cree is U+153E (ᔾ), which is the only finals character that deviatives from the Western Cree finals forms in the orthography. Some communities may prefer to use the final small ring character `U+18DE (ᣞ)`.
-
+❷ The only major graphical difference between Eastern and Western Swampy Cree is in an alternative form for the `y final (ᔾ)`. The standard form for the `y final` in Eastern Swampy Cree is U+153E (ᔾ), which is the only finals character that deviatives from the Western Cree finals forms in the orthography. Some communities may prefer to use the final small ring character `U+18DE (ᣞ)`. For the correct glyph representation of this character, please see figure `3` in Ojibway Syllabics. 
 
 
 ###### Eastern Swampy Cree Syllabics Subset
@@ -141,8 +140,15 @@ The Swampy Cree dialect of the larger Cree-Montagnais-Naskapi dialect continuum 
 
 
 ## ᐃᓂᓃᒧᐏᐣ (Ininîmowin) (Western Swampy Cree)
+Western Swampy Cree is the other half of the Swampy Cree dialect of Cree. It is noted as being the first language known to have been represented with an orthography that we recongnize as Syllabics today, being the language that was printed in the 1841 _ᓇᑲᒧᐏᓇ ᐅᒪᐢᑮᑯᐘ ᐅᑎᑘᐏᓂᐘᐤ / Swampy Cree Hymn Book_, printed by James Evans at present-day Norway House, Manitoba. This orthography follows the same general conventions as the 1841 text, following what would become the Western Cree pattern of using finals distinct from the base syllabic glyphs, which contrasts the convention used by Eastern Cree communities (which uses a superscript version of the `a vowel` from a given series).
+
 
 ![Western-Swampy-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723422-8fe98fcf-37b1-4e51-bdab-f5c0d567f0d0.png)
+
+
+❶ Note that Western Swampy Cree places the `w dot` mark to the right of the base syllabic it modifies, following the Western Cree pattern. As in Eastern Swampy Cree, ensure that the corresponding pre-composed Syllabics characters provided in Unicode that follow this pattern are available for those users who encode their texts this way.
+
+❷ Note that, while most users will use Western Cree finals, some users may use the Eastern Cree Syllabics form for the `y series final`, U+153E (ᔾ). Both of these glyphs should be available in a typeface developed for this community.
 
 
 ###### Western Swampy Cree Syllabics Subset
@@ -151,8 +157,10 @@ The Swampy Cree dialect of the larger Cree-Montagnais-Naskapi dialect continuum 
 
 
 ## ᐃᓕᓖᒧᐎᓐ (Ililîmowin) (Moose Cree)
+Moose Cree language speakers adopted the use of Syllabics in the mid-19th century, and it has been the primary way of writing Moose Cree since to the present day. Moose Cree was the primary dialect that diverged from the Western Cree pattern of using graphically-distinct finals characters from the base syllabics in a given series, and rather, using a superscript version of the `a vowel` from a given series, introduced by printer John Horden. Moose Cree follows the standard Syllabics representation of the Round form style, and there are no local typographic or encoding preferences that require accommodating.
 
 ![Moose-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723524-b68686fa-e3c6-44ce-acc2-d950c32de0b9.png)
+
 
 ###### Moose Cree Syllabics Subset
 `ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐌ ᐎ ᐐ ᐒ ᐔ ᐗ ᐙ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᕓ ᕕ ᕖ ᕗ ᕘ ᕙ ᕚ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᕞ ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒣ ᒥ ᒦ ᒧ ᒨ ᒪ ᒫ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓓ ᓕ ᓖ ᓗ ᓘ ᓚ ᓛ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔐ ᔑ ᔒ ᔓ ᔔ ᔕ ᔖ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᕃ ᕆ ᕇ ᕈ ᕉ ᕋ ᕌ ᢱ ᢲ ᢰ ᢳ ᢵ ᢴ ᢷ ᢸ ᢺ ᢼ ᢿ ᢾ ᣁ ᣀ ᣄ ᣃ ᣅ ᐤ ᑉ ᕝ ᑦ ᕪ ᒃ ᒡ ᒻ ᓐ ᓪ ᔅ ᔥ ᔾ ᕐ ᐦ ᒽ ᔉ ᐀ ᙮`
@@ -160,11 +168,13 @@ The Swampy Cree dialect of the larger Cree-Montagnais-Naskapi dialect continuum 
 
 ## ᐄᓅ ᐊᔨᒨᓐ  (Înû Ayimûn) / ᐄᔨᔫ ᐊᔨᒨᓐ (Îyiyû Ayimûn) (East James Bay Cree) 
 
-East James Bay Cree (sometimes referred to as East Cree) is an umbrella term to refer to a collection of subdialects that share close linguistic features. These subdialects are primarily the coastal James Bay Cree communities, and those inland. Orthographically speaking, these sub dialects are all represented by the same system, and align on typographic preferences.
+East James Bay Cree (sometimes referred to as East Cree) is an umbrella term to refer to a collection of subdialects that share close linguistic features. These subdialects are primarily the coastal James Bay Cree communities, and those inland. Orthographically speaking, these sub dialects are all represented by the same system, and align on typographic and encoding preferences. The East James Bay Cree Syllabics follow the standard Syllabics representation in Unicode of the Round form style, with finals glyphs positioned vertically at the top line.
 
 
 ![East-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198727876-24ec7af1-ab3b-4e4d-8228-088e52e730ce.png)
 
+
+❶ Note that it is important in the East James Bay Cree Syllabics to have the `sh series (ᔐ ᔓ ᔕ ᔑ)` [represented in the Round form style and orientation](https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/syllabic-font-orientation/), as shown in the below comparative figure:
 
 <img src="https://user-images.githubusercontent.com/17300547/203816901-f9bd6937-103e-481b-afb3-adaba34313f4.png" width="800">
 
