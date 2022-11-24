@@ -17,7 +17,7 @@ Furthermore, each section contains any relevant notes that may be applicable tow
 Although all Ojibway language communities could use Syllabics to accurately represent their languages, it is important to note that not all Ojibway communtiies use this writing system. It is particularly the communities of northern Ontario and western Ojibway dialect speakers of Manitoba and Saskatchewan that have a current use of Syllabics. All other communities use a number of roman orthography systems to write their local dialects, including Algonquin, Odawa, Eastern Ojibwe, and Central Ojibwe. There is a relatively high degree of variation in the local typographic and orthographic preferences for Ojibway Syllabics between communities, particularly for communities in northern Ontario. This is particularly evident in northern Ontario communities, and can be seen primarily in the form and orientation of finals characters and their vertical positioning. The following chart shows the preferred representation of the Ojibway Syllabics orthography:
 
 
-![Ojibway-Syllabics](https://user-images.githubusercontent.com/17300547/203140290-fc2d3876-7cde-4455-af8c-30646ee1826d.png)
+![Ojibway-Syllabics](https://user-images.githubusercontent.com/17300547/203865020-bb64395c-ffa2-4662-97ac-51b41956ad59.png)
 
 
 ❶ A major distinction towards local typographic preferences amongst Northern Ontario Ojibwe communities is in the preferred form or orientation of finals characters. This is notably the difference between Western and Eastern Cree finals forms, and the i-pos and a-pos orientation scheme of finals glyphs. This can vary between communities, and between users within the same community. Some northern Ontario Ojibwe communities may follow the form of the Western Cree finals shapes, while others the Eastern Cree. For those who use the Eastern Cree finals forms, they may follow either the `a vowel (ᐊ ᐸ ᑲ ᓇ)` position or `i vowel (ᐃ ᐱ ᑭ ᓂ)` position orientation, a convention unique to Ontario Ojibwe Syllabics. There can also be mixing of these two orientation positions within the same text. Unicode encodes both the `a` and `i` position finals orientations to accommodate these preferences.
@@ -26,8 +26,14 @@ Although all Ojibway language communities could use Syllabics to accurately repr
 
 <img src="https://user-images.githubusercontent.com/17300547/203145739-5a0d22d9-1f4e-473a-a854-27bfab760007.png" width="700">
 
+❸ Note that this small ring character `U+18DE (ᣞ)` is often depicted as a raised glyph, sitting above the top line in some common, system-level Syllabics typefaces. This is a finals character and should be vertically positioned and drawn to work in harmony with the other finals glyphs, as in the example below:
 
-❸ There is variation in the preferred positioning of the `w dot` in relation to the syllabic that it is modifying. Traditionally, Western Cree and Ojibwe communities place the w-dot to the right of the base syllabic, while Eastern Cree and Ojibwe communities will place the dot to the left of the syllabic, to lead the base character it is modifying. There is variation within 
+![small final ring_SyL-Knowledge-figures](https://user-images.githubusercontent.com/17300547/203865591-c7b35564-cd10-42b4-a846-f1d0acb79d3d.png)
+
+
+This glyph is used in several other Algonquian Syllabics using languages, and should appear in the same manner for all language communities.
+
+❹ There is variation in the preferred positioning of the `w dot` in relation to the syllabic that it is modifying. Traditionally, Western Cree and Ojibwe communities place the w-dot to the right of the base syllabic, while Eastern Cree and Ojibwe communities will place the dot to the left of the syllabic, to lead the base character it is modifying. There is variation within 
 
 There is also variation in how this dot is encoded in texts between communities and individual users within communities. Some users will encode the `w dot` as two distinct code points: `U+1427 FINAL MIDDLE DOT (ᐧ)` plus the base syllabic glyph (`ᐧ` + `ᐃ` = `ᐧᐃ`). Others will encode these sequences of `w dot` with the pre-composed base glyphs within UCAS, where `w dot` and the base syllabic are treated as a composite glyph (`ᐎ`, `ᐗ`).
 
@@ -110,6 +116,7 @@ This alternative combination is not encoded in Unicode, and must be implemented 
 
 
 ## ᓀᐦᐃᖬᐍᐏᐣ (nīhithawīwin) (Woods Cree)
+Woods Cree communities have a strong preference for using Syllabics as their primary writing system and, as in Plains Cree communities, have long history of Syllabics use. The Woods Cree Syllabics typically follow the standard Syllabics glyph representations of the Round form style, and there are no outstanding local typographic or encoding preferences that require accommodating.
 
 ![Woods-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723194-3e930b9b-8617-4f26-85bb-fce722a9ba60.png)
 
@@ -118,12 +125,18 @@ This alternative combination is not encoded in Unicode, and must be implemented 
 
 
 ## ᐃᓂᓂᐎ ᐃᔑᑭᔗᐎᐣ (Ininiwi-Išikišwêwin) (Eastern Swampy Cree)
+The Swampy Cree dialect of the larger Cree-Montagnais-Naskapi dialect continuum is broken into two groups: Eastern Swampy Cree, spoken in northern Ontario, and Western Swampy Cree, spoken in Northern Manitoba. Both of these dialects use Syllabics as a primary means of writing their languages, and they typically follow the standardized Syllabics glyph representations found in Unicode, mainly that of the Round form style. Eastern Swampy Cree mixes Eastern and Western Cree Syllabics conventions in a similar way as Oji-Cree, where it uses Western Cree finals characters, and the Eastern Cree practice of placing the `w dot` to the left of the base syllabic that it is modifying.
 
 ![Eastern-Swampy-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723259-6d7622aa-4fb4-4a10-bfc3-d7c75d4f5ba1.png)
 
+❶ Note that Eastern Swampy Cree places the `w dot` mark to the left of the base syllabic it modifies, as in the above chart representation. There may be variation in how the `w dot` is encoded (see Ojibway, Oji-Cree Syllabics, above), however, it is important to provide support for the pre-composed characters provided in Unicode that position the dot to the left of the syllabic, as some users may encode their texts this way.
+
+❷ The only major graphical difference between Eastern and Western Swampy Cree is in an alternative form for the `y final (ᔾ)`. The standard form for the `y final` in Eastern Swampy Cree is U+153E (ᔾ), which is the only finals character that deviatives from the Western Cree finals forms in the orthography. Some communities may prefer to use the final small ring character `U+18DE (ᣞ)`.
+
+
 
 ###### Eastern Swampy Cree Syllabics Subset
-`ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐍ ᐏ ᐑ ᐓ ᐕ ᐘ ᐚ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒣ ᒥ ᒦ ᒧ ᒨ ᒪ ᒫ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓓ ᓕ ᓖ ᓗ ᓘ ᓚ ᓛ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔐ ᔑ ᔒ ᔓ ᔔ ᔕ ᔖ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᕃ ᕆ ᕇ ᕈ ᕉ ᕋ ᕌ ᐤ  ᑊ  ᐟ  ᐠ  ᐨ  ᒼ  ᐣ  ᐪ  ᐢ  ᐡ  ᕀ ᔾ ᕒ  ᐦ  ᕁ ᐀ ᙮`
+`ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐍ ᐏ ᐑ ᐓ ᐕ ᐘ ᐚ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒣ ᒥ ᒦ ᒧ ᒨ ᒪ ᒫ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓓ ᓕ ᓖ ᓗ ᓘ ᓚ ᓛ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔐ ᔑ ᔒ ᔓ ᔔ ᔕ ᔖ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᕃ ᕆ ᕇ ᕈ ᕉ ᕋ ᕌ ᐤ  ᑊ  ᐟ  ᐠ  ᐨ  ᒼ  ᐣ  ᐪ  ᐢ  ᐡ  ᕀ ᔾ ᣞ ᕒ  ᐦ  ᕁ ᐀ ᙮`
 
 
 
