@@ -56,9 +56,12 @@ There is variation, though, in how `w dot` is encoded in texts between communiti
 ## ᓇᐦᑲᐌᒧᐎᐣ (Nakawêmowin) (Western Ojibwe)
 Western Ojibwe is the dialect of Ojibwe spoken by the communities west of Ontario. As a result of their proximity to neighbouring Western Cree communities, the orthographic and typographic conventions tend to follow verry closely that of the Plains and Western Swampy Cree Syllabics, where `w dot` is positioned right of the base syllabic. Note that Western Ojibwe requires the `sh series (ᔐ ᔑ ᔓ ᔕ)` in it's orthographic repertoire – as does Oji-Cree – not needed in the Cree language orthographies.
 
-![Western-Ojibwe-Syllabics](https://user-images.githubusercontent.com/17300547/198724625-1364a42d-901b-4517-a12b-039831bac3ca.png)
+![Western-Ojibwe-Syllabics](https://user-images.githubusercontent.com/17300547/203817639-fb27162c-38fa-4264-9795-180229775729.png)
 
-❶ While Western Ojibwe typically follows the style Round form style of Syllabicsm, consistent with other Western Cree communities, it is possible that these communities prefer to have the glyphs `ᔓ` and `ᔕ` represented in the Square form style, while Eastern Ojibwe and Cree communities would represent this glyph in the Round form style.
+
+❶ While Western Ojibwe typically follows the style Round form style of Syllabics, consistent with other Western Cree communities, it is possible that users prefer to have the glyphs `ᔓ` and `ᔕ` represented in the Square form style, while Eastern Ojibwe and Cree communities would represent this glyph in the Round form style, illustrated below:
+
+<img src="https://user-images.githubusercontent.com/17300547/203816901-f9bd6937-103e-481b-afb3-adaba34313f4.png" width="800">
 
 
 ###### Western Ojibwe Syllabics Subset
@@ -114,9 +117,6 @@ This alternative combination is not encoded in Unicode, and must be implemented 
 `ᐧ ᐁ ᐃ ᐅ ᐆ ᐊ ᐋ ᐁᐧ ᐃᐧ ᐅᐧ ᐆᐧ ᐊᐧ ᐋᐧ ᐯ ᐱ ᐳ ᐴ ᐸ ᐹ ᑌ ᑎ ᑐ ᑑ ᑕ ᑖ ᑫ ᑭ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒍ ᒎ ᒐ ᒑ ᒣ ᒥ ᒧ ᒨ ᒪ ᒫ ᓀ ᓂ ᓄ ᓅ ᓇ ᓈ ᓭ ᓯ ᓱ ᓲ ᓴ ᓵ ᔦ ᔨ ᔪ ᔫ ᔭ ᔮ ᖧ ᖨ ᖪ ᖫ ᖬ ᖭ ᐤ ᑊ ᐟ ᐠ ᐨ ᒼ ᐣ ᐢ ᕀ ᙾ ᓬ ᕒ ᐦ ᕁ ᐀ ᙮`
 
 
-
-
-
 ## ᐃᓂᓂᐎ ᐃᔑᑭᔗᐎᐣ (Ininiwi-Išikišwêwin) (Eastern Swampy Cree)
 
 ![Eastern-Swampy-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723259-6d7622aa-4fb4-4a10-bfc3-d7c75d4f5ba1.png)
@@ -151,6 +151,10 @@ East James Bay Cree (sometimes referred to as East Cree) is an umbrella term to 
 
 
 ![East-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198727876-24ec7af1-ab3b-4e4d-8228-088e52e730ce.png)
+
+
+<img src="https://user-images.githubusercontent.com/17300547/203816901-f9bd6937-103e-481b-afb3-adaba34313f4.png" width="800">
+
 
 
 ###### East James Bay Cree Syllabics Subset
