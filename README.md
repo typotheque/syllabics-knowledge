@@ -90,9 +90,16 @@ Plains Cree communities comprise the largest group of speakers who use Syllabics
 
 ❷ Although some system-level Syllabics typefaces and historical texts have represented `U+1425 (ᐤ) CANADIAN SYLLABICS FINAL RING` at horizontally centered at the mid line, contemporary texts and communities show the preference for this glyph to be vertically positioned at the top line, consistent with the positioning of all other finals.
 
-❸ There is variation within Plains Cree communities in terms of the representation of the `y series` final character and how it transforms when paired with the `w dot`. The common form of this in Plains Cree is a plus mark `U+1429 (ᐩ)`; however, some communities prefer to use a superposed dot mark `U+141D (ᐝ)`, which is graphically distinct from the common `y final`. It should be noted that this alternative `y final` form should take the shape of a closed `w dot mark`, as well as an open, small ring character, rather than two open ring characters. 
+❸ There is variation within Plains Cree communities in terms of the representation of the `y series` final character and how it transforms when paired with the `w dot`. The common form of this in Plains Cree is a plus mark `U+1429 (ᐩ)`; however, some communities prefer to use a superposed dot mark `U+141D (ᐝ)`, which is graphically distinct from the common `y final`. It should be noted that this alternative `y final` form (see example 2 in the below image) should be represented as a combination of a closed `w dot mark` on the bottom, and an open, small ring character at the top, rather than two open ring characters, as is shown in some general, system-level typefaces:
 
-******** There are multiple representations of `U+141D (ᐝ)`. It has been represented in common system-level typefaces **************
+<img src="https://user-images.githubusercontent.com/17300547/203813233-91eb71e0-955e-4f9a-9f70-963bea4a0cdb.png" width="820">
+
+There is also variety in the way that the `y final` transforms when it preceeds the `w dot` modifier. The general w + y final sequence is represented by two inline characters, `U+1427 (ᐧ)` + `U+1429 (ᐩ)`. In some communities, this sequence is preferred to be graphically represented by a combination of two stacked `w dot` marks, with the lower dot taking the same position as `w dot`, and the second dot, above, positioned at the top line:
+
+<img src="https://user-images.githubusercontent.com/17300547/203815106-05711ef8-676d-4959-8268-2b9c8250e4b4.png" width="820">
+
+This alternative combination is not encoded in Unicode, and must be implemented in any given Syllabics typeface as an alternative glyph, and mapped in a way that agrees with the input method of the client or community members who will use the typeface.
+
 
 ###### Plains Cree Syllabics Subset
 `ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐍ ᐏ ᐑ ᐓ ᐕ ᐘ ᐚ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᐧ  ᐤ  ᑊ  ᐟ  ᐠ  ᐨ  ᐨ  ᐣ  ᐢ  ᐩ  ᓬ  ᕒ  ᐦ  ᕁ  ᐝ ᛬ ᐀ ᙮`
