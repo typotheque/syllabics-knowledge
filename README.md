@@ -12,6 +12,9 @@ The following sections provide an overview of the local typographic preferences 
 Below these charts is a subset of the required glyph set for each community. In these subsets, please note that the glyph representations will in some cases differ from the graphical representation in the orthography charts above. This is expected, as UCAS harmonizes many of the Syllabics orthographies into one unified set, although a much greater diversity of glyph representations exists within the scope of Syllabics communities. These subsets are useful for developing typefaces for specific Indigenous language communities, where one may not need to cover the entire UCAS encoding range, which is quite large.
 
 Furthermore, each section contains any relevant notes that may be applicable towards accommodating specific local typographic preferences and variations, or issues surrounding encoding.
+<br />
+<br />
+<br />
 
 ## ᐊᓂᐦᔑᓈᐯᒧᐎᓐ / Anishinaabemowin (Ojibway)
 Although all Ojibway language communities could use Syllabics to accurately represent their languages, it is important to note that not all Ojibway communtiies use this writing system. It is particularly the communities of northern Ontario and western Ojibway dialect speakers of Manitoba and Saskatchewan that have a current use of Syllabics. All other communities use a number of roman orthography systems to write their local dialects, including Algonquin, Odawa, Eastern Ojibwe, and Central Ojibwe. There is a relatively high degree of variation in the local typographic and orthographic preferences for Ojibway Syllabics between communities, particularly for communities in northern Ontario. This is particularly evident in northern Ontario communities, and can be seen primarily in the form and orientation of finals characters and their vertical positioning. The following chart shows the preferred representation of the Ojibway Syllabics orthography:
