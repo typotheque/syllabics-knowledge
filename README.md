@@ -295,6 +295,7 @@ The Dakelh Syllabics should be represented in the same manner as the Square Form
 
 ❸ This character, which represents the foreign loan sound `/f/` for rendering foreign loan words in Dakelh (Carrier), is encoded by the community as `U+1DA3 (ᶣ) MODIFIER LETTER SMALL TURNED H`. This glyph should be represented to match the graphic style of the other Dakelh Syllabics finals, and it should also be positioned at the mid line. 
 > Note that this glyph may be shared with other orthgraphies and uses within the same type family, or, may be represented in general text environments in a different style and position.
+<br />
 
 ❹ Dakelh (Carrier) Syllabics uses the modifier `U+18DF (ᣟ) ... SYLLABICS FINAL RAISED DOT`, which marks the glottal stop in the Dakelh language. The vertical position of this glyph is often incorrectly represented in common system-level typefaces. In contrast to the other finals glyphs in the Dakelh Syllabics, it should sit at the top line, and not floating above, the full height of the syllabic glyphs, as it is intended to harmonize with the general rhythm of Syllabics texts.
 
@@ -305,38 +306,65 @@ The Dakelh Syllabics should be represented in the same manner as the Square Form
 ###### Dakelh (Carrier) Syllabics Subset
 `ᐊ ᐅ ᐈ ᐉ ᐃ ᐁ ᐸ ᐳ ᐶ ᐷ ᐱ ᐯ ᗏ ᗌ ᗍ ᗎ ᗋ ᗊ ᗉ ᗆ ᗇ ᗈ ᗅ ᗄ ᗕ ᗒ ᗓ ᗔ ᗑ ᗐ ᗛ ᗘ ᗙ ᗚ ᗗ ᗖ ᑕ ᑐ ᑓ ᑔ ᑎ ᑌ ᗡ ᗞ ᗟ ᗠ ᗝ ᗜ ᗧ ᗤ ᗥ ᗦ ᗣ ᗢ ᗭ ᗪ ᗫ ᗬ ᗩ ᗨ ᗴ ᗱ ᗲ ᗳ ᗰ ᗯ ᗺ ᗷ ᗸ ᗹ ᗶ ᗵ ᘀ ᗽ ᗾ ᗿ ᗼ ᗻ ᘇ ᘄ ᘅ ᘆ ᘃ ᘂ ᘍ ᘊ ᘋ ᘌ ᘉ ᘈ ᘓ ᘐ ᘑ ᘒ ᘏ ᘎ ᘛ ᘗ ᘘ ᘙ ᘖ ᘔ ᘡ ᘞ ᘟ ᘠ ᘝ ᘜ ᘧ ᘤ ᘥ ᘦ ᘣ ᘢ ᘭ ᘪ ᘫ ᘬ ᘩ ᘨ ᘳ ᘰ ᘱ ᘲ ᘯ ᘮ ᘹ ᘶ ᘷ ᘸ ᘵ ᘴ ᘿ ᘼ ᘽ ᘾ ᘻ ᘺ ᙅ ᙂ ᙃ ᙄ ᙁ ᙀ ᙍ ᙊ ᙋ ᙌ ᙉ ᙈ ᙓ ᙐ ᙑ ᙒ ᙏ ᙎ ᙙ ᙖ ᙗ ᙘ ᙕ ᙔ ᙠ ᙝ ᙞ ᙟ ᙜ ᙛ ᙦ ᙣ ᙤ ᙥ ᙢ ᙡ ᙬ ᙩ ᙪ ᙫ ᙨ ᙧ ᙬ ᙩ ᙪ ᙫ ᙨ ᙧ ᐪ ᗮ ᐟ ᐠ ᘁ ᐣ ᓑ ᒼ ᑊ ᒡ ᙆ ᙇ ᔆ ᣵ ᙚ ᐩ ᶣ ᣟ - .`
 
-
+<br />
+<br />
+<br />
 
 
 ## ᓴᔨᓯ ᑌᓀ (Saı́yısı́ dëne) (Sayisi Dene)
-
+The Sayisi Dene Syllabics are [actively used within the community today](http://skfn.ca/wp-content/uploads/2020/06/Sayisi-Dene-First-Nation.pdf), and follow the typographic pattern of the Dene Syllabics in it's use of the Square Form Syllabics style, which affects the following glyphs: `ᗃ ᗀ ᗁ ᗂ ᣬ ᑲ ᑫ ᑭ ᑯ ᑰ ᕍ ᕃ ᕄ ᕊ ᣡ ᒪ ᒣ ᒥ ᒧ ᒨ ᓇ ᓀ ᓂ ᓄ ᓅ ᓴ ᓭ ᓯ ᓱ ᓲ ᒐ ᒉ ᒋ ᒍ ᒎ ᘔ ᘛ ᘚ ᘕ ᣱ ᔭ ᔦ ᔨ ᔪ ᔮ`. As these characters are shared with other Syllabics-using communities, these glyphs can be accommodated by providing a customized build specifically for Sayisi Dene, or, by mapping these glyphs with an OpenType Layout feature. Additionally, inline with many other languages that use the Dene Syllabics, Sayisi Dene requires multiple vertical positions of finals glyphs to mark consonant inflections, with Sayisi Dene using two vertical positions for finals glyphs: `mid line`, and `baseline`. Note that no finals glyphs sit at the top line in Sayisi Dene Syllabics.
 
 ![Sayisi-Dene-Syllabics](https://user-images.githubusercontent.com/17300547/198724681-78acb3b8-8f42-4828-a1a6-50258d9f0595.png)
+> Note that the glyph sequences such as `ᐤᐊ ᐤᐆ` in the above chart are not singularly-encoded, composite glyphs encoded in Unicode such as were described in the Cree and Ojibway sections `(ᐎ ᐄ ᐐ)`, but rather, are inline glyph sequences. All of the Dene Syllabics orthographies to follow feature these sequences, and all are encoded as inline sequences.
+<br />
+
+❶ The finals glyphs `- ᕁ ᐤ ᐧ` should be vertically positioned at the mid line, centered between the top and baselines.
+
+❷ The finals glyphs `ᑊ ᐠ ᐟ ᒼ ᐣ ᐢ ᒡ ᒢ ᐡ` should be vertically positioned at the baseline.
 
 
 ###### Sayisi Dene Syllabics Subset
 `ᐊ ᐁ ᐃ ᐅ ᐆ ᐸ ᐯ ᐱ ᐳ ᐴ ᗴ ᗯ ᗰ ᗱ ᣮ ᑕ ᑌ ᑎ ᑐ ᑑ ᗃ ᗀ ᗁ ᗂ ᣬ ᑲ ᑫ ᑭ ᑯ ᑰ ᖉ ᖆ ᖇ ᖈ ᣩ ᕍ ᕃ ᕄ ᕊ ᣡ ᒪ ᒣ ᒥ ᒧ ᒨ ᓇ ᓀ ᓂ ᓄ ᓅ ᓴ ᓭ ᓯ ᓱ ᓲ ᖚ ᖗ ᖘ ᖙ ᣫ ᕦ ᕞ ᕠ ᕤ ᕥ ᒐ ᒉ ᒋ ᒍ ᒎ ᕮ ᕫ ᕬ ᕭ ᣦ ᘔ ᘛ ᘚ ᘕ ᣱ ᔭ ᔦ ᔨ ᔪ ᔮ ᐨ ᑊ ᐠ ᐟ ᒼ ᐣ ᐢ ᒡ ᒢ ᕁ ᐩ ᐡ ᐤ ᐧ - .`
 
+<br />
+<br />
+<br />
 
 
 
 ## ᑌᓀ ᓱᒼᕄᓀ ᔭᕠᐁ (Dënësųłinë́) (Chipewyan)
+the Chipewyan language community once used Syllabics as it's primary writing system, from the mid 19th century to the mid 20th century, however, contemporary communities largely use a roman orthography that is similar to the writing systems of other Athabaskan Dene communities in North America. The Chipewyan Syllabics are rooted in the pattern of Dene Syllabics, which features the syllabics glyphs `ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᒐ ᒉ ᒋ ᒍ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ` represented in the Square Form style. Additionally, finals glyphs that vary in their vertical positioning, between  
+`top` and `middle` positions.
 
 ![Chipewyan-Syllabics](https://user-images.githubusercontent.com/17300547/198724696-b3732390-4045-4673-81dd-833f75bae9a8.png)
 
+❶ The finals glyphs `ᑦ ᐢ` should be vertically positioned at the top line.
+
+❷ The finals glyphs `ᐤ ᑊ ᐟ ᐠ ᔆ ᑦ ᙆ ᒼ ᐣ ᕀ ᑋ -` should be vertically positioned at the mid line, centered between the top and baselines.
+
+❸ Note that Chipewyan uses two graphically-identical characters in it's orthography: `U+1466 (ᑦ) ... SYLLABICS T` and `U+14BC` (ᒼ) ... SYLLABICS WEST-CREE M`. `U+1466` is intended to represent the top line `gh` final consonant, while `U+14BC` represents the mid line position `m` final. Both characters should be present within Chipewyan Syllabics typefaces to support the input method used by the community.
 
 ###### Chipewyan Syllabics Subset
-`ᐊ ᐁ ᐃ ᐅ ᐊᐧ ᐁᐧ ᐃᐧ ᐅᐧ ᑲᐧ ᑫᐧ ᑭᐧ ᑯᐧ ᐸ ᐯ ᐱ ᐳ ᑕ ᑌ ᑎ ᑐ ᑲ ᑫ ᑭ ᑯ ᑦᑲ ᑦᑫ ᑦᑭ ᑦᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᐟᘔ ᐟᘚ ᐟᘛ ᐟᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ᕮ ᕫ ᕬ ᕭ ᕳ ᕰ ᕱ ᕲ ᑦ ᐤ ᑊ ᐟ ᐠ ᔆ ᑦ ᙆ ᒼ ᐣ ᐢ ᕀ ᑋ - .`
+`ᐊ ᐁ ᐃ ᐅ ᐊᐧ ᐁᐧ ᐃᐧ ᐅᐧ ᑲᐧ ᑫᐧ ᑭᐧ ᑯᐧ ᐸ ᐯ ᐱ ᐳ ᑕ ᑌ ᑎ ᑐ ᑲ ᑫ ᑭ ᑯ ᑦᑲ ᑦᑫ ᑦᑭ ᑦᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᐟᘔ ᐟᘚ ᐟᘛ ᐟᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ᕮ ᕫ ᕬ ᕭ ᕳ ᕰ ᕱ ᕲ ᑦ ᐤ ᑊ ᐟ ᐠ ᔆ ᙆ ᒼ ᐣ ᐢ ᕀ ᑋ - .`
 
+<br />
+<br />
+<br />
 
 
 ## ᓴᑋᕲᖌᑎᑊᐠᓀᐠ ᔭᕱ (Sahtúgot’įné Yatı̨́) (North Slavey)
+North Slavey Syllabics were once the primary means of writing the language throughout the mid-to-late 19th and early 20th centuries, although today, a standardized roman orthography is the most common primary writing system for this language community. The North Slavey Syllabics follow the pattern of the Dene Syllabics, with the glyphs `ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ` being represented in the Square Form style, and finals glyphs varying vertical positioning.
 
 ![North-Slavey-Syllabics](https://user-images.githubusercontent.com/17300547/198724717-3d0faf0c-3936-48a5-b779-c3b264acd526.png)
 
 
+
 ###### North Slavey Syllabics Subset
 `ᐊ ᐁ ᐃ ᐅ ᐊᐧ ᐁᐧ ᐃᐧ ᐅᐧ ᐸ ᐯ ᐱ ᐳ ᑕ ᑌ ᑎ ᑐ ᑪ ᑧ ᑨ ᑩ ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ᕮ ᕫ ᕬ ᕭ ᕳ ᕰ ᕱ ᕲ ᑋ ᐤ ᑊ ᐟ ᐠ ᔆ ᑦ ᐣ ᙆ ᐢ ᕀ F V - .`
+
+<br />
+<br />
+<br />
 
 
 ## ᑌᓀ ᒐ (Dene Zhatıé) (South Slavey)
