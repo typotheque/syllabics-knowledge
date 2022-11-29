@@ -1,14 +1,19 @@
 # Syllabics Knowledge
-The purpose of this repository is to provide resources to those interested in developing Canadian Syllabics typefaces for the various Indigneous communities in North America that use this writing system. In this repo, you will find 
+The purpose of this repository is to provide resources to those interested in developing Canadian Syllabics typefaces for the various Indigneous communities in North America that use this writing system.
 <br />
 <br />
 <br />
 
-## Syllabics typographic guidelines and local typographic preferences
-The following article is a good resource towards understanding a wider scope of the Syllabics in regards to the general principles and typographic concepts inherent to the writing system, as well as historical and contemporary context towards local typographic preferences and orthographic needs as they vary across the many First Nations and Inuit communities in Canada that use this script. It is also a useful article for understanding how to look at the `UCAS` (Unified Canadian Aboriginal Syllabics) encoding range in Unicode, to understand how Unicode encodes and represents the Syllabics, and how this differs from various local Syllabics-using Indigenous communities. For a better understanding of how to view the Syllabics within their seaparate typographic traditions, please see section two:
-https://www.typotheque.com/articles/syllabics_typographic_guidelines
+## 📖 [Syllabics typographic guidelines and local typographic preferences](https://www.typotheque.com/articles/syllabics_typographic_guidelines)
 
-In order to work on font development for the Canadian Syllabics, it is important to become acquainted with the behaviours and concepts that are inherently unique to this writing system. The above article has been prepared to outline these concepts that are unique to the Syllabics, and is a good starting point towards understanding the terminology and concepts provided within these development materials.
+In order to work on font development for the Canadian Syllabics, it is important to become acquainted with the behaviours and concepts that are inherently unique to this writing system. The above article has been prepared to outline these concepts that are unique to the Syllabics, and is a good starting point towards understanding the terminology and concepts provided within these development materials. It is also a useful article for understanding how to look at the encoding of the Syllabics in the Unicode Standard ("UCAS", Unified Canadian Aboriginal Syllabics), to understand how Unicode encodes and represents the Syllabics, how this differs from various local Syllabics-using Indigenous communities. This helps to provide context for necessary solutions that may be required in Syllabics font development for providing support for local typographic variations within specific communities. 
+
+For a better understanding of how to view the Syllabics within their seaparate typographic traditions and local typographic and encoding preferences, [please see section two]
+<br />
+<br />
+<br />
+
+## Recommendations for Syllabics typeface development
 
 The following sections provide an overview of the local typographic preferences and orthographic requirements for each individual Indigenous language community that uses the Syllabics, with the purpose of typeface design and development in mind. For each community, their local Syllabics preferences have been presented graphically in the form of their Syllabics orthography chart, accompanied by footnotes were necessary beneath the chart. 
 
