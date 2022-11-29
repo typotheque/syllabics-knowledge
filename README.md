@@ -19,10 +19,48 @@ The following sections provide an overview of the local typographic preferences 
 
 Below these charts is a subset of the required glyph set for each community. In these subsets, please note that the glyph representations will in some cases differ from the graphical representation in the orthography charts above. This is expected, as UCAS harmonizes many of the Syllabics orthographies into one unified set, although a much greater diversity of glyph representations exists within the scope of Syllabics communities. These subsets are useful for developing typefaces for specific Indigenous language communities, where one may not need to cover the entire UCAS encoding range, which is quite large.
 
-Furthermore, each section contains any relevant notes that may be applicable towards accommodating specific local typographic preferences and variations, or issues surrounding encoding.
+Furthermore, each section contains any relevant notes that may be applicable towards accommodating specific local typographic preferences and variations, or issues surrounding encoding preferences for each community, and suggestions towards implementation in a given Syllabics typeface.
 <br />
 <br />
 <br />
+
+## Syllabics Glyph Set
+
+
+## General Syllabics Variant Glyphs
+The Syllabics share the word space, punctuation, and numeral glyphs with the Latin script, but require local variations to accommodate the inherent proportions of the writing system in order to maintain readability and legibility for users across all communities.
+
+###### Syllabics word space
+The Syllabics must have a word space glyph that is significantly wider than the Latin Script, by comparison:
+
+<img src="https://user-images.githubusercontent.com/17300547/204620399-a600665f-0882-4b8f-9dc8-8cdbb2513afd.png" width="800">
+
+
+
+This is essential and non-negotiable in order for Syllabics texts to remain legible and readable. If Syllabics texts use a Latin script width word space, the very narrow Latin space (in comparison to the wide internal counter structures of the Syllabics), the word images within a given sentence or paragraph of text will be undistinguishable. 
+
+The Syllabics by default uses the word space glyph `U+0020`, shared with many other writing systems. It is possible to implement a wider word space glyph to accommodate the Syllabics through rendering `U+0020` at an appropriate glyph width value for this system, but it will then produce a word space far too wide for the Latin script. One could provide a Syllabics-specific typeface that renders the deafult word space at the Syllabics required width, and then provides a separate Latin script font with an appropriate, narrower glyph width. Alternatively, the Syllabics and Latin-specific word space glyphs could be mapped to stylistic sets which could be used for script-specific typesetting.
+<br />
+<br />
+
+###### Syllabics numerals 
+<br />
+<br />
+
+###### Syllabics punctuation
+<br />
+<br />
+
+## Notes on Syllabics Kerning
+Within this repository you will find a .csv document that provides Syllabics kerning pairs and suggested classes for implementing into Syllabics typefaces. Within the context of Syllabics typography, kerning has very rarely, if ever, been implemented, although it's effect is quite dramatic on the legibility and readability of Syllabics texts across all user communities. The kerning pairs and classes are suggested, and kerning tables for a given Syllabics font implementation should take into consideration the direct requirements of each specific community and their language patterns.
+
+
+<img src="https://user-images.githubusercontent.com/17300547/204617898-c355aff6-36bc-4c6b-98c8-41c161ca691c.png" width="750">
+
+<br />
+<br />
+<br />
+
 
 ## ᐊᓂᐦᔑᓈᐯᒧᐎᓐ / Anishinaabemowin (Ojibway)
 Although all Ojibway language communities could use Syllabics to accurately represent their languages, it is important to note that not all Ojibway communtiies use this writing system. It is particularly the communities of northern Ontario and western Ojibway dialect speakers of Manitoba and Saskatchewan that have a current use of Syllabics. All other communities use a number of roman orthography systems to write their local dialects, including Algonquin, Odawa, Eastern Ojibwe, and Central Ojibwe. There is a relatively high degree of variation in the local typographic and orthographic preferences for Ojibway Syllabics between communities, particularly for communities in northern Ontario. This is particularly evident in northern Ontario communities, and can be seen primarily in the form and orientation of finals characters and their vertical positioning. The following chart shows the preferred representation of the Ojibway Syllabics orthography:
@@ -47,6 +85,7 @@ This glyph is used in several other Algonquian Syllabics using languages, and sh
 ❹ There is variation in the preferred positioning of the `w dot` in relation to the syllabic that it is modifying. Traditionally, Western Cree and Ojibwe communities place the w-dot to the right of the base syllabic, while Eastern Cree and Ojibwe communities will place the dot to the left of the syllabic, to lead the base character it is modifying. There is variation within 
 
 There is also variation in how this dot is encoded in texts between communities and individual users within communities. Some users will encode the `w dot` as two distinct code points: `U+1427 FINAL MIDDLE DOT (ᐧ)` plus the base syllabic glyph (`ᐧ` + `ᐃ` = `ᐧᐃ`). Others will encode these sequences of `w dot` with the pre-composed base glyphs within UCAS, where `w dot` and the base syllabic are treated as a composite glyph (`ᐎ`, `ᐗ`).
+<br />
 
 ###### Ojibway Syllabics Subset
 `ᐧ ᐁ    ᐃ    ᐅ    ᐊ    ᐄ    ᐆ    ᐋ ᐯ    ᐱ    ᐳ    ᐸ    ᐲ    ᐴ    ᐹ ᑌ    ᑎ    ᑐ    ᑕ    ᑏ    ᑑ    ᑖ ᑫ    ᑭ    ᑯ    ᑲ    ᑮ    ᑰ    ᑳ ᒉ    ᒋ    ᒍ    ᒐ    ᒌ    ᒎ    ᒑ ᒣ    ᒥ    ᒧ    ᒪ    ᒦ    ᒨ    ᒫ ᓀ    ᓂ    ᓄ    ᓇ    ᓃ    ᓅ    ᓈ ᓭ    ᓯ    ᓱ    ᓴ    ᓰ    ᓲ    ᓵ ᔐ    ᔑ    ᔓ    ᔕ    ᔒ    ᔔ    ᔖ ᔦ    ᔨ    ᔪ    ᔭ    ᔩ    ᔫ    ᔮ ᕓ    ᕕ    ᕖ    ᕗ    ᕘ    ᕙ    ᕚ ᕞ    ᕠ    ᕢ    ᕤ    ᕥ    ᕦ    ᕧ ᐎ ᐄ ᐐ    ᐆ ᐕ ᐓ ᐗ    ᐋ ᐙ ᑊ    ᑉ    ᣔ    ᐟ    ᑦ    ᣕ ᐠ    ᒃ    ᣖ ᐨ    ᒡ    ᣗ    ᒻ    ᣘ ᐣ    ᓐ    ᣙ    ᐢ    ᔅ    ᣚ     ᐡ    ᔥ    ᣛ    ˚    ᔾ     ᕝ    ᕪ ᐤ ᣜ    ᣝ ᓫ    ᕑ ᐦ    ᐞ
@@ -65,7 +104,7 @@ Orthographically and typographically speaking, Oji-Cree follows the same general
 ❶ While variation exists within Northwestern Ojibway communities in regards to the positioning of the `w dot` between users in contemporary texts, Oji-Cree users always follow the Western Cree convention of placing `w dot` to the right of the modified base syllabic.
 
 There is variation, though, in how `w dot` is encoded in texts between communities and individual users within Oji-Cree communities. As in Northern Ojibway communities, users may encode the `w dot` as two distinct code points: `U+1427 FINAL MIDDLE DOT (ᐧ)` plus the base syllabic glyph (`ᐧ` + `ᐃ` = `ᐧᐃ`). For an example of this encoding practice, see [ᐧᐊᐧᐊᑌ ᐊᒋᒧᐧᐃᓇᐣ / Wawatay News](https://wawataynews.ca/list-newspaper). Others may encode `w dot` sequences with the pre-composed base glyphs within UCAS, where `w dot` and the base syllabic are treated as a composite glyph (`ᐎ`, `ᐗ`).
-
+<br />
 
 ###### Oji-Cree Syllabics Subset
 `ᐧ ᐁ ᐃ ᐅ ᐊ ᐄ ᐆ ᐋ ᐌ ᐎ ᐒ ᐗ ᐧᐄ ᐧᐆ ᐧᐋ ᐯ ᐱ ᐳ ᐸ ᐲ ᐴ ᐹ ᑌ ᑎ ᑐ ᑕ ᑏ ᑑ ᑖ ᑫ ᑭ ᑯ ᑲ ᑮ ᑰ ᑳ ᒉ ᒋ ᒍ ᒐ ᒌ ᒎ ᒑ ᒣ ᒥ ᒧ ᒪ ᒦ ᒨ ᒫ ᓀ ᓂ ᓄ ᓇ ᓃ ᓅ ᓈ ᓭ ᓯ ᓱ ᓴ ᓰ ᓲ ᓵ ᔐ ᔑ ᔓ ᔕ ᔒ ᔔ ᔖ ᔦ ᔨ ᔪ ᔭ ᔩ ᔫ ᔮ ᐤ ᑊ ᐟ ᐠ ᐨ ᒼ ᐣ ᐢ ᐡ ᔾ ᓬ ᕒ ᐦ ᐀ ᙮ - .`
@@ -100,7 +139,7 @@ The historical Blackfoot Syllabics encoded in UCAS are no longer in use by the c
 ![Historical-Blackfoot-Syllabics](https://user-images.githubusercontent.com/17300547/203148917-6c8a81be-1df8-483d-b98d-5c0a023e497e.png)
 
 ❶ The primary distinction that one would notice regarding the graphic representation of the historical Blackfoot Syllabics is the use of the Square Form style, which is consistent with the common form of Syllabics used in Western Canada for the Dene Syllabics. As well, some Plains and Woods Cree communities also used the Square Form style historically, in the late 19th century. As a result of proximity and the sharing of type material, the historical Blackfoot Syllabics featured this stylistic form, which would be seen in glyphs such as `ᑫ ᑭ ᑯ ᑲ` `ᓭ ᓯ ᓱ ᓴ` `ᔦ ᔨ ᔪ ᔭ`.
-
+<br />
 
 ###### Blackfoot Syllabics Subset
 ` ᖳ ᖰ ᖱ ᖲ ᑫ ᑭ ᑯ ᑲ ᒣ ᒥ ᒧ ᒪ ᖿ ᖼ ᖽ ᖾ ᒉ ᒋ ᒍ ᒐ ᖻ ᖸ ᖹ ᖺ ᓭ ᓯ ᓱ ᓴ ᔦ ᔨ ᔪ ᔭ ᖷ ᖴ ᖵ ᖶ ᐤ  ᐨ  ᘁ  ᐢ  ᐡ  ᔈ ᐧ ᐟ ᑉ ᐠ ᙿ ᑊ  ᐦ ᐀ ᙮ - .`
@@ -128,7 +167,7 @@ There is also variety in the way that the `y final` transforms when it preceeds 
 <img src="https://user-images.githubusercontent.com/17300547/203815106-05711ef8-676d-4959-8268-2b9c8250e4b4.png" width="820">
 
 This alternative combination is not encoded in Unicode, and must be implemented in any given Syllabics typeface as an alternative glyph, and mapped in a way that agrees with the input method of the client or community members who will use the typeface.
-
+<br />
 
 ###### Plains Cree Syllabics Subset
 `ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐍ ᐏ ᐑ ᐓ ᐕ ᐘ ᐚ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᐧ  ᐤ  ᑊ  ᐟ  ᐠ  ᐨ  ᐨ  ᐣ  ᐢ  ᐩ  ᓬ  ᕒ  ᐦ  ᕁ  ᐝ ᛬ ᐀ ᙮`
@@ -156,7 +195,8 @@ The Swampy Cree dialect of the larger Cree-Montagnais-Naskapi dialect continuum 
 
 ❶ Note that Eastern Swampy Cree places the `w dot` mark to the left of the base syllabic it modifies, as in the above chart representation. There may be variation in how the `w dot` is encoded (see Ojibway, Oji-Cree Syllabics, above), however, it is important to provide support for the pre-composed characters provided in Unicode that position the dot to the left of the syllabic, as some users may encode their texts this way.
 
-❷ The only major graphical difference between Eastern and Western Swampy Cree is in an alternative form for the `y final (ᔾ)`. The standard form for the `y final` in Eastern Swampy Cree is U+153E (ᔾ), which is the only finals character that deviatives from the Western Cree finals forms in the orthography. Some communities may prefer to use the final small ring character `U+18DE (ᣞ)`. For the correct glyph representation of this character, please see figure `3` in Ojibway Syllabics. 
+❷ The only major graphical difference between Eastern and Western Swampy Cree is in an alternative form for the `y final (ᔾ)`. The standard form for the `y final` in Eastern Swampy Cree is U+153E (ᔾ), which is the only finals character that deviatives from the Western Cree finals forms in the orthography. Some communities may prefer to use the final small ring character `U+18DE (ᣞ)`. For the correct glyph representation of this character, please see figure 3 in Ojibway Syllabics. 
+<br />
 
 ###### Eastern Swampy Cree Syllabics Subset
 `ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐍ ᐏ ᐑ ᐓ ᐕ ᐘ ᐚ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒣ ᒥ ᒦ ᒧ ᒨ ᒪ ᒫ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓓ ᓕ ᓖ ᓗ ᓘ ᓚ ᓛ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔐ ᔑ ᔒ ᔓ ᔔ ᔕ ᔖ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᕃ ᕆ ᕇ ᕈ ᕉ ᕋ ᕌ ᐤ  ᑊ  ᐟ  ᐠ  ᐨ  ᒼ  ᐣ  ᐪ  ᐢ  ᐡ  ᕀ ᔾ ᣞ ᕒ  ᐦ  ᕁ ᐀ ᙮`
@@ -175,7 +215,7 @@ Western Swampy Cree is the other half of the Swampy Cree dialect of Cree. It is 
 ❶ Note that Western Swampy Cree places the `w dot` mark to the right of the base syllabic it modifies, following the Western Cree pattern. As in Eastern Swampy Cree, ensure that the corresponding pre-composed Syllabics characters provided in Unicode that follow this pattern are available for those users who encode their texts this way.
 
 ❷ Note that, while most users will use Western Cree finals, some users may use the Eastern Cree Syllabics form for the `y series final`, U+153E (ᔾ). Both of these glyphs should be available in a typeface developed for this community.
-
+<br />
 
 ###### Western Swampy Cree Syllabics Subset
 `ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐧᐁ ᐧᐃ ᐧᐄ ᐧᐅ ᐧᐆ ᐧᐊ ᐧᐋ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒣ ᒥ ᒦ ᒧ ᒨ ᒪ ᒫ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓓ ᓕ ᓖ ᓗ ᓘ ᓚ ᓛ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔐ ᔑ ᔒ ᔓ ᔔ ᔕ ᔖ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᕃ ᕆ ᕇ ᕈ ᕉ ᕋ ᕌ ᐤ  ᑊ  ᐟ  ᐠ  ᐨ  ᒼ  ᐣ  ᐪ  ᐢ  ᐡ  ᔾ ᣞ ᕐ  ᐦ ᕁ ᐀ ᙮`
@@ -190,7 +230,7 @@ Moose Cree language speakers adopted the use of Syllabics in the mid-19th centur
 ![Moose-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723524-b68686fa-e3c6-44ce-acc2-d950c32de0b9.png)
 
 ❶ Note the representation of the two marks above `U+18B2 aay (ᢲ)` should be a sequence of an open "ring" and closed "dot" mark, left to right, as seen in the representative chart, above.
-
+<br />
 
 ###### Moose Cree Syllabics Subset
 `ᐧ ᐁ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐌ ᐎ ᐐ ᐒ ᐔ ᐗ ᐙ ᐯ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᕓ ᕕ ᕖ ᕗ ᕘ ᕙ ᕚ ᑌ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᕞ ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ ᑫ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᒉ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒣ ᒥ ᒦ ᒧ ᒨ ᒪ ᒫ ᓀ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓓ ᓕ ᓖ ᓗ ᓘ ᓚ ᓛ ᓭ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᔐ ᔑ ᔒ ᔓ ᔔ ᔕ ᔖ ᔦ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᕃ ᕆ ᕇ ᕈ ᕉ ᕋ ᕌ ᢱ ᢲ ᢰ ᢳ ᢵ ᢴ ᢷ ᢸ ᢺ ᢼ ᢿ ᢾ ᣁ ᣀ ᣄ ᣃ ᣅ ᐤ ᑉ ᕝ ᑦ ᕪ ᒃ ᒡ ᒻ ᓐ ᓪ ᔅ ᔥ ᔾ ᕐ ᐦ ᒽ ᔉ ᐀ ᙮`
@@ -246,14 +286,17 @@ The Inuktut languages of Nunavut and Nunavik have had a very strong connection t
 ![Inuktut-Syllabics](https://user-images.githubusercontent.com/17300547/197810250-344ad806-405e-4336-9453-2e1a31cb2363.png)
 
 
-❶ Note that the Nattilik community of Western Nunavut has a locally-preferred representation of the `ch series (ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ)`, shown in the chart above, which features a closed "dot" form, rather than the standard open ring form used in the Dene, Cree, and Ojibway Syllabics. The Nattilik communiity requires this form variant in order to distinguish these characters from the `v series (ᕕ ᕖ ᕗ ᕘ ᕙ ᕚ)`, which facilitates greater readability in texts.
+❶ There is a local preference in Nunavik communities for the `ng series (ᖕ)`, which takes the graphical representation of a combination of `ᓐ` + `ᒃ`, in contrast to the local preference for this same `ng` character in Nunavut Inuktut communities who use Syllabics, who prefer the sequence `ᓐ` + `ᒡ` = `ᖕ`. This is the same character with the same phonetic value across all communities, only that users from each community identify with their locally-preferred form. Unicode, and therefore general purpose, system level Syllabics typefaces, will represent instances of this glyph in the Nunavut preferred form, however, the Nunavik preferred `ng` can be accommodated by either mapping alternates to a stylistic set, or, providing a customized local build for Nunavik communities.
 
-❷ There is a local preference in Nunavik communities for the `ng series (ᖕ)`, which takes the graphical representation of a combination of `ᓐ` + `ᒃ`, in contrast to the local preference for this same `ng` character in Nunavut Inuktut communities who use Syllabics, who prefer the sequence `ᓐ` + `ᒡ` = `ᖕ`. This is the same character with the same phonetic value across all communities, only that users from each community identify with their locally-preferred form. Unicode, and therefore general purpose, system level Syllabics typefaces, will represent instances of this glyph in the Nunavut preferred form, however, the Nunavik preferred `ng` can be accommodated by either mapping alternates to a stylistic set, or, providing a customized local build for Nunavik communities.
+
+❷ Note that the Nattilik community of Western Nunavut has a locally-preferred representation of the `ch series (ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ)`, shown in the chart above, which features a closed "dot" form, rather than the standard open ring form used in the Dene, Cree, and Ojibway Syllabics. The Nattilik communiity requires this form variant in order to distinguish these characters from the `v series (ᕕ ᕖ ᕗ ᕘ ᕙ ᕚ)`, which facilitates greater readability in texts.
+> Also note that Nattilingmiutut does not use a final character for the `ch series (ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ)`, and therefore `U+156A (ᕪ)` is not required for this orthography.
+<br/>
 
 ❸ Note that these two characters, encoded in Unicode as `U+157C (ᕼ)` and `U+15AF (ᖯ)`, should be designed to specifically fit the inherent proportions of the Syllabics in regards to height and width proportions. These two characters are not used by local users in Inuktut, but rather, may only be used for marking direct translations of foreign loan words, if at all.
 
 ❹ Note that Nattilingmiutut uses the character `U+02BC (ʼ) MODIFIER LETTER APOSTROPHE` to mark the glottal stop in it's Syllabics orthography, in contrast to the Syllabics glyph preferred by other communities for this letter, which use `U+144A (ᑊ)`. Some users of Nattilik Syllabics may also use `U+2019 (’)` to mark glottal stop, but `U+02BC` is preferred.
-
+<br />
 
 ###### Inuktut Syllabics Subset
 `ᐁ ᐂ ᐃ ᐄ ᐅ ᐆ ᐊ ᐋ ᐯ ᐰ ᐱ ᐲ ᐳ ᐴ ᐸ ᐹ ᑌ ᑍ ᑎ ᑏ ᑐ ᑑ ᑕ ᑖ ᑫ ᑬ ᑭ ᑮ ᑯ ᑰ ᑲ ᑳ ᕴ ᕵ ᕶ ᕷ ᕸ ᕹ ᕺ ᒉ ᒊ ᒋ ᒌ ᒍ ᒎ ᒐ ᒑ ᒣ ᒤ ᒥ ᒦ ᒧ ᒨ ᒪ ᒫ ᓀ ᓁ ᓂ ᓃ ᓄ ᓅ ᓇ ᓈ ᓭ ᓮ ᓯ ᓰ ᓱ ᓲ ᓴ ᓵ ᓓ ᓔ ᓕ ᓖ ᓗ ᓘ ᓚ ᓛ ᔦ ᔧ ᔨ ᔩ ᔪ ᔫ ᔭ ᔮ ᖨ ᖩ ᖪ ᖫ ᖬ ᖭ ᕓ ᕔ ᕕ ᕖ ᕗ ᕘ ᕙ ᕚ ᕃ ᕅ ᕆ ᕇ ᕈ ᕉ ᕋ ᕌ ᙯ ᕾ ᕿ ᖀ ᖁ ᖂ ᖃ ᖄ ᙰ ᖎ ᖏ ᖐ ᖑ ᖒ ᖓ ᖔ ᙱ ᙲ ᙳ ᙴ ᙵ ᙶ ᖠ ᖡ ᖢ ᖣ ᖤ ᖥ 𑪰 𑪱 𑪲 𑪳 𑪴 𑪵 ᖨ ᖩ ᖪ ᖫ ᖬ ᖭ 𑪶 𑪷 𑪸 𑪹 𑪺 𑪻 ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ ᑉ ᑦ ᒃ ᕻ ᒡ ᒻ ᓐ ᔅ ᓪ ᔾ ᖮ ᕝ ᕐ ᖅ ᖕ ᖖ ᖦ  ᖮ  ᕪ ᕼ ᖯ ᑊ ’ - .`
@@ -269,7 +312,7 @@ The Dane-zaa ZáágeɁ Syllabics (formerly known as the Beaver Syllabics) were o
 ![Beaver-Syllabics](https://user-images.githubusercontent.com/17300547/199070859-aab403a2-2937-4200-b20f-1ef4589b778d.png)
 
 ❶ As mentioned above, the following glyphs – in order to be localized to the Dene Syllabics which the Dane-zaa ZáágeɁ Syllabics are a part of – must be rendered in the Square Form style: `ᗃ ᗀ ᗁ ᗂ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᓴ ᓭ ᓯ ᓱ ᒐ ᒉ ᒋ ᒍ ᘔ ᘛ ᘚ ᘕ ᔭ ᔦ ᔨ ᔪ`. This can be achieved by various means, either mapping these glyphs via an OpenType Layout feature, or, providing a customized build specific to this community, representating these glyphs in the Square Form style by default.
-
+<br />
 
 ###### Dane-zaa ZáágeɁ Syllabics Subset
 `ᐊ ᐁ ᐃ ᐅ ᐊ ᐁ ᐃ ᐅ ᐠᐊ ᐠᐁ ᐠᐃ ᐠᐅ ᐊᐧ ᐁᐧ ᐃᐧ ᐅᐧ ᗴ ᗯ ᗰ ᗱ ᑕ ᑌ ᑎ ᑐ ᗃ ᗀ ᗁ ᗂ ᕮ ᕫ ᕬ ᕭ ᑊᕮ ᑊᕫ ᑊᕬ ᑊᕭ ᐠᕮ ᐠᕫ ᐠᕬ ᐠᕭ ᑲ ᑫ ᑭ ᑯ ᖉ ᖆ ᖇ ᖈ ᕍ ᕃ ᕄ ᕊ ᐦᕍ ᐦᕃ ᐦᕄ ᐦᕄ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᐸ ᐯ ᐱ ᐳ ᓴ ᓭ ᓯ ᓱ ᕦ ᕞ ᕠ ᕤ ᒐ ᒉ ᒋ ᒍ ᘔ ᘛ ᘚ ᘕ ᔭ ᔦ ᔨ ᔪ ᖚ ᖗ ᖘ ᖙ ᐨ ᑊ ᐦ ᐠ ᒼ ᐣ ᑉ ᐢ ᒡ ᒃ - .`
@@ -326,7 +369,7 @@ The Sayisi Dene Syllabics are [actively used within the community today](http://
 ❶ The finals glyphs `- ᕁ ᐤ ᐧ` should be vertically positioned at the mid line, centered between the top and baselines.
 
 ❷ The finals glyphs `ᑊ ᐠ ᐟ ᒼ ᐣ ᐢ ᒡ ᒢ ᐡ` should be vertically positioned at the baseline.
-
+<br />
 
 ###### Sayisi Dene Syllabics Subset
 `ᐊ ᐁ ᐃ ᐅ ᐆ ᐸ ᐯ ᐱ ᐳ ᐴ ᗴ ᗯ ᗰ ᗱ ᣮ ᑕ ᑌ ᑎ ᑐ ᑑ ᗃ ᗀ ᗁ ᗂ ᣬ ᑲ ᑫ ᑭ ᑯ ᑰ ᖉ ᖆ ᖇ ᖈ ᣩ ᕍ ᕃ ᕄ ᕊ ᣡ ᒪ ᒣ ᒥ ᒧ ᒨ ᓇ ᓀ ᓂ ᓄ ᓅ ᓴ ᓭ ᓯ ᓱ ᓲ ᖚ ᖗ ᖘ ᖙ ᣫ ᕦ ᕞ ᕠ ᕤ ᕥ ᒐ ᒉ ᒋ ᒍ ᒎ ᕮ ᕫ ᕬ ᕭ ᣦ ᘔ ᘛ ᘚ ᘕ ᣱ ᔭ ᔦ ᔨ ᔪ ᔮ ᐨ ᑊ ᐠ ᐟ ᒼ ᐣ ᐢ ᒡ ᒢ ᕁ ᐩ ᐡ ᐤ ᐧ - .`
@@ -347,7 +390,8 @@ the Chipewyan language community once used Syllabics as it's primary writing sys
 
 ❷ The finals glyphs `ᐤ ᑊ ᐟ ᐠ ᔆ ᑦ ᙆ ᒼ ᐣ ᕀ ᑋ -` should be vertically positioned at the mid line, centered between the top and baselines.
 
-❸ Note that Chipewyan uses two graphically-identical characters in it's orthography: `U+1466 (ᑦ) ... SYLLABICS T` and `U+14BC` (ᒼ) ... SYLLABICS WEST-CREE M`. `U+1466` is intended to represent the top line `gh` final consonant, while `U+14BC` represents the mid line position `m` final. Both characters should be present within Chipewyan Syllabics typefaces to support the input method used by the community.
+❸ Note that Chipewyan uses two graphically-identical characters in it's orthography: `U+1466 (ᑦ) ... SYLLABICS T` and `U+14BC (ᒼ) ... SYLLABICS WEST-CREE M`. `U+1466` is intended to represent the top line `gh` final consonant, while `U+14BC` represents the mid line position `m` final. Both characters should be present within Chipewyan Syllabics typefaces to support the input method used by the community.
+<br />
 
 ###### Chipewyan Syllabics Subset
 `ᐊ ᐁ ᐃ ᐅ ᐊᐧ ᐁᐧ ᐃᐧ ᐅᐧ ᑲᐧ ᑫᐧ ᑭᐧ ᑯᐧ ᐸ ᐯ ᐱ ᐳ ᑕ ᑌ ᑎ ᑐ ᑲ ᑫ ᑭ ᑯ ᑦᑲ ᑦᑫ ᑦᑭ ᑦᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᐟᘔ ᐟᘚ ᐟᘛ ᐟᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ᕮ ᕫ ᕬ ᕭ ᕳ ᕰ ᕱ ᕲ ᑦ ᐤ ᑊ ᐟ ᐠ ᔆ ᙆ ᒼ ᐣ ᐢ ᕀ ᑋ - .`
@@ -366,7 +410,7 @@ North Slavey Syllabics were once the primary means of writing the language throu
 ❶ The finals glyphs `ᑊ ᐠ ᑦ` should be vertically positioned at the top line.
 
 ❷ The finals glyphs `ᑋ ᐤ ᐟ ᔆ ᐣ ᙆ ᐢ ᕀ` should be vertically positioned at the mid line, centered between the top and baselines.
-
+<br />
 
 ###### North Slavey Syllabics Subset
 `ᐊ ᐁ ᐃ ᐅ ᐊᐧ ᐁᐧ ᐃᐧ ᐅᐧ ᐸ ᐯ ᐱ ᐳ ᑕ ᑌ ᑎ ᑐ ᑪ ᑧ ᑨ ᑩ ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ᕮ ᕫ ᕬ ᕭ ᕳ ᕰ ᕱ ᕲ ᑋ ᐤ ᑊ ᐟ ᐠ ᔆ ᑦ ᐣ ᙆ ᐢ ᕀ .`
