@@ -152,7 +152,8 @@ The historical Blackfoot Syllabics encoded in UCAS are no longer in use by the c
 
 Plains Cree communities comprise the largest group of speakers who use Syllabics as their primary and preferred writing system, and have a long and vibrant use of Syllabics. Plains Cree Syllabics follow the Round form style, although historically, the Square form style would have also been employed in 19th century and early-to-mid 20th century texts. Note that Plains Cree communities may use the Syllabics hyphen `U+1400 (᐀) CANADIAN SYLLABICS HYPHEN and the Syllabics full stop `U+166E (᙮) CANADIAN SYLLABICS FULL STOP`, or, the Latin script representations and encoding for these characters.
 
-![Plains-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723126-9f012023-f062-4f4d-9de5-1949be50b803.png)
+![Plains-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/204647087-eba1c03a-7386-4cd6-be8a-37dcab6cbf7e.png)
+
 
 ❶ Plains Cree Syllabics users may encode `w dot` using may encode the `w dot` as `U+1427 FINAL MIDDLE DOT (ᐧ)` plus the base syllabic glyph (`ᐧ` + `ᐃ` = `ᐧᐃ`) or with the pre-composed base glyphs within UCAS, where `w dot` and the base syllabic are treated as a composite glyph (`ᐎ`, `ᐗ`).
 
@@ -191,7 +192,8 @@ Woods Cree communities have a strong preference for using Syllabics as their pri
 ## ᐃᓂᓂᐎ ᐃᔑᑭᔗᐎᐣ (Ininiwi-Išikišwêwin) (Eastern Swampy Cree)
 The Swampy Cree dialect of the larger Cree-Montagnais-Naskapi dialect continuum is broken into two groups: Eastern Swampy Cree, spoken in northern Ontario, and Western Swampy Cree, spoken in Northern Manitoba. Both of these dialects use Syllabics as a primary means of writing their languages, and they typically follow the standardized Syllabics glyph representations found in Unicode, mainly that of the Round form style. Eastern Swampy Cree mixes Eastern and Western Cree Syllabics conventions in a similar way as Oji-Cree, where it uses Western Cree finals characters, and the Eastern Cree practice of placing the `w dot` to the left of the base syllabic that it is modifying.
 
-![Eastern-Swampy-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723259-6d7622aa-4fb4-4a10-bfc3-d7c75d4f5ba1.png)
+![Eastern-Swampy-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/204647145-bac882ae-855a-4165-915b-fe70cd193278.png)
+
 
 ❶ Note that Eastern Swampy Cree places the `w dot` mark to the left of the base syllabic it modifies, as in the above chart representation. There may be variation in how the `w dot` is encoded (see Ojibway, Oji-Cree Syllabics, above), however, it is important to provide support for the pre-composed characters provided in Unicode that position the dot to the left of the syllabic, as some users may encode their texts this way.
 
@@ -208,8 +210,7 @@ The Swampy Cree dialect of the larger Cree-Montagnais-Naskapi dialect continuum 
 ## ᐃᓂᓃᒧᐏᐣ (Ininîmowin) (Western Swampy Cree)
 Western Swampy Cree is the other half of the Swampy Cree dialect of Cree. It is noted as being the first language known to have been represented with an orthography that we recongnize as Syllabics today, being the language that was printed in the 1841 _ᓇᑲᒧᐏᓇ ᐅᒪᐢᑮᑯᐘ ᐅᑎᑘᐏᓂᐘᐤ / Swampy Cree Hymn Book_, printed by James Evans at present-day Norway House, Manitoba. This orthography follows the same general conventions as the 1841 text, initiating what would become the Western Cree pattern of using finals distinct from the base syllabic glyphs, which contrasts the convention used by Eastern Cree communities (which uses a superscript version of the `a vowel` from a given series).
 
-
-![Western-Swampy-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723422-8fe98fcf-37b1-4e51-bdab-f5c0d567f0d0.png)
+![Western-Swampy-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/204647189-22a347a1-dbdd-4f01-9de2-f02c566ad827.png)
 
 
 ❶ Note that Western Swampy Cree places the `w dot` mark to the right of the base syllabic it modifies, following the Western Cree pattern. As in Eastern Swampy Cree, ensure that the corresponding pre-composed Syllabics characters provided in Unicode that follow this pattern are available for those users who encode their texts this way.
@@ -227,7 +228,7 @@ Western Swampy Cree is the other half of the Swampy Cree dialect of Cree. It is 
 ## ᐃᓕᓖᒧᐎᓐ (Ililîmowin) (Moose Cree)
 Moose Cree language speakers adopted the use of Syllabics in the mid-19th century, and it has been the primary way of writing Moose Cree since to the present day. Moose Cree was the primary dialect that diverged from the Western Cree pattern of using graphically-distinct finals characters from the base syllabics in a given series, and rather, using a superscript version of the `a vowel` from a given series, introduced by printer John Horden. Moose Cree follows the standard Syllabics representation of the Round form style, and there are no local typographic or encoding preferences that require special accommodation. Note that Moose Cree uses specially-encoded composite characters to accommodate a stacked ring above the base syllabic: `ᢱ ᢰ ᢳ ᢵ ᢴ ᢷ ᢸ ᢺ ᢼ ᢿ ᢾ ᣁ ᣀ ᣄ ᣃ ᣅ`, a composite `aay (ᢲ)` character, and the finals glyph `U+1509 (ᔉ)`, all of which are not used in any other Syllabics orthography.
 
-![Moose-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198723524-b68686fa-e3c6-44ce-acc2-d950c32de0b9.png)
+![Moose-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/204647256-43934b7c-8c23-45ad-be69-a5aefdde497e.png)
 
 ❶ Note the representation of the two marks above `U+18B2 aay (ᢲ)` should be a sequence of an open "ring" and closed "dot" mark, left to right, as seen in the representative chart, above.
 <br />
@@ -243,8 +244,7 @@ Moose Cree language speakers adopted the use of Syllabics in the mid-19th centur
 
 East James Bay Cree (sometimes referred to as East Cree) is an umbrella term to refer to a collection of subdialects that share close linguistic features. These subdialects are primarily the coastal James Bay Cree communities, and those inland. Orthographically speaking, these sub dialects are all represented by the same system, and align on typographic and encoding preferences. The East James Bay Cree Syllabics follow the standard Syllabics representation in Unicode of the Round form style, with finals glyphs positioned vertically at the top line.
 
-
-![East-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/198727876-24ec7af1-ab3b-4e4d-8228-088e52e730ce.png)
+![East-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/204647300-47a0f8ae-ddaf-4e52-8469-0f43d2a18579.png)
 
 
 ❶ Note that it is important in the East James Bay Cree Syllabics to have the `sh series (ᔐ ᔓ ᔕ ᔑ)` [represented in the Round form style and orientation](https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/syllabic-font-orientation/), as shown in the below comparative figure:
@@ -269,7 +269,8 @@ The Naskapi language is part of the Cree language dialect continuum, and as such
 
 ❷ the narrow no break space is required for indicating a preverb in Naskapi, and should be about a third of the width of the wide Syllabics space glyph:
 
-***Add figure to show this***
+<img src="https://user-images.githubusercontent.com/17300547/204645782-26cc3e8b-1967-45d2-ac5d-a54fb9b0a9bd.png" width="800">
+
 
 ###### Naskapi Syllabics Subset
 `ᐧ ᐃ ᐅ ᐊ ᐎ ᐛ ᐱ ᐳ ᐸ ᑎ ᑐ ᑕ ᑭ ᑯ ᑲ ᒋ ᒍ ᒐ ᒥ ᒧ ᒪ ᓂ ᓄ ᓇ ᓯ ᓱ ᓴ ᔨ ᔪ ᔭ ᓕ ᓗ ᓚ ᕆ ᕈ ᕋ ᑈ ᑥ ᒂ ᒠ ᒺ ᓏ ᔄ ᔽ ᔋᐸ ᔍ ᔎ ᔏ ᐤ ᑉ ᑦ ᒃ ᒡ ᒻ ᓐ ᔅ ᔾ ᓪ ᕐ ᐦ ᐧ ᒄ ᔋ ᐀ ᙮`
@@ -288,8 +289,13 @@ The Inuktut languages of Nunavut and Nunavik have had a very strong connection t
 
 ❶ There is a local preference in Nunavik communities for the `ng series (ᖕ)`, which takes the graphical representation of a combination of `ᓐ` + `ᒃ`, in contrast to the local preference for this same `ng` character in Nunavut Inuktut communities who use Syllabics, who prefer the sequence `ᓐ` + `ᒡ` = `ᖕ`. This is the same character with the same phonetic value across all communities, only that users from each community identify with their locally-preferred form. Unicode, and therefore general purpose, system level Syllabics typefaces, will represent instances of this glyph in the Nunavut preferred form, however, the Nunavik preferred `ng` can be accommodated by either mapping alternates to a stylistic set, or, providing a customized local build for Nunavik communities.
 
+<img src="https://user-images.githubusercontent.com/17300547/204645925-b5c544b7-d3e1-44f0-b6cf-7502a29193a5.png" width="800">
+
 
 ❷ Note that the Nattilik community of Western Nunavut has a locally-preferred representation of the `ch series (ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ)`, shown in the chart above, which features a closed "dot" form, rather than the standard open ring form used in the Dene, Cree, and Ojibway Syllabics. The Nattilik communiity requires this form variant in order to distinguish these characters from the `v series (ᕕ ᕖ ᕗ ᕘ ᕙ ᕚ)`, which facilitates greater readability in texts.
+
+<img src="https://user-images.githubusercontent.com/17300547/204646008-eaceb423-e23e-4f41-ae27-649998688f85.png" width="780">
+
 > Also note that Nattilingmiutut does not use a final character for the `ch series (ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ)`, and therefore `U+156A (ᕪ)` is not required for this orthography.
 <br/>
 
@@ -309,7 +315,9 @@ The Inuktut languages of Nunavut and Nunavik have had a very strong connection t
 ## ᑕᓀᖚ ᖚᗀᐥ  (Dane-zaa ZáágeɁ) (Beaver)
 The Dane-zaa ZáágeɁ Syllabics (formerly known as the Beaver Syllabics) were once in common use within the community in the mid-to-late 19th and early 20th centuries, however, Syllabics are not commonly used – if at all – within this community today, with the community using a standardized roman orthography today. The Dane-zaa ZáágeɁ Syllabics were part of the larger pattern of Dene Syllabics, which follows the Square Form style of Syllabics, affecting the proportion, width, and appearance of glyphs such as `ᑫ ᑭ ᑯ ᑲ` `ᓇ ᓀ ᓂ ᓄ` `ᕍ ᕃ ᕄ ᕊ`.
 
-![Beaver-Syllabics](https://user-images.githubusercontent.com/17300547/199070859-aab403a2-2937-4200-b20f-1ef4589b778d.png)
+
+![Beaver-Syllabics](https://user-images.githubusercontent.com/17300547/204647363-a56dc778-ded2-417e-9196-368d2526f32b.png)
+
 
 ❶ As mentioned above, the following glyphs – in order to be localized to the Dene Syllabics which the Dane-zaa ZáágeɁ Syllabics are a part of – must be rendered in the Square Form style: `ᗃ ᗀ ᗁ ᗂ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᓴ ᓭ ᓯ ᓱ ᒐ ᒉ ᒋ ᒍ ᘔ ᘛ ᘚ ᘕ ᔭ ᔦ ᔨ ᔪ`. This can be achieved by various means, either mapping these glyphs via an OpenType Layout feature, or, providing a customized build specific to this community, representating these glyphs in the Square Form style by default.
 <br />
@@ -330,14 +338,16 @@ The Dakelh (Carrier) Syllabics are an active Syllabics writing system within the
 
 In 2021, a proposal was accepted by the Unicode Technical committee to amend errors in the accurate representation of the Dakelh (Carrier) Syllabics in the character code charts for [UCAS](https://www.unicode.org/charts/PDF/U1400.pdf) and [UCAS Extended](https://www.unicode.org/charts/PDF/U18B0.pdf), which took affect with the release of version 15.0 of the Unicode Standard on 13 September, 2022. For more information on these glyph changes, please see the proposal [L2/21-141](https://www.unicode.org/L2/L2021/21141-ucas-revisions.pdf). As a result of these changes, the glyph representations in the below subsection "Dakelh (Carrier) Syllabics Subset" may not align with the accurate representations of these glyphs as the Dakelh (Carrier) community expects of these characters. The below Dakelh (Carrier) Syllabics orthography shows the complete and accurate representations of all glyphs required for Dakelh (Carrier), as the community requires them to appear. 
 
-The Dakelh Syllabics should be represented in the same manner as the Square Form style, with all syllabics glyphs occupying generally the same height and width propotion. Additionally, all finals glyphs should be vertically positioned at the mid line, vertically centered on the syllabics glyphs between the top and baselines:
-
-***********figure************
+The Dakelh Syllabics should be represented in the same manner as the Square Form style, with all syllabics glyphs occupying generally the same height and width propotion. Additionally, all finals glyphs should be vertically positioned at the mid line, vertically centered on the syllabics glyphs between the top and baselines
 
 
-![Carrier-Syllabics](https://user-images.githubusercontent.com/17300547/199070885-2a190499-0264-437a-8f0d-b3ed83325eb7.png)
+![Dakelh-(Carrier)-Syllabics](https://user-images.githubusercontent.com/17300547/204646633-23e1388e-35f6-47d1-bcde-296c9b73536e.png)
+
 
 ❶ Unicode provides dedicated characters for most of the Dakelh (Carrier) Syllabics repertoire, however, there are some finals glyphs which are shared with other Indigenous language communities for their Syllabics orthographies which cause a conflict for Dakelh (Carrier), primarily the finals characters `ᐦ ᐥ ᐪ ᐟ ᐠ ᐣ ᒼ ᑊ ᒡ ᐩ`. These characters are used by other Cree, Ojibway, and Inuktut Syllabics-using communities, which position these glyphs at the top line, while in Dakelh (Carrier) they should be positioned at the mid line. It is possible to accommodate this by providing a customized build specific to the Dakelh (Carrier) Syllabics, rendering these glyphs in the locally-preferred Dakelh positions, or, mapping them as substitutions via OpenType Layout.
+
+<img src="https://user-images.githubusercontent.com/17300547/204646272-ae7a2931-4ff0-45b5-995f-904272532f40.png" width="780">
+
 
 ❷ Note that there are two graphically-identical "final plus" glyphs in Unicode: `U+1429 (ᐩ) ... SYLLABICS FINAL PLUS` and `U+1540 (ᕀ) ... SYLLABICS WEST-CREE Y`. Dakelh (Carrier) encodes this glyph as `U+1429 (ᐩ)` and as all finals in Dakelh Syllabics, should be positioned at the mid line, along with all other finals.
 
@@ -347,8 +357,7 @@ The Dakelh Syllabics should be represented in the same manner as the Square Form
 
 ❹ Dakelh (Carrier) Syllabics uses the modifier `U+18DF (ᣟ) ... SYLLABICS FINAL RAISED DOT`, which marks the glottal stop in the Dakelh language. The vertical position of this glyph is often incorrectly represented in common system-level typefaces. In contrast to the other finals glyphs in the Dakelh Syllabics, it should sit at the top line, and not floating above, the full height of the syllabic glyphs, as it is intended to harmonize with the general rhythm of Syllabics texts.
 
-***********figure************
-
+<img src="https://user-images.githubusercontent.com/17300547/204646370-351e2624-a046-422f-9a8b-d38717e2a081.png" width="800">
 
 
 ###### Dakelh (Carrier) Syllabics Subset
@@ -384,7 +393,8 @@ The Sayisi Dene Syllabics are [actively used within the community today](http://
 the Chipewyan language community once used Syllabics as it's primary writing system, from the mid 19th century to the mid 20th century, however, contemporary communities largely use a roman orthography that is similar to the writing systems of other Athabaskan Dene communities in North America. The Chipewyan Syllabics are rooted in the pattern of Dene Syllabics, which features the syllabics glyphs `ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᒐ ᒉ ᒋ ᒍ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ` represented in the Square Form style. Additionally, finals glyphs that vary in their vertical positioning, between  
 `top` and `middle` positions.
 
-![Chipewyan-Syllabics](https://user-images.githubusercontent.com/17300547/198724696-b3732390-4045-4673-81dd-833f75bae9a8.png)
+![Chipewyan-Syllabics](https://user-images.githubusercontent.com/17300547/204647407-cb6b373f-4b3b-40d6-a8e7-204f5d7655e8.png)
+
 
 ❶ The finals glyphs `ᑦ ᐢ` should be vertically positioned at the top line.
 
@@ -404,7 +414,8 @@ the Chipewyan language community once used Syllabics as it's primary writing sys
 ## ᓴᑋᕲᖌᑎᑊᐠᓀᐠ ᔭᕱ (Sahtúgot’įné Yatı̨́) (North Slavey)
 North Slavey Syllabics were once the primary means of writing the language throughout the mid-to-late 19th and early 20th centuries, although today, a standardized roman orthography is the most common primary writing system for this language community. The North Slavey Syllabics follow the pattern of the Dene Syllabics, with the glyphs `ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ` being represented in the Square Form style, and finals glyphs varying vertical positioning.
 
-![North-Slavey-Syllabics](https://user-images.githubusercontent.com/17300547/198724717-3d0faf0c-3936-48a5-b779-c3b264acd526.png)
+
+![North-Slavey-Syllabics](https://user-images.githubusercontent.com/17300547/204647430-06e0aef5-4920-4b43-8113-8dfce0f0526e.png)
 
 
 ❶ The finals glyphs `ᑊ ᐠ ᑦ` should be vertically positioned at the top line.
@@ -423,8 +434,7 @@ North Slavey Syllabics were once the primary means of writing the language throu
 ## ᑌᓀ ᒐ (Dene Zhatıé) (South Slavey)
 Dene Zhatıé (South Slavey) Syllabics were – as for the North Slavey, Chipewyan, and Sayisi Dene communities – the primary means of writing the language from the mid 19th century to the mid 20th century. While a standardized roman orthography is the primary writing system today, the Syllabics still see some use in educational settings. The Dene Zhatıé (South Slavey) Syllabics follow the conventions of the Dene Syllabics, in which the glyphs `ᗃ ᗀ ᗁ ᗂ ᣬ ᑲ ᑫ ᑭ ᑯ ᑰ ᕍ ᕃ ᕄ ᕊ ᣡ ᒪ ᒣ ᒥ ᒧ ᒨ ᓇ ᓀ ᓂ ᓄ ᓅ ᓴ ᓭ ᓯ ᓱ ᓲ ᒐ ᒉ ᒋ ᒍ ᒎ ᘔ ᘛ ᘚ ᘕ ᣱ ᔭ ᔦ ᔨ ᔪ ᔫ` are rendered in the Square Form style. Dene Zhatıé is also unique in that it's Syllabics orthography requires three vertical finals positions: `top`, `mid`, and `baseline`.
 
-
-![South-Slavey-Syllabics](https://user-images.githubusercontent.com/17300547/198724725-2bb5675b-8f29-4a3c-9556-7427e5b24f78.png)
+![South-Slavey-Syllabics](https://user-images.githubusercontent.com/17300547/204647444-d14d5690-8d13-4801-8d3a-5833b7325da2.png)
 
 
 ❶ The finals glyphs `ᑉ ᐨ ᑊ ᐠ ᒼ ᐡ ᒡ ᐦ ʼ` should be vertically positioned at the top line.
