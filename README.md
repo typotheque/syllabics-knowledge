@@ -247,7 +247,7 @@ The Inuktut languages of Nunavut and Nunavik have had a very strong connection t
 
 ❸ Note that these two characters, encoded in Unicode as `U+157C (ᕼ)` and `U+15AF (ᖯ)`, should be designed to specifically fit the inherent proportions of the Syllabics in regards to height and width proportions. These two characters are not used by local users in Inuktut, but rather, may only be used for marking direct translations of foreign loan words, if at all.
 
-❹ Note that Nattilingmiutut uses character `U+02BC (ʼ) MODIFIER LETTER APOSTROPHE` to mark the glottal stop in it's Syllabics orthography, in contrast to the Syllabics glyph preferred by other communities for this letter, which use `U+144A (ᑊ)`. Some users of Nattilik Syllabics may also use `U+2019 (’)` to mark glottal stop, but `U+02BC` is preferred.
+❹ Note that Nattilingmiutut uses the character `U+02BC (ʼ) MODIFIER LETTER APOSTROPHE` to mark the glottal stop in it's Syllabics orthography, in contrast to the Syllabics glyph preferred by other communities for this letter, which use `U+144A (ᑊ)`. Some users of Nattilik Syllabics may also use `U+2019 (’)` to mark glottal stop, but `U+02BC` is preferred.
 
 
 ###### Inuktut Syllabics Subset
@@ -358,9 +358,13 @@ North Slavey Syllabics were once the primary means of writing the language throu
 ![North-Slavey-Syllabics](https://user-images.githubusercontent.com/17300547/198724717-3d0faf0c-3936-48a5-b779-c3b264acd526.png)
 
 
+❶ The finals glyphs `ᑊ ᐠ ᑦ` should be vertically positioned at the top line.
+
+❷ The finals glyphs `ᑋ ᐤ ᐟ ᔆ ᐣ ᙆ ᐢ ᕀ` should be vertically positioned at the mid line, centered between the top and baselines.
+
 
 ###### North Slavey Syllabics Subset
-`ᐊ ᐁ ᐃ ᐅ ᐊᐧ ᐁᐧ ᐃᐧ ᐅᐧ ᐸ ᐯ ᐱ ᐳ ᑕ ᑌ ᑎ ᑐ ᑪ ᑧ ᑨ ᑩ ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ᕮ ᕫ ᕬ ᕭ ᕳ ᕰ ᕱ ᕲ ᑋ ᐤ ᑊ ᐟ ᐠ ᔆ ᑦ ᐣ ᙆ ᐢ ᕀ F V - .`
+`ᐊ ᐁ ᐃ ᐅ ᐊᐧ ᐁᐧ ᐃᐧ ᐅᐧ ᐸ ᐯ ᐱ ᐳ ᑕ ᑌ ᑎ ᑐ ᑪ ᑧ ᑨ ᑩ ᑲ ᑫ ᑭ ᑯ ᕍ ᕃ ᕄ ᕊ ᒪ ᒣ ᒥ ᒧ ᓇ ᓀ ᓂ ᓄ ᖍ ᖊ ᖋ ᖌ ᓴ ᓭ ᓯ ᓱ ᔭ ᔦ ᔨ ᔪ ᘔ ᘚ ᘛ ᘕ ᗴ ᗯ ᗰ ᗱ ᒐ ᒉ ᒋ ᒍ ᕮ ᕫ ᕬ ᕭ ᕳ ᕰ ᕱ ᕲ ᑋ ᐤ ᑊ ᐟ ᐠ ᔆ ᑦ ᐣ ᙆ ᐢ ᕀ .`
 
 <br />
 <br />
@@ -368,9 +372,19 @@ North Slavey Syllabics were once the primary means of writing the language throu
 
 
 ## ᑌᓀ ᒐ (Dene Zhatıé) (South Slavey)
+Dene Zhatıé (South Slavey) Syllabics were – as for the North Slavey, Chipewyan, and Sayisi Dene communities – the primary means of writing the language from the mid 19th century to the mid 20th century. While a standardized roman orthography is the primary writing system today, the Syllabics still see some use in educational settings. The Dene Zhatıé (South Slavey) Syllabics follow the conventions of the Dene Syllabics, in which the glyphs `ᗃ ᗀ ᗁ ᗂ ᣬ ᑲ ᑫ ᑭ ᑯ ᑰ ᕍ ᕃ ᕄ ᕊ ᣡ ᒪ ᒣ ᒥ ᒧ ᒨ ᓇ ᓀ ᓂ ᓄ ᓅ ᓴ ᓭ ᓯ ᓱ ᓲ ᒐ ᒉ ᒋ ᒍ ᒎ ᘔ ᘛ ᘚ ᘕ ᣱ ᔭ ᔦ ᔨ ᔪ ᔫ` are rendered in the Square Form style. Dene Zhatıé is also unique in that it's Syllabics orthography requires three vertical finals positions: `top`, `mid`, and `baseline`.
+
 
 ![South-Slavey-Syllabics](https://user-images.githubusercontent.com/17300547/198724725-2bb5675b-8f29-4a3c-9556-7427e5b24f78.png)
 
+
+❶ The finals glyphs `ᑉ ᐨ ᑊ ᐠ ᒼ ᐡ ᒡ ᐦ ʼ` should be vertically positioned at the top line.
+
+❷ The finals glyphs `ᕀ ᐢ ᐣ ᐟ` should be vertically positioned at the mid line, centered between the top and baselines.
+
+❸ The finals glyphs `ᒢ` should be vertically positioned at the baseline.
+
+❹ Note that Dene Zhatıé (South Slavey) Syllabics uses the character `U+02BC (ʼ) MODIFIER LETTER APOSTROPHE` to mark the glottal stop in it's Syllabics orthography.
 
 ###### South Slavey Syllabics Subset
 `ᐊ ᐁ ᐃ ᐅ ᐆ ᐸ ᐯ ᐱ ᐳ ᐴ ᗴ ᗯ ᗰ ᗱ ᣮ ᑕ ᑌ ᑎ ᑐ ᑑ ᐣᑕ ᐣᑌ ᐣᑎ ᐣᑐ ᐣᑑ ᗃ ᗀ ᗁ ᗂ ᣬ ᑲ ᑫ ᑭ ᑯ ᑰ ᖉ ᖆ ᖇ ᖈ ᣩ ᕍ ᕃ ᕄ ᕊ ᣡ ᒪ ᒣ ᒥ ᒧ ᒨ ᓇ ᓀ ᓂ ᓄ ᓅ ᓴ ᓭ ᓯ ᓱ ᓲ ᖚ ᖗ ᖘ ᖙ ᣫ ᕦ ᕞ ᕠ ᕤ ᕥ ᒐ ᒉ ᒋ ᒍ ᒎ ᕮ ᕫ ᕬ ᕭ ᣦ ᘔ ᘛ ᘚ ᘕ ᣱ ᐧᐊ ᐧᐁ ᐧᐃ ᐧᐅ ᐧᐆ ᔭ ᔦ ᔨ ᔪ ᔫ ᑉ ᐨ ᑊ ᐠ ᐟ ᒼ ᐣ ᐡ ᐢ ᒡ ᒢ ᕀ ᐦ ʼ - .`
