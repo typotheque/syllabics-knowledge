@@ -33,7 +33,9 @@ The Syllabics share the word space, punctuation, and numeral glyphs with the Lat
 ###### Syllabics word space
 The Syllabics must have a word space glyph that is significantly wider than the Latin Script, by comparison:
 
-<img src="https://user-images.githubusercontent.com/17300547/204620399-a600665f-0882-4b8f-9dc8-8cdbb2513afd.png" width="800">
+
+
+![Syllabics word space](figures/word-space_SyL-Knowledge-figures.png)
 
 
 
