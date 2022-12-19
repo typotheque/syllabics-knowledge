@@ -2,7 +2,7 @@
 ## General Syllabics Variant Glyphs
 The Syllabics share the word space, punctuation, and numeral glyphs with the Latin script, but require local variations to accommodate the inherent proportions of the writing system in order to maintain readability and legibility for users across all communities.
 
-###### Syllabics word space
+## Syllabics word space
 The Syllabics must have a word space glyph that is significantly wider than the Latin Script, by comparison:
 
 
@@ -17,8 +17,8 @@ The Syllabics by default uses the word space glyph U+0020  SPACE, shared with ma
 
 
 
-###### Syllabics numerals 
+## Syllabics numerals 
 
 
 
-###### Syllabics punctuation
+## Syllabics punctuation
