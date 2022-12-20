@@ -24,7 +24,7 @@ https://www.typotheque.com/articles/syllabics_typographic_guidelines
 
 [Dakelh (Carrier) Syllabics](/carrier.md)
 
-[Syllabics Glyph Set]
+[Syllabics Glyph Set](/glyph%20set/Syllabics%20glyph%20set)
 
 [Syllabics Kerning](/kerning.md)
 
