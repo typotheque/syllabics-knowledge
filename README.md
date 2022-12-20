@@ -1,21 +1,33 @@
 # Syllabics Knowledge
 The purpose of this repository is to provide resources to those interested in developing Canadian Syllabics typefaces for the various Indigneous communities in North America that use this writing system.
-<br />
-<br />
-<br />
+
+Ahead of undertaking a Syllabics font design project, it is useful to familiarize oneself with the inherent concepts of the writing system, as well as the historical and contemporary context effecting the Syllabics, presented in the following article, "Syllabics typographic guidelines":
+
+https://www.typotheque.com/articles/syllabics_typographic_guidelines
+
 
 ## Contents
 
-*List the individual files here on each section and provide relative links*
+[General Typographic Requirements](/general%20requirements.md)
 
-## 📖 [Syllabics typographic guidelines and local typographic preferences](https://www.typotheque.com/articles/syllabics_typographic_guidelines)
+[Ojibway Syllabics](/ojibway.md)
 
-In order to work on font development for the Canadian Syllabics, it is important to become acquainted with the behaviours and concepts that are inherently unique to this writing system. The above article has been prepared to outline these concepts that are unique to the Syllabics, and is a good starting point towards understanding the terminology and concepts provided within these development materials. It is also a useful article for understanding how to look at the encoding of the Syllabics in the Unicode Standard ("UCAS", Unified Canadian Aboriginal Syllabics), to understand how Unicode encodes and represents the Syllabics, how this differs from various local Syllabics-using Indigenous communities. This helps to provide context for necessary solutions that may be required in Syllabics font development for providing support for local typographic variations within specific communities. 
+[Cree Syllabics](/cree.md)
 
-For a better understanding of how to view the Syllabics within their seaparate typographic traditions and local typographic and encoding preferences, [please see section two]
-<br />
-<br />
-<br />
+[Naskapi Syllabics](/naskapi.md)
+
+[Blackfoot Syllabics (historical)](/blackfoot%20(historical).md)
+
+[Inuktut Syllabics](/inuktut.md)
+
+[Dene Syllabics](/dene.md)
+
+[Dakelh (Carrier) Syllabics](/carrier.md)
+
+[Syllabics Glyph Set]
+
+[Syllabics Kerning](/kerning.md)
+
 
 ## Recommendations for Syllabics typeface development
 
