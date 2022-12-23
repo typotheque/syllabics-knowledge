@@ -5,14 +5,14 @@
 Although all Ojibway language communities could use Syllabics to accurately represent their languages, it is important to note that not all Ojibway communtiies use this writing system. It is particularly the communities of northern Ontario and western Ojibway dialect speakers of Manitoba and Saskatchewan that have a current use of Syllabics. All other communities use a number of roman orthography systems to write their local dialects, including Algonquin, Odawa, Eastern Ojibwe, and Central Ojibwe. There is a relatively high degree of variation in the local typographic and orthographic preferences for Ojibway Syllabics between communities, particularly for communities in northern Ontario. This is particularly evident in northern Ontario communities, and can be seen primarily in the form and orientation of finals characters and their vertical positioning. The following chart shows the preferred representation of the Ojibway Syllabics orthography:
 
 
-![Ojibway Syllabics Orthography Chart](syllabics-knowledge/static syllabics charts/Ojibway-Syllabics.png)
+![Ojibway Syllabics Orthography Chart](/static%20syllabics%20charts/Ojibway-Syllabics.png)
 
 
 ❶ A major distinction towards local typographic preferences amongst Northern Ontario Ojibwe communities is in the preferred form or orientation of finals characters. This is notably the difference between Western and Eastern Cree finals forms, and the i-pos and a-pos orientation scheme of finals glyphs. This can vary between communities, and between users within the same community. Some northern Ontario Ojibwe communities may follow the form of the Western Cree finals shapes, while others the Eastern Cree. For those who use the Eastern Cree finals forms, they may follow either the "a vowel" (ᐊ ᐸ ᑲ ᓇ) position or "i vowel" (ᐃ ᐱ ᑭ ᓂ) position orientation, a convention unique to Ontario Ojibwe Syllabics. There can also be mixing of these two orientation positions within the same text. Unicode encodes both the "a" and "i" position finals orientations to accommodate these preferences.
 
 ❷ Note that there is a local preference for a horizontally-centered "n final" (ᓐ) for some Northwestern Ojibwe communities.
 
-<img src="https://user-images.githubusercontent.com/17300547/203145739-5a0d22d9-1f4e-473a-a854-27bfab760007.png" width="700">
+![Centered n-final, Ojibway Syllabics](/figures/mid-n-final_SyL-Knowledge-figures.png)
 
 ❸ Note that this small ring character `U+18DE ᣞ CANADIAN SYLLABICS FINAL SMALL RING` is often depicted as a raised glyph, sitting above the top line in some common, system-level Syllabics typefaces. This is a finals character and should be vertically positioned and drawn to work in harmony with the other finals glyphs, as in the example below:
 
