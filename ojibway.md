@@ -1,5 +1,4 @@
 # Ojibway Syllabics
-> General decription here
 
 ## ᐊᓂᐦᔑᓈᐯᒧᐎᓐ / Anishinaabemowin (Ojibway)
 Although all Ojibway language communities could use Syllabics to accurately represent their languages, it is important to note that not all Ojibway communtiies use this writing system. It is particularly the communities of northern Ontario and western Ojibway dialect speakers of Manitoba and Saskatchewan that have a current use of Syllabics. All other communities use a number of roman orthography systems to write their local dialects, including Algonquin, Odawa, Eastern Ojibwe, and Central Ojibwe. There is a relatively high degree of variation in the local typographic and orthographic preferences for Ojibway Syllabics between communities, particularly for communities in northern Ontario. This is particularly evident in northern Ontario communities, and can be seen primarily in the form and orientation of finals characters and their vertical positioning. The following chart shows the preferred representation of the Ojibway Syllabics orthography:
@@ -14,9 +13,9 @@ Although all Ojibway language communities could use Syllabics to accurately repr
 
 ![Centered n-final, Ojibway Syllabics](/figures/mid-n-final_SyL-Knowledge-figures.png)
 
-❸ Note that this small ring character `U+18DE ᣞ CANADIAN SYLLABICS FINAL SMALL RING` is often depicted as a raised glyph, sitting above the top line in some common, system-level Syllabics typefaces. This is a finals character and should be vertically positioned and drawn to work in harmony with the other finals glyphs, as in the example below:
+❸ Note that this small ring character U+18DE ᣞ CANADIAN SYLLABICS FINAL SMALL RING is often depicted as a raised glyph, sitting above the top line in some common, system-level Syllabics typefaces. This is a finals character and should be vertically positioned and drawn to work in harmony with the other finals glyphs, as in the example below:
 
-<img src="https://user-images.githubusercontent.com/17300547/203865591-c7b35564-cd10-42b4-a846-f1d0acb79d3d.png" width="760">
+![Correct graphic representation of U+18DE, small final ring](/figures/small%20final%20ring_SyL-Knowledge-figures.png)
 
 
 This glyph is used in several other Algonquian Syllabics using languages, and should appear in the same manner for all language communities.
@@ -35,12 +34,12 @@ Ojibway Syllabics Subset:
 
 Orthographically and typographically speaking, Oji-Cree follows the same general pattern as Western Cree and Ojibwe Syllabics: "w dot" positioned to the right, following the syllabic, and employing the Western Cree finals forms. The difference from Cree being that Oji-Cree requires the "sh series" (ᔐ ᔑ ᔓ ᔕ) in its orthography. Additionally, Oji-Cree may use Latin script full stop and hyphen in contemporary texts, rather than the local Syllabics characters.
 
-![Oji-Cree-Syllabics](https://user-images.githubusercontent.com/17300547/203162141-18a99ee9-149a-4322-b74c-c2943c9c0a20.png)
+![Oji-Cree-Syllabics Orthography Chart](/static%20syllabics%20charts/Oji-Cree-Syllabics.png)
 
 
 ❶ While variation exists within Northwestern Ojibway communities in regards to the positioning of the "w dot" between users in contemporary texts, Oji-Cree users always follow the Western Cree convention of placing "w dot" to the right of the modified base syllabic.
 
-There is variation, though, in how "w dot" is encoded in texts between communities and individual users within Oji-Cree communities. As in Northern Ojibway communities, users may encode the "w dot" as two distinct code points: `U+1427 ᐧ CANADIAN SYLLABICS FINAL MIDDLE DOT` plus the base syllabic glyph (ᐧ + ᐃ = ᐧᐃ). For an example of this encoding practice, see [ᐧᐊᐧᐊᑌ ᐊᒋᒧᐧᐃᓇᐣ / Wawatay News](https://wawataynews.ca/list-newspaper). Others may encode "w dot" sequences with the pre-composed base glyphs within UCAS, where "w dot" and the base syllabic are treated as a composite glyph (ᐎ, ᐗ).
+There is variation, though, in how "w dot" is encoded in texts between communities and individual users within Oji-Cree communities. As in Northern Ojibway communities, users may encode the "w dot" as two distinct code points: U+1427 ᐧ CANADIAN SYLLABICS FINAL MIDDLE DOT plus the base syllabic glyph (ᐧ + ᐃ = ᐧᐃ). For an example of this encoding practice, see [ᐧᐊᐧᐊᑌ ᐊᒋᒧᐧᐃᓇᐣ / Wawatay News](https://wawataynews.ca/list-newspaper). Others may encode "w dot" sequences with the pre-composed base glyphs within UCAS, where "w dot" and the base syllabic are treated as a composite glyph (ᐎ, ᐗ).
 
 
 Oji-Cree Syllabics Subset:
@@ -51,12 +50,12 @@ Oji-Cree Syllabics Subset:
 ## ᓇᐦᑲᐌᒧᐎᐣ (Nakawêmowin) (Western Ojibwe)
 Western Ojibwe is the dialect of Ojibwe spoken by the communities west of Ontario. As a result of their proximity to neighbouring Western Cree communities, the orthographic and typographic conventions tend to follow verry closely that of the Plains and Western Swampy Cree Syllabics, where "w dot" is positioned right of the base syllabic. Note that Western Ojibwe requires the "sh series" (ᔐ ᔑ ᔓ ᔕ) in it's orthographic repertoire – as does Oji-Cree – not needed in the Cree language orthographies.
 
-![Western-Ojibwe-Syllabics](https://user-images.githubusercontent.com/17300547/203817639-fb27162c-38fa-4264-9795-180229775729.png)
+![Western-Ojibwe-Syllabics Orthography Chart](/static%20syllabics%20charts/Western-Ojibwe-Syllabics.png)
 
 
 ❶ While Western Ojibwe typically follows the style Round form style of Syllabics, consistent with other Western Cree communities, it is possible that users prefer to have the glyphs ᔓ and ᔕ represented in the Square form style, while Eastern Ojibwe and Cree communities would represent this glyph in the Round form style, illustrated below:
 
-<img src="https://user-images.githubusercontent.com/17300547/203816901-f9bd6937-103e-481b-afb3-adaba34313f4.png" width="800">
+![Round form versus Square form "sh series" glyph representation](/figures/sh%20series_SyL-Knowledge-figures.png)
 
 
 Western Ojibwe Syllabics Subset:
