@@ -1,21 +1,21 @@
-# ᖃᓂᐅᔮᖅᐸᐃᑦ / Inuktut (Inuktitut)
+# ᖃᓂᐅᔮᖅᐸᐃᑦ (Inuktut) (Inuktitut)
 The Inuktut languages of Nunavut and Nunavik have had a very strong connection to and use of the Syllabics since the mid-19th century. While many Inuk communities in Nunavut use Syllabics as their primary and preferred writing system, it is important to note that not all Inuk communities in the Arctic use Syllabics to write their language. The chart below is a pan-Inuktut Syllabics chart, which represents the Syllabics orthographies of communities in Eastern and Western Nunavut, as well as Nunavik, who require the additional "ai" (ᐂ ᐰ ᑍ) and "aai" (ᐁ ᐯ ᑌ) vowels, as well as the local "h" series (ᕴ ᕵ ᕶ ᕷ ᕸ ᕹ ᕺ).
 
 > **Note on nomenclature:** Inuk speakers and communities prefer the spelling "[Inuktut](https://tusaalanga.ca/index.php/)" for their language name, as opposed to the persistent "Inuktitut", which is the common English spelling of the language.
 
 
 
-![Inuktut-Syllabics Complete Orthography Chart](/static%20syllabics%20charts/Inuktut-Syllabics.png)
+![Inuktut-Syllabics Complete Orthography Chart](/static-syllabics-charts/inuktut-syllabics.png)
 
 
 ❶ There is a local preference in Nunavik communities for the "ng series" (ᖕ), which takes the graphical representation of a combination of ᓐ + ᒃ, in contrast to the local preference for this same "ng" character in Nunavut Inuktut communities who use Syllabics, who prefer the sequence ᓐ + ᒡ = ᖕ. This is the same character with the same phonetic value across all communities, only that users from each community identify with their locally-preferred form. Unicode, and therefore general purpose, system level Syllabics typefaces, will represent instances of this glyph in the Nunavut preferred form, however, the Nunavik preferred "ng" can be accommodated by either mapping alternates to a stylistic set, or, providing a customized local build for Nunavik communities.
 
-![Nunavut and Nunavik preferred "ng"](/figures/ng-locl_SyL-Knowledge-figures.png)
+![Nunavut and Nunavik preferred "ng"](/figures/ng-locl.png)
 
 
 ❷ Note that the Nattilik community of Western Nunavut has a locally-preferred representation of the "ch series" (ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ), shown in the chart above, which features a closed "dot" form, rather than the standard open ring form used in the Dene, Cree, and Ojibway Syllabics. The Nattilik communiity requires this form variant in order to distinguish these characters from the "v series" (ᕕ ᕖ ᕗ ᕘ ᕙ ᕚ), which facilitates greater readability in texts.
 
-![Nattilik preferred ᕠ ᕤ ᕦ](/figures/Nattilik-locl-%E1%95%A0%E1%95%A4%E1%95%A6_SyL-Knowledge-figures.png)
+![Nattilik preferred ᕠ ᕤ ᕦ](/figures/nattilik-locl-%E1%95%A0%E1%95%A4%E1%95%A6.png)
 
 > Also note that Nattilingmiutut does not use a final character for the "ch series" (ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ), and therefore U+156A ᕪ CANADIAN SYLLABICS TH is not required for this orthography.
 

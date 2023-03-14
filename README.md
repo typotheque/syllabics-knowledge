@@ -12,7 +12,7 @@ https://www.typotheque.com/articles/syllabics_typographic_guidelines
 
 The following sections provide an overview of the local typographic preferences and orthographic requirements for each individual Indigenous language community that uses the Syllabics, with the purpose of typeface design and development in mind. For each community, their local Syllabics preferences have been presented graphically in the form of their Syllabics orthography chart, accompanied by footnotes were necessary beneath the chart that require attention.
 
-[General Typographic Requirements](/general%20requirements.md)
+[General Typographic Requirements](/general-requirements.md)
 
 [Ojibway Syllabics](/ojibway.md)
 
@@ -20,7 +20,7 @@ The following sections provide an overview of the local typographic preferences 
 
 [Naskapi Syllabics](/naskapi.md)
 
-[Blackfoot Syllabics (historical)](/blackfoot%20(historical).md)
+[Blackfoot Syllabics (historical)](/blackfoot-(historical).md)
 
 [Inuktut Syllabics](/inuktut.md)
 
@@ -33,6 +33,6 @@ The following sections provide an overview of the local typographic preferences 
 ## Resources for Syllabics typeface development
 
 
-[Syllabics Glyph Set](/glyph%20set/Syllabics%20glyph%20set)
+[Syllabics Glyph Set](/glyph-set/syllabics.csv)
 
-[Syllabics Kerning](/kerning.md)
+[Syllabics Kerning](/kerning/)

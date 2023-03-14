@@ -13,7 +13,7 @@ The Dakelh Syllabics should be represented in the same manner as the Square Form
 
 ❶ Unicode provides dedicated characters for most of the Dakelh Syllabics repertoire, however, there are some finals glyphs which are shared with other Indigenous language communities for their Syllabics orthographies which cause a conflict for Dakelh, primarily the finals characters: ᐦ ᐥ ᐪ ᐟ ᐠ ᐣ ᒼ ᑊ ᒡ ᐩ. These characters are used by other Cree, Ojibway, and Inuktut Syllabics-using communities, which position these glyphs at the top line, while in Dakelh they should be positioned at the mid line. It is possible to accommodate this by providing a customized build specific to the Dakelh Syllabics, rendering these glyphs in the locally-preferred Dakelh positions, or, mapping them as substitutions via OpenType Layout.
 
-![Dakelh (Carrier) Midline finals vertical positioning](/figures/Dakelh_finals-position_SyL-Knowledge-figures.png)
+![Dakelh (Carrier) Midline finals vertical positioning](/figures/dakelh-finals-position.png)
 
 
 ❷ Note that there are two graphically-identical "final plus" glyphs in Unicode: U+1429  ᐩ  CANADIAN SYLLABICS FINAL PLUS and U+1540  ᕀ  CANADIAN SYLLABICS WEST-CREE Y. Dakelh encodes this glyph as U+1429  ᐩ  CANADIAN SYLLABICS FINAL PLUS and as all finals in Dakelh Syllabics, should be positioned at the mid line, along with all other finals.
@@ -24,7 +24,7 @@ The Dakelh Syllabics should be represented in the same manner as the Square Form
 
 ❹ Dakelh Syllabics uses the modifier U+18DF ᣟ CANADIAN SYLLABICS SYLLABICS FINAL RAISED DOT, which marks the glottal stop in the Dakelh language. The vertical position of this glyph is often incorrectly represented in common system-level typefaces. In contrast to the other finals glyphs in the Dakelh Syllabics, it should sit at the top line, and not floating above, the full height of the syllabic glyphs, as it is intended to harmonize with the general rhythm of Syllabics texts.
 
-![U+18DF Carrier raised dot glottal stop correct vertical position](/figures/Dakelh-U%2B18DF_SyL-Knowledge-figures.png)
+![U+18DF Carrier raised dot glottal stop correct vertical position](/figures/dakelh-18DF.png)
 
 
 ###### Dakelh (Carrier) Syllabics Subset
