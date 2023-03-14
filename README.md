@@ -5,6 +5,8 @@ Ahead of undertaking a Syllabics font design project, it is useful to familiariz
 
 https://www.typotheque.com/articles/syllabics_typographic_guidelines
 
+<br>
+
 
 ## Recommendations for Syllabics typeface development
 
@@ -25,6 +27,11 @@ The following sections provide an overview of the local typographic preferences 
 [Dene Syllabics](/dene.md)
 
 [Dakelh (Carrier) Syllabics](/carrier.md)
+
+<br>
+
+## Resources for Syllabics typeface development
+
 
 [Syllabics Glyph Set](/glyph%20set/Syllabics%20glyph%20set)
 
