@@ -1,12 +1,27 @@
 # Syllabics Knowledge
-The purpose of this repository is to provide resources to those interested in developing Canadian Syllabics typefaces for the various Indigneous communities in North America that use this writing system.
+The purpose of this repository is to provide recommendations and resources to those interested in developing Canadian Syllabics typefaces for the various Indigneous communities in North America that use this writing system, to comply with the Unified Canadian Aboriginal Syllabics (UCAS) encoding representation in the Unicode Standard.
 
-Ahead of undertaking a Syllabics font design project, it is useful to familiarize oneself with the inherent concepts of the writing system, as well as the historical and contemporary context effecting the local typographic variation present within the Syllabics across the different Indigenous user communities that use this writing system. The following article presents this overview and these details:
+Inside you will find a recommendations page for each Syllabics-using Indigenous language that provides an example of each community's orthography chart, rendered in each's locally-preferred typographic representation. Footnotes are provided for each chart to describe local preference variantions for each community, as well as a glyph subset of the larger UCAS for each local community.
 
-https://www.typotheque.com/articles/syllabics_typographic_guidelines
+A description of general typographic requirements has been provided alongside the language-specific pages to provide recommendations for supporting behaviours that apply to all language communities. Recommended UCAS glyph set data for font development has been provided, as well as kerning data for implementing in Syllabics typefaces.
 
 <br>
 
+## Understanding the Syllabics writing system
+
+Ahead of undertaking a Syllabics font design project, it is useful to familiarize oneself with the inherent concepts of this writing system and the historical and contemporary context effecting the local typographic variation present within the Syllabics across different  user communities. 
+
+The following article presents a comprehensive overview  Syllabics typography:
+
+[Syllabics typographic guidelines and local typographic preferences](https://www.typotheque.com/articles/syllabics_typographic_guidelines)
+
+<br>
+
+This module series from Google Fonts Knowledge is a great introduction to Syllabics Typography, in a more simplified format for quick reference:
+
+[The Canadian Syllabics](https://fonts.google.com/knowledge/the_canadian_syllabics)
+
+<br>
 
 ## Recommendations for Syllabics typeface development
 
