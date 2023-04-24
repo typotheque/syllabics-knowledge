@@ -37,6 +37,9 @@ As noted in the above section "Syllabics vertical metrics", Syllabics glyphs sho
 
 ![Syllabics tailored numerals](/figures/syllabics-numeral-proportions.png)
 
+The following standard numerals are used for Syllabics, from which alternates for Syllabics-specific forms can be designed and mapped:
+> 0 1 2 3 4 5 6 7 8 9
+
 <br>
 
 ## Syllabics punctuation
