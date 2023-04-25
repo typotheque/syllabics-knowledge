@@ -2,7 +2,7 @@
 Within the context of Syllabics typography, kerning has very rarely – if ever – been implemented into any typeface, despite the dramatic positive impact it has on improving the legibility and readability of Syllabics texts across all user communities. 
 
 ![Syllabics Kerning](/figures/syllabics-kerning.png)
-##### The above image shows a simple comparison of a Nattilingmiutut Syllabics text, without (top) and with (bottom) kerning. The word image is obscured in unkerned example, top, causing the word to break apart. In the kerned example, bottom, the two words are clearly defined, and can be read with much greater clarity and ease. 
+###### The above image shows a simple comparison of a Nattilingmiutut Syllabics text, without (top) and with (bottom) kerning. The word image is obscured in unkerned example, top, causing the word to break apart. In the kerned example, bottom, the two words are clearly defined from one another, and can be read with much greater clarity and ease. Additionally, the paragraph of text is much more organized and easy to read, and more economical, with a notable savings in the number words-per-line.
 <br>
 
 
@@ -23,11 +23,27 @@ By applying kerning to these sequences (along with other sequences of full heigh
 
 ![Kerning applied to Syllabics glyphs](/figures/syllabics-kerning-applied.png)
 
-This is particularly true for the Algonquian and Inuktut Syllabics, who follow the Round form style of Syllabics, which contain many sequences of medial-height-syllabic-to-raised finals characters. Dakelh (Carrier) Syllabics, for example, follow the Square form Syllabics style pattern and are largely disunified from the Algonquian and Inuktut Syllabics in Unicode, and should be treated as a separate set for kerning purposes.
+This is particularly true for the Algonquian and Inuktut Syllabics, who follow the Round form style of Syllabics, which contain many sequences of medial-height-syllabic-to-raised finals characters. Dakelh (Carrier) Syllabics, for example, follow the Square form Syllabics style pattern and are largely disunified from the Algonquian and Inuktut Syllabics in Unicode, and should be treated as a separate set for kerning purposes:
+
+![Comparison of kerning across different languages](/figures/syllabics-kerning-languages.png)
+
+<br>
 
 ## Kerning Classes
 One reasonable concern for implementing kerning for a pan-UCAS Syllabics font (a Syllabics font that supports the enture Unified Canadian Aboriginal Syllabics encoding in Unicode) is the sheer size of the work. Luckily, the inherent behaviour of rotation within the writing system can be leveraged to significantly reduce the workload by grouping common syllabic and finals shapes together into kerning classes.
 
-As a result of the Syllabics's principle of rotation, many of the medial height and full height syllabic characters that require kerning are repeated shapes, only that their orientation has changed. Furthermore, many of the medial height syllabic glyphs that cause a large amount of white space preceeding or proceeding a finals character (ᓇᓚᖤᕆ) have a similar volume of white space above them which allow them to be grouped together.
+As a result of the Syllabics's principle of rotation, many of the medial height and full height syllabic characters that require kerning are repeated shapes, only that their orientation has changed. Furthermore, many of the medial height syllabic glyphs that cause a large amount of white space preceeding or proceeding a finals character (ᓇᓚᖤᕆ) have a similar volume of white space above them which allow them to be grouped together:
 
-The finals characers – which either follow the pattern of being a superscripted version of the a-vowel in a series, or, a distinct, superscript-sized mark – share for a very large part the same general width proportion, and occupy a relatively similar amount of general space. Although there are exceptions, a large portion of these finals characters can be kerned to the same value as one another, and therefore, they can be grouped together into kerning classes to reduce the amount of pairs that have to be individually treated.
+![Medial height Syllabics character group](/figures/medial-syllabic-group.png)
+
+The finals characers – which either follow the pattern of being a superscripted version of the a-vowel in a series, or, a distinct, superscript-sized mark – share for a very large part the same general width proportion, and occupy a relatively similar amount of general space. Although there are exceptions, a large portion of these finals characters can be kerned to the same value as one another, and therefore, they can be grouped together into kerning classes to reduce the amount of pairs that have to be individually treated:
+
+![finals kerning group](/figures/syllabics-kerning-finals-groups.png)
+
+With this in mind, one could devise kerning classes which group as many of the related medial height syllabic characters together as possible, and similarly, as large a group as is possible of the finals characters, in order to assign classes which kern a large amount of Syllabics kerning pairs:
+
+![Syllabics kerning classes](/figures/syllabics-kerning-classes.png)
+
+
+
+
