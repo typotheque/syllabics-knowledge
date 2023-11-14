@@ -1,104 +1,104 @@
 category,glyph name,composition,code point,(char.),(character name),(compatible glyph name)
 component,dieresis-cans,,,,,dieresisCans
-component,ring-above-cans,,,,,ringAboveCans
-component,dot-above-cans,,,,,dotAboveCans
-component,crossbar-above-cans,,,,,crossbarAboveCans
+component,ringAbove-cans,,,,,ringAboveCans
+component,dotAbove-cans,,,,,dotAboveCans
+component,crossbarAbove-cans,,,,,crossbarAboveCans
 component,colon-cans,,,,,colonCans
-punctuation,full-stop-cans,sub-cross-cans,0x166E,᙮,CANADIAN SYLLABICS FULL STOP,fullStopCans
-punctuation,double-dash-cans,,0x1400,᐀,CANADIAN SYLLABICS HYPHEN,doubleDashCans
-final,sup-latin-l-cans,,0x18F3,ᣳ,CANADIAN SYLLABICS BEAVER DENE L,supLatinLCans
-final,sup-latin-r-cans,,0x18F4,ᣴ,CANADIAN SYLLABICS BEAVER DENE R,supLatinRCans
-final,sup-cross-cans,,0x157D,ᕽ,CANADIAN SYLLABICS HK,supCrossCans
-final,sub-cross-cans,,0x1541,ᕁ,CANADIAN SYLLABICS SAYISI YI,subCrossCans
-final,sup-l-cans,,0x14EB,ᓫ,CANADIAN SYLLABICS WEST-CREE L,supLCans
-final,sup-r-cans,,0x1551,ᕑ,CANADIAN SYLLABICS WEST-CREE R,supRCans
+punctuation,fullStop-cans,subCross-cans,0x166E,᙮,CANADIAN SYLLABICS FULL STOP,fullStopCans
+punctuation,doubleDash-cans,,0x1400,᐀,CANADIAN SYLLABICS HYPHEN,doubleDashCans
+final,supLatinL-cans,,0x18F3,ᣳ,CANADIAN SYLLABICS BEAVER DENE L,supLatinLCans
+final,supLatinR-cans,,0x18F4,ᣴ,CANADIAN SYLLABICS BEAVER DENE R,supLatinRCans
+final,supCross-cans,,0x157D,ᕽ,CANADIAN SYLLABICS HK,supCrossCans
+final,subCross-cans,,0x1541,ᕁ,CANADIAN SYLLABICS SAYISI YI,subCrossCans
+final,supL-cans,,0x14EB,ᓫ,CANADIAN SYLLABICS WEST-CREE L,supLCans
+final,supR-cans,,0x1551,ᕑ,CANADIAN SYLLABICS WEST-CREE R,supRCans
 final,ring-cans,,0x1424,ᐤ,CANADIAN SYLLABICS FINAL RING,ringCans
-final,sup-ring-cans,,0x18DE,ᣞ,CANADIAN SYLLABICS FINAL SMALL RING,supRingCans
+final,supRing-cans,,0x18DE,ᣞ,CANADIAN SYLLABICS FINAL SMALL RING,supRingCans
 final,dot-cans,,0x1427,ᐧ,CANADIAN SYLLABICS FINAL MIDDLE DOT,dotCans
-final,sup-dot-cans,,0x18DF,ᣟ,CANADIAN SYLLABICS FINAL RAISED DOT,supDotCans
-final,sup-double-dash-cans,,0x167F,ᙿ,CANADIAN SYLLABICS BLACKFOOT W,supDoubleDashCans
-final,sup-pipe-cans,,0x144A,ᑊ,CANADIAN SYLLABICS WEST-CREE P,supPipeCans
-final,sup-double-pipe-cans,"sup-pipe-cans, sup-pipe-cans",0x1426,ᐦ,CANADIAN SYLLABICS FINAL DOUBLE SHORT VERTICAL STROKES,supDoublePipeCans
-final,sup-acute-cans,,0x141F,ᐟ,CANADIAN SYLLABICS FINAL ACUTE,supAcuteCans
-final,sup-double-acute-cans,"sup-acute-cans, sup-acute-cans",0x1425,ᐥ,CANADIAN SYLLABICS FINAL DOUBLE ACUTE,supDoubleAcuteCans
-final,sup-grave-cans,,0x1420,ᐠ,CANADIAN SYLLABICS FINAL GRAVE,supGraveCans
-final,sup-dash-cans,,0x1428,ᐨ,CANADIAN SYLLABICS FINAL SHORT HORIZONTAL STROKE,supDashCans
-final,sup-double-dash-with-pipe-cans,,0x167E,ᙾ,CANADIAN SYLLABICS WOODS-CREE FINAL TH,supDoubleDashWithPipeCans
-final,sup-left-half-ring-cans,,0x14BC,ᒼ,CANADIAN SYLLABICS WEST-CREE M,supLeftHalfRingCans
-final,sup-right-half-ring-cans,,0x1423,ᐣ,CANADIAN SYLLABICS FINAL RIGHT HALF RING,supRightHalfRingCans
-final,sup-top-half-ring-cans,,0x1422,ᐢ,CANADIAN SYLLABICS FINAL TOP HALF RING,supTopHalfRingCans
-final,sup-bottom-half-ring-cans,,0x1421,ᐡ,CANADIAN SYLLABICS FINAL BOTTOM HALF RING,supBottomHalfRingCans
-final,sup-plus-cans,,0x1429,ᐩ,CANADIAN SYLLABICS FINAL PLUS,supPlusCans
-final,mid-plus-cans,,0x1540,ᕀ,CANADIAN SYLLABICS WEST-CREE Y,midPlusCans
-final,sup-down-tack-cans,,0x142A,ᐪ,CANADIAN SYLLABICS FINAL DOWN TACK,supDownTackCans
-final,sup-ai-cans,,0x141C,ᐜ,CANADIAN SYLLABICS AI,supAiCans
-final,sup-y-cans,,0x153F,ᔿ,CANADIAN SYLLABICS BIBLE-CREE Y,supYCans
-final,sub-ring-cans,,,,,subRingCans
-final,mid-latin-h-cans,,0x144B,ᑋ,CANADIAN SYLLABICS CARRIER H,midLatinHCans
-final,mid-latin-s-cans,,0x1506,ᔆ,CANADIAN SYLLABICS ATHAPASCAN S,midLatinSCans
-final,mid-latin-s-with-flat-terminals-cans,,0x18F5,ᣵ,CANADIAN SYLLABICS CARRIER DENTAL S,midLatinSWithFlatTerminalsCans
-final,mid-latin-s-with-stroke-cans,,0x165A,ᙚ,CANADIAN SYLLABICS CARRIER SH,midLatinSWithStrokeCans
-final,mid-latin-z-cans,,0x1646,ᙆ,CANADIAN SYLLABICS CARRIER Z,midLatinZCans
-final,mid-latin-z-with-stroke-cans,,0x1647,ᙇ,CANADIAN SYLLABICS CARRIER INITIAL Z,midLatinZWithStrokeCans
-final,mid-latin-turned-h-cans,,0x1DA3,ᶣ,MODIFIER LETTER SMALL TURNED H,midLatinTurnedHCans
-final,dot_sup-ring-cans,"dot-cans, sup-ring-cans",0x141D,ᐝ,CANADIAN SYLLABICS Y-CREE W,dotCans_supRingCans
-final,sup-double-asterisk-cans,,0x156F,ᕯ,CANADIAN SYLLABICS TTH,supDoubleAsteriskCans
-final,sup-i-cans,,0x141E,ᐞ,CANADIAN SYLLABICS GLOTTAL STOP,supICans
-final,sup-dot-i-cans,,0x18DC,ᣜ,CANADIAN SYLLABICS EASTERN W,supDotICans
-final,sup-i-dot-cans,,0x18DD,ᣝ,CANADIAN SYLLABICS WESTERN W,supIDotCans
-final,sup-pi-cans,,0x18D4,ᣔ,CANADIAN SYLLABICS OJIBWAY P,supPiCans
-final,sup-pa-cans,,0x1449,ᑉ,CANADIAN SYLLABICS P,supPaCans
-final,sup-fa-cans,,0x155D,ᕝ,CANADIAN SYLLABICS F,supFaCans
-final,sup-tha-cans,,0x156A,ᕪ,CANADIAN SYLLABICS TH,supThaCans
-final,sup-ki-cans,,0x18D6,ᣖ,CANADIAN SYLLABICS OJIBWAY K,supKiCans
-final,sup-ko-cans,,0x1484,ᒄ,CANADIAN SYLLABICS KW,supKoCans
-final,sup-ka-cans,,0x1483,ᒃ,CANADIAN SYLLABICS K,supKaCans
-final,sup-ni-cans,,0x18D9,ᣙ,CANADIAN SYLLABICS OJIBWAY N,supNiCans
-final,sup-no-cans,,0x14D2,ᓒ,CANADIAN SYLLABICS NH,supNoCans
-final,sup-na-cans,,0x14D0,ᓐ,CANADIAN SYLLABICS N,supNaCans
-final,sup-na-tha-cans,,0x159F,ᖟ,CANADIAN SYLLABICS WOODS-CREE TH,supNaThaCans
-final,sup-ka-ha-cans,,0x157B,ᕻ,CANADIAN SYLLABICS NUNAVIK H,supKaHaCans
-final,sup-ra-cans,,0x1550,ᕐ,CANADIAN SYLLABICS R,supRaCans
-final,sup-ra_sup-ka-cans,"sup-ra-cans, sup-ka-cans",0x1585,ᖅ,CANADIAN SYLLABICS Q,supRaCans_supKaCans
-final,sup-na-ca-cans,,0x1595,ᖕ,CANADIAN SYLLABICS NG,supNaCaCans
-final,sup-na-na-ca-cans,,0x1596,ᖖ,CANADIAN SYLLABICS NNG,supNaNaCaCans
-final,sup-na-ka-cans,,,,,supNaKaCans
-final,sup-na-na-ka-cans,,,,,supNaNaKaCans
-final,sup-na-ka_sup-na-ka-cans,"sup-na-ka-cans, sup-na-ka-cans",,,,supNaKaCans_supNaKaCans
-final,sup-la-cans,,0x14EA,ᓪ,CANADIAN SYLLABICS L,supLaCans
-final,sup-ci-cans,,0x18D7,ᣗ,CANADIAN SYLLABICS OJIBWAY C,supCiCans
-final,sup-ca-cans,,0x14A1,ᒡ,CANADIAN SYLLABICS C,supCaCans
-final,sup-lha-cans,,0x15A6,ᖦ,CANADIAN SYLLABICS LH,supLhaCans
-final,sup-mi-cans,,0x18D8,ᣘ,CANADIAN SYLLABICS OJIBWAY M,supMiCans
-final,sup-mo-cans,,0x14BD,ᒽ,CANADIAN SYLLABICS MH,supMoCans
-final,sup-ma-cans,,0x14BB,ᒻ,CANADIAN SYLLABICS M,supMaCans
-final,sup-si-cans,,0x18DA,ᣚ,CANADIAN SYLLABICS OJIBWAY S,supSiCans
-final,sup-so-cans,,0x1507,ᔇ,CANADIAN SYLLABICS SW,supSoCans
-final,sup-sa-cans,,0x1505,ᔅ,CANADIAN SYLLABICS S,supSaCans
-final,sup-so-ka-cans,,0x150A,ᔊ,CANADIAN SYLLABICS NASKAPI SKW,supSoKaCans
-final,sup-sa-ko-cans,,0x1509,ᔉ,CANADIAN SYLLABICS MOOSE-CREE SK,supSaKoCans
-final,sup-sa-with-dots-cans,,0x150B,ᔋ,CANADIAN SYLLABICS NASKAPI S-W,supSaWithDotsCans
-final,sup-ya-cans,,0x153E,ᔾ,CANADIAN SYLLABICS Y,supYaCans
-final,sup-ya-tha-cans,,0x15AE,ᖮ,CANADIAN SYLLABICS TH-CREE TH,supYaThaCans
-final,sup-shi-cans,,0x18DB,ᣛ,CANADIAN SYLLABICS OJIBWAY SH,supShiCans
-final,sup-sha-cans,,0x1525,ᔥ,CANADIAN SYLLABICS SH,supShaCans
-final,sup-blackfoot-s-cans,,0x1508,ᔈ,CANADIAN SYLLABICS BLACKFOOT S,supBlackfootSCans
-final,sup-sayisi-m-cans,,0x14BE,ᒾ,CANADIAN SYLLABICS ATHAPASCAN M,supSayisiMCans
-final,sub-sayisi-th-cans,,0x14A2,ᒢ,CANADIAN SYLLABICS SAYISI TH,subSayisiThCans
-final,mid-carrier-ng-cans,,0x14D1,ᓑ,CANADIAN SYLLABICS CARRIER NG,midCarrierNgCans
-final,mid-carrier-p-cans,,0x15EE,ᗮ,CANADIAN SYLLABICS CARRIER P,midCarrierPCans
-final,mid-carrier-kk-cans,,0x1601,ᘁ,CANADIAN SYLLABICS CARRIER KK,midCarrierKkCans
-final,mid-double-pipe-cans,,,,,midDoublePipeCans
-final,mid-double-acute-cans,,,,,midDoubleAcuteCans
-final,mid-down-tack-cans,,,,,midDownTackCans
-final,mid-acute-cans,,,,,midAcuteCans
-final,mid-grave-cans,,,,,midGraveCans
-final,mid-right-half-ring-cans,,,,,midRightHalfRingCans
-final,mid-left-half-ring-cans,,,,,midLeftHalfRingCans
-final,mid-pipe-cans,,,,,midPipeCans
-final,mid-carrier-lh-cans,,,,,midCarrierLhCans
-syllabic,latin-b-cans,,0x15AF,ᖯ,CANADIAN SYLLABICS AIVILIK B,latinBCans
-syllabic,latin-cap-h-cans,,0x157C,ᕼ,CANADIAN SYLLABICS NUNAVUT H,latinCapHCans
+final,supDot-cans,,0x18DF,ᣟ,CANADIAN SYLLABICS FINAL RAISED DOT,supDotCans
+final,supDoubleDash-cans,,0x167F,ᙿ,CANADIAN SYLLABICS BLACKFOOT W,supDoubleDashCans
+final,supPipe-cans,,0x144A,ᑊ,CANADIAN SYLLABICS WEST-CREE P,supPipeCans
+final,supDoublePipe-cans,"supPipe-cans, supPipe-cans",0x1426,ᐦ,CANADIAN SYLLABICS FINAL DOUBLE SHORT VERTICAL STROKES,supDoublePipeCans
+final,supAcute-cans,,0x141F,ᐟ,CANADIAN SYLLABICS FINAL ACUTE,supAcuteCans
+final,supDoubleAcute-cans,"supAcute-cans, supAcute-cans",0x1425,ᐥ,CANADIAN SYLLABICS FINAL DOUBLE ACUTE,supDoubleAcuteCans
+final,supGrave-cans,,0x1420,ᐠ,CANADIAN SYLLABICS FINAL GRAVE,supGraveCans
+final,supDash-cans,,0x1428,ᐨ,CANADIAN SYLLABICS FINAL SHORT HORIZONTAL STROKE,supDashCans
+final,supDoubleDashWithPipe-cans,,0x167E,ᙾ,CANADIAN SYLLABICS WOODS-CREE FINAL TH,supDoubleDashWithPipeCans
+final,supLeftHalfRing-cans,,0x14BC,ᒼ,CANADIAN SYLLABICS WEST-CREE M,supLeftHalfRingCans
+final,supRightHalfRing-cans,,0x1423,ᐣ,CANADIAN SYLLABICS FINAL RIGHT HALF RING,supRightHalfRingCans
+final,supTopHalfRing-cans,,0x1422,ᐢ,CANADIAN SYLLABICS FINAL TOP HALF RING,supTopHalfRingCans
+final,supBottomHalfRing-cans,,0x1421,ᐡ,CANADIAN SYLLABICS FINAL BOTTOM HALF RING,supBottomHalfRingCans
+final,supPlus-cans,,0x1429,ᐩ,CANADIAN SYLLABICS FINAL PLUS,supPlusCans
+final,midPlus-cans,,0x1540,ᕀ,CANADIAN SYLLABICS WEST-CREE Y,midPlusCans
+final,supDownTack-cans,,0x142A,ᐪ,CANADIAN SYLLABICS FINAL DOWN TACK,supDownTackCans
+final,supAi-cans,,0x141C,ᐜ,CANADIAN SYLLABICS AI,supAiCans
+final,supY-cans,,0x153F,ᔿ,CANADIAN SYLLABICS BIBLE-CREE Y,supYCans
+final,subRing-cans,,,,,subRingCans
+final,midLatinH-cans,,0x144B,ᑋ,CANADIAN SYLLABICS CARRIER H,midLatinHCans
+final,midLatinS-cans,,0x1506,ᔆ,CANADIAN SYLLABICS ATHAPASCAN S,midLatinSCans
+final,midLatinSWithFlatTerminals-cans,,0x18F5,ᣵ,CANADIAN SYLLABICS CARRIER DENTAL S,midLatinSWithFlatTerminalsCans
+final,midLatinSWithStroke-cans,,0x165A,ᙚ,CANADIAN SYLLABICS CARRIER SH,midLatinSWithStrokeCans
+final,midLatinZ-cans,,0x1646,ᙆ,CANADIAN SYLLABICS CARRIER Z,midLatinZCans
+final,midLatinZWithStroke-cans,,0x1647,ᙇ,CANADIAN SYLLABICS CARRIER INITIAL Z,midLatinZWithStrokeCans
+final,midLatinTurnedH-cans,,0x1DA3,ᶣ,MODIFIER LETTER SMALL TURNED H,midLatinTurnedHCans
+final,dot_supRing-cans,"dot-cans, supRing-cans",0x141D,ᐝ,CANADIAN SYLLABICS Y-CREE W,dotCans_supRingCans
+final,supDoubleAsterisk-cans,,0x156F,ᕯ,CANADIAN SYLLABICS TTH,supDoubleAsteriskCans
+final,supI-cans,,0x141E,ᐞ,CANADIAN SYLLABICS GLOTTAL STOP,supICans
+final,supDotI-cans,,0x18DC,ᣜ,CANADIAN SYLLABICS EASTERN W,supDotICans
+final,supIDot-cans,,0x18DD,ᣝ,CANADIAN SYLLABICS WESTERN W,supIDotCans
+final,supPi-cans,,0x18D4,ᣔ,CANADIAN SYLLABICS OJIBWAY P,supPiCans
+final,supPa-cans,,0x1449,ᑉ,CANADIAN SYLLABICS P,supPaCans
+final,supFa-cans,,0x155D,ᕝ,CANADIAN SYLLABICS F,supFaCans
+final,supTha-cans,,0x156A,ᕪ,CANADIAN SYLLABICS TH,supThaCans
+final,supKi-cans,,0x18D6,ᣖ,CANADIAN SYLLABICS OJIBWAY K,supKiCans
+final,supKo-cans,,0x1484,ᒄ,CANADIAN SYLLABICS KW,supKoCans
+final,supKa-cans,,0x1483,ᒃ,CANADIAN SYLLABICS K,supKaCans
+final,supNi-cans,,0x18D9,ᣙ,CANADIAN SYLLABICS OJIBWAY N,supNiCans
+final,supNo-cans,,0x14D2,ᓒ,CANADIAN SYLLABICS NH,supNoCans
+final,supNa-cans,,0x14D0,ᓐ,CANADIAN SYLLABICS N,supNaCans
+final,supNaTha-cans,,0x159F,ᖟ,CANADIAN SYLLABICS WOODS-CREE TH,supNaThaCans
+final,supKaHa-cans,,0x157B,ᕻ,CANADIAN SYLLABICS NUNAVIK H,supKaHaCans
+final,supRa-cans,,0x1550,ᕐ,CANADIAN SYLLABICS R,supRaCans
+final,supRa_supKa-cans,"supRa-cans, supKa-cans",0x1585,ᖅ,CANADIAN SYLLABICS Q,supRaCans_supKaCans
+final,supNaCa-cans,,0x1595,ᖕ,CANADIAN SYLLABICS NG,supNaCaCans
+final,supNaNaCa-cans,,0x1596,ᖖ,CANADIAN SYLLABICS NNG,supNaNaCaCans
+final,supNaKa-cans,,,,,supNaKaCans
+final,supNaNaKa-cans,,,,,supNaNaKaCans
+final,supNaKa_supNaKa-cans,"supNaKa-cans, supNaKa-cans",,,,supNaKaCans_supNaKaCans
+final,supLa-cans,,0x14EA,ᓪ,CANADIAN SYLLABICS L,supLaCans
+final,supCi-cans,,0x18D7,ᣗ,CANADIAN SYLLABICS OJIBWAY C,supCiCans
+final,supCa-cans,,0x14A1,ᒡ,CANADIAN SYLLABICS C,supCaCans
+final,supLha-cans,,0x15A6,ᖦ,CANADIAN SYLLABICS LH,supLhaCans
+final,supMi-cans,,0x18D8,ᣘ,CANADIAN SYLLABICS OJIBWAY M,supMiCans
+final,supMo-cans,,0x14BD,ᒽ,CANADIAN SYLLABICS MH,supMoCans
+final,supMa-cans,,0x14BB,ᒻ,CANADIAN SYLLABICS M,supMaCans
+final,supSi-cans,,0x18DA,ᣚ,CANADIAN SYLLABICS OJIBWAY S,supSiCans
+final,supSo-cans,,0x1507,ᔇ,CANADIAN SYLLABICS SW,supSoCans
+final,supSa-cans,,0x1505,ᔅ,CANADIAN SYLLABICS S,supSaCans
+final,supSoKa-cans,,0x150A,ᔊ,CANADIAN SYLLABICS NASKAPI SKW,supSoKaCans
+final,supSaKo-cans,,0x1509,ᔉ,CANADIAN SYLLABICS MOOSE-CREE SK,supSaKoCans
+final,supSaWithDots-cans,,0x150B,ᔋ,CANADIAN SYLLABICS NASKAPI S-W,supSaWithDotsCans
+final,supYa-cans,,0x153E,ᔾ,CANADIAN SYLLABICS Y,supYaCans
+final,supYaTha-cans,,0x15AE,ᖮ,CANADIAN SYLLABICS TH-CREE TH,supYaThaCans
+final,supShi-cans,,0x18DB,ᣛ,CANADIAN SYLLABICS OJIBWAY SH,supShiCans
+final,supSha-cans,,0x1525,ᔥ,CANADIAN SYLLABICS SH,supShaCans
+final,supBlackfootS-cans,,0x1508,ᔈ,CANADIAN SYLLABICS BLACKFOOT S,supBlackfootSCans
+final,supSayisiM-cans,,0x14BE,ᒾ,CANADIAN SYLLABICS ATHAPASCAN M,supSayisiMCans
+final,subSayisiTh-cans,,0x14A2,ᒢ,CANADIAN SYLLABICS SAYISI TH,subSayisiThCans
+final,midCarrierNg-cans,,0x14D1,ᓑ,CANADIAN SYLLABICS CARRIER NG,midCarrierNgCans
+final,midCarrierP-cans,,0x15EE,ᗮ,CANADIAN SYLLABICS CARRIER P,midCarrierPCans
+final,midCarrierKk-cans,,0x1601,ᘁ,CANADIAN SYLLABICS CARRIER KK,midCarrierKkCans
+final,midDoublePipe-cans,,,,,midDoublePipeCans
+final,midDoubleAcute-cans,,,,,midDoubleAcuteCans
+final,midDownTack-cans,,,,,midDownTackCans
+final,midAcute-cans,,,,,midAcuteCans
+final,midGrave-cans,,,,,midGraveCans
+final,midRightHalfRing-cans,,,,,midRightHalfRingCans
+final,midLeftHalfRing-cans,,,,,midLeftHalfRingCans
+final,midPipe-cans,,,,,midPipeCans
+final,midCarrierLh-cans,,,,,midCarrierLhCans
+syllabic,latinB-cans,,0x15AF,ᖯ,CANADIAN SYLLABICS AIVILIK B,latinBCans
+syllabic,latinCapH-cans,,0x157C,ᕼ,CANADIAN SYLLABICS NUNAVUT H,latinCapHCans
 syllabic,cross-cans,,0x166D,᙭,CANADIAN SYLLABICS CHI SIGN,crossCans
 syllabic,l-cans,,0x14EC,ᓬ,CANADIAN SYLLABICS MEDIAL L,lCans
 syllabic,r-cans,,0x1552,ᕒ,CANADIAN SYLLABICS MEDIAL R,rCans
@@ -108,100 +108,100 @@ syllabic,o-cans,,0x1405,ᐅ,CANADIAN SYLLABICS O,oCans
 syllabic,a-cans,,0x140A,ᐊ,CANADIAN SYLLABICS A,aCans
 syllabic,dot_e-cans,"dot-cans, e-cans",0x140C,ᐌ,CANADIAN SYLLABICS WE,dotCans_eCans
 syllabic,e_dot-cans,"e-cans, dot-cans",0x140D,ᐍ,CANADIAN SYLLABICS WEST-CREE WE,eCans_dotCans
-syllabic,e_sup-grave-cans,"e-cans, sup-grave-cans",0x142B,ᐫ,CANADIAN SYLLABICS EN,eCans_supGraveCans
-syllabic,i_dot-above-cans,"i-cans, dot-above-cans",0x1404,ᐄ,CANADIAN SYLLABICS II,iCans_dotAboveCans
-syllabic,i_ring-above-cans,"i-cans, ring-above-cans",0x1402,ᐂ,CANADIAN SYLLABICS AAI,iCans_ringAboveCans
+syllabic,e_supGrave-cans,"e-cans, supGrave-cans",0x142B,ᐫ,CANADIAN SYLLABICS EN,eCans_supGraveCans
+syllabic,i_dotAbove-cans,"i-cans, dotAbove-cans",0x1404,ᐄ,CANADIAN SYLLABICS II,iCans_dotAboveCans
+syllabic,i_ringAbove-cans,"i-cans, ringAbove-cans",0x1402,ᐂ,CANADIAN SYLLABICS AAI,iCans_ringAboveCans
 syllabic,dot_i-cans,"dot-cans, i-cans",0x140E,ᐎ,CANADIAN SYLLABICS WI,dotCans_iCans
-syllabic,dot_i_dot-above-cans,"dot-cans, i-cans, dot-above-cans",0x1410,ᐐ,CANADIAN SYLLABICS WII,dotCans_iCans_dotAboveCans
+syllabic,dot_i_dotAbove-cans,"dot-cans, i-cans, dotAbove-cans",0x1410,ᐐ,CANADIAN SYLLABICS WII,dotCans_iCans_dotAboveCans
 syllabic,i_dot-cans,"i-cans, dot-cans",0x140F,ᐏ,CANADIAN SYLLABICS WEST-CREE WI,iCans_dotCans
-syllabic,i_dot-above_dot-cans,"i-cans, dot-above-cans, dot-cans",0x1411,ᐑ,CANADIAN SYLLABICS WEST-CREE WII,iCans_dotAboveCans_dotCans
-syllabic,i_sup-grave-cans,"i-cans, sup-grave-cans",0x142C,ᐬ,CANADIAN SYLLABICS IN,iCans_supGraveCans
-syllabic,o_dot-above-cans,"o-cans, dot-above-cans",0x1406,ᐆ,CANADIAN SYLLABICS OO,oCans_dotAboveCans
-syllabic,o_ring-above-cans,"o-cans, ring-above-cans",0x18B0,ᢰ,CANADIAN SYLLABICS OY,oCans_ringAboveCans
+syllabic,i_dotAbove_dot-cans,"i-cans, dotAbove-cans, dot-cans",0x1411,ᐑ,CANADIAN SYLLABICS WEST-CREE WII,iCans_dotAboveCans_dotCans
+syllabic,i_supGrave-cans,"i-cans, supGrave-cans",0x142C,ᐬ,CANADIAN SYLLABICS IN,iCans_supGraveCans
+syllabic,o_dotAbove-cans,"o-cans, dotAbove-cans",0x1406,ᐆ,CANADIAN SYLLABICS OO,oCans_dotAboveCans
+syllabic,o_ringAbove-cans,"o-cans, ringAbove-cans",0x18B0,ᢰ,CANADIAN SYLLABICS OY,oCans_ringAboveCans
 syllabic,o_dieresis-cans,"o-cans, dieresis-cans",0x1407,ᐇ,CANADIAN SYLLABICS Y-CREE OO,oCans_dieresisCans
 syllabic,dot_o-cans,"dot-cans, o-cans",0x1412,ᐒ,CANADIAN SYLLABICS WO,dotCans_oCans
-syllabic,dot_o_dot-above-cans,"dot-cans, o-cans, dot-above-cans",0x1414,ᐔ,CANADIAN SYLLABICS WOO,dotCans_oCans_dotAboveCans
+syllabic,dot_o_dotAbove-cans,"dot-cans, o-cans, dotAbove-cans",0x1414,ᐔ,CANADIAN SYLLABICS WOO,dotCans_oCans_dotAboveCans
 syllabic,o_dot-cans,"o-cans, dot-cans",0x1413,ᐓ,CANADIAN SYLLABICS WEST-CREE WO,oCans_dotCans
-syllabic,o_dot-above_dot-cans,"o-cans, dot-above-cans, dot-cans",0x1415,ᐕ,CANADIAN SYLLABICS WEST-CREE WOO,oCans_dotAboveCans_dotCans
-syllabic,o_sup-grave-cans,"o-cans, sup-grave-cans",0x142D,ᐭ,CANADIAN SYLLABICS ON,oCans_supGraveCans
-syllabic,a_dot-above-cans,"a-cans, dot-above-cans",0x140B,ᐋ,CANADIAN SYLLABICS AA,aCans_dotAboveCans
-syllabic,a_ring-above-cans,"a-cans, ring-above-cans",0x18B1,ᢱ,CANADIAN SYLLABICS AY,aCans_ringAboveCans
-syllabic,a_ring-above_dot-above-cans,"a-cans, ring-above-cans, dot-above-cans",0x18B2,ᢲ,CANADIAN SYLLABICS AAY,aCans_ringAboveCans_dotAboveCans
+syllabic,o_dotAbove_dot-cans,"o-cans, dotAbove-cans, dot-cans",0x1415,ᐕ,CANADIAN SYLLABICS WEST-CREE WOO,oCans_dotAboveCans_dotCans
+syllabic,o_supGrave-cans,"o-cans, supGrave-cans",0x142D,ᐭ,CANADIAN SYLLABICS ON,oCans_supGraveCans
+syllabic,a_dotAbove-cans,"a-cans, dotAbove-cans",0x140B,ᐋ,CANADIAN SYLLABICS AA,aCans_dotAboveCans
+syllabic,a_ringAbove-cans,"a-cans, ringAbove-cans",0x18B1,ᢱ,CANADIAN SYLLABICS AY,aCans_ringAboveCans
+syllabic,a_ringAbove_dotAbove-cans,"a-cans, ringAbove-cans, dotAbove-cans",0x18B2,ᢲ,CANADIAN SYLLABICS AAY,aCans_ringAboveCans_dotAboveCans
 syllabic,dot_a-cans,"dot-cans, a-cans",0x1417,ᐗ,CANADIAN SYLLABICS WA,dotCans_aCans
-syllabic,dot_a_dot-above-cans,"dot-cans, a-cans, dot-above-cans",0x1419,ᐙ,CANADIAN SYLLABICS WAA,dotCans_aCans_dotAboveCans
-syllabic,dot_a_ring-above-cans,"dot-cans, a-cans, ring-above-cans",0x18B3,ᢳ,CANADIAN SYLLABICS WAY,dotCans_aCans_ringAboveCans
+syllabic,dot_a_dotAbove-cans,"dot-cans, a-cans, dotAbove-cans",0x1419,ᐙ,CANADIAN SYLLABICS WAA,dotCans_aCans_dotAboveCans
+syllabic,dot_a_ringAbove-cans,"dot-cans, a-cans, ringAbove-cans",0x18B3,ᢳ,CANADIAN SYLLABICS WAY,dotCans_aCans_ringAboveCans
 syllabic,a_dot-cans,"a-cans, dot-cans",0x1418,ᐘ,CANADIAN SYLLABICS WEST-CREE WA,aCans_dotCans
-syllabic,a_dot-above_dot-cans,"a-cans, dot-above-cans, dot-cans",0x141A,ᐚ,CANADIAN SYLLABICS WEST-CREE WAA,aCans_dotAboveCans_dotCans
-syllabic,a_sup-grave-cans,"a-cans, sup-grave-cans",0x142E,ᐮ,CANADIAN SYLLABICS AN,aCans_supGraveCans
-syllabic,o-with-diagonal-dieresis-cans,,0x1416,ᐖ,CANADIAN SYLLABICS NASKAPI WOO,oWithDiagonalDieresisCans
-syllabic,a-with-diagonal-dieresis-cans,,0x141B,ᐛ,CANADIAN SYLLABICS NASKAPI WAA,aWithDiagonalDieresisCans
+syllabic,a_dotAbove_dot-cans,"a-cans, dotAbove-cans, dot-cans",0x141A,ᐚ,CANADIAN SYLLABICS WEST-CREE WAA,aCans_dotAboveCans_dotCans
+syllabic,a_supGrave-cans,"a-cans, supGrave-cans",0x142E,ᐮ,CANADIAN SYLLABICS AN,aCans_supGraveCans
+syllabic,oWithDiagonalDieresis-cans,,0x1416,ᐖ,CANADIAN SYLLABICS NASKAPI WOO,oWithDiagonalDieresisCans
+syllabic,aWithDiagonalDieresis-cans,,0x141B,ᐛ,CANADIAN SYLLABICS NASKAPI WAA,aWithDiagonalDieresisCans
 syllabic,pe-cans,,0x142F,ᐯ,CANADIAN SYLLABICS PE,peCans
 syllabic,pi-cans,,0x1431,ᐱ,CANADIAN SYLLABICS PI,piCans
 syllabic,po-cans,,0x1433,ᐳ,CANADIAN SYLLABICS PO,poCans
 syllabic,pa-cans,,0x1438,ᐸ,CANADIAN SYLLABICS PA,paCans
-syllabic,pi_ring-above-cans,"pi-cans, ring-above-cans",0x1430,ᐰ,CANADIAN SYLLABICS PAAI,piCans_ringAboveCans
-syllabic,pi_dot-above-cans,"pi-cans, dot-above-cans",0x1432,ᐲ,CANADIAN SYLLABICS PII,piCans_dotAboveCans
-syllabic,po_dot-above-cans,"po-cans, dot-above-cans",0x1434,ᐴ,CANADIAN SYLLABICS POO,poCans_dotAboveCans
-syllabic,pa_dot-above-cans,"pa-cans, dot-above-cans",0x1439,ᐹ,CANADIAN SYLLABICS PAA,paCans_dotAboveCans
+syllabic,pi_ringAbove-cans,"pi-cans, ringAbove-cans",0x1430,ᐰ,CANADIAN SYLLABICS PAAI,piCans_ringAboveCans
+syllabic,pi_dotAbove-cans,"pi-cans, dotAbove-cans",0x1432,ᐲ,CANADIAN SYLLABICS PII,piCans_dotAboveCans
+syllabic,po_dotAbove-cans,"po-cans, dotAbove-cans",0x1434,ᐴ,CANADIAN SYLLABICS POO,poCans_dotAboveCans
+syllabic,pa_dotAbove-cans,"pa-cans, dotAbove-cans",0x1439,ᐹ,CANADIAN SYLLABICS PAA,paCans_dotAboveCans
 syllabic,dot_pe-cans,"dot-cans, pe-cans",0x143A,ᐺ,CANADIAN SYLLABICS PWE,dotCans_peCans
 syllabic,pe_dot-cans,"pe-cans, dot-cans",0x143B,ᐻ,CANADIAN SYLLABICS WEST-CREE PWE,peCans_dotCans
 syllabic,dot_pi-cans,"dot-cans, pi-cans",0x143C,ᐼ,CANADIAN SYLLABICS PWI,dotCans_piCans
 syllabic,pi_dot-cans,"pi-cans, dot-cans",0x143D,ᐽ,CANADIAN SYLLABICS WEST-CREE PWI,piCans_dotCans
-syllabic,dot_pi_dot-above-cans,"dot-cans, pi-cans, dot-above-cans",0x143E,ᐾ,CANADIAN SYLLABICS PWII,dotCans_piCans_dotAboveCans
-syllabic,pi_dot-above_dot-cans,"pi-cans, dot-above-cans, dot-cans",0x143F,ᐿ,CANADIAN SYLLABICS WEST-CREE PWII,piCans_dotAboveCans_dotCans
+syllabic,dot_pi_dotAbove-cans,"dot-cans, pi-cans, dotAbove-cans",0x143E,ᐾ,CANADIAN SYLLABICS PWII,dotCans_piCans_dotAboveCans
+syllabic,pi_dotAbove_dot-cans,"pi-cans, dotAbove-cans, dot-cans",0x143F,ᐿ,CANADIAN SYLLABICS WEST-CREE PWII,piCans_dotAboveCans_dotCans
 syllabic,dot_po-cans,"dot-cans, po-cans",0x1440,ᑀ,CANADIAN SYLLABICS PWO,dotCans_poCans
 syllabic,po_dot-cans,"po-cans, dot-cans",0x1441,ᑁ,CANADIAN SYLLABICS WEST-CREE PWO,poCans_dotCans
-syllabic,dot_po_dot-above-cans,"dot-cans, po-cans, dot-above-cans",0x1442,ᑂ,CANADIAN SYLLABICS PWOO,dotCans_poCans_dotAboveCans
-syllabic,po_dot-above_dot-cans,"po-cans, dot-above-cans, dot-cans",0x1443,ᑃ,CANADIAN SYLLABICS WEST-CREE PWOO,poCans_dotAboveCans_dotCans
+syllabic,dot_po_dotAbove-cans,"dot-cans, po-cans, dotAbove-cans",0x1442,ᑂ,CANADIAN SYLLABICS PWOO,dotCans_poCans_dotAboveCans
+syllabic,po_dotAbove_dot-cans,"po-cans, dotAbove-cans, dot-cans",0x1443,ᑃ,CANADIAN SYLLABICS WEST-CREE PWOO,poCans_dotAboveCans_dotCans
 syllabic,dot_pa-cans,"dot-cans, pa-cans",0x1444,ᑄ,CANADIAN SYLLABICS PWA,dotCans_paCans
 syllabic,pa_dot-cans,"pa-cans, dot-cans",0x1445,ᑅ,CANADIAN SYLLABICS WEST-CREE PWA,paCans_dotCans
-syllabic,dot_pa_dot-above-cans,"dot-cans, pa-cans, dot-above-cans",0x1446,ᑆ,CANADIAN SYLLABICS PWAA,dotCans_paCans_dotAboveCans
-syllabic,pa_dot-above_dot-cans,"pa-cans, dot-above-cans, dot-cans",0x1447,ᑇ,CANADIAN SYLLABICS WEST-CREE PWAA,paCans_dotAboveCans_dotCans
-syllabic,po_ring-above-cans,"po-cans, ring-above-cans",0x18B4,ᢴ,CANADIAN SYLLABICS POY,poCans_ringAboveCans
-syllabic,pa_ring-above-cans,"pa-cans, ring-above-cans",0x18B5,ᢵ,CANADIAN SYLLABICS PAY,paCans_ringAboveCans
-syllabic,dot_po_ring-above-cans,"dot-cans, po-cans, ring-above-cans",0x18B6,ᢶ,CANADIAN SYLLABICS PWOY,dotCans_poCans_ringAboveCans
+syllabic,dot_pa_dotAbove-cans,"dot-cans, pa-cans, dotAbove-cans",0x1446,ᑆ,CANADIAN SYLLABICS PWAA,dotCans_paCans_dotAboveCans
+syllabic,pa_dotAbove_dot-cans,"pa-cans, dotAbove-cans, dot-cans",0x1447,ᑇ,CANADIAN SYLLABICS WEST-CREE PWAA,paCans_dotAboveCans_dotCans
+syllabic,po_ringAbove-cans,"po-cans, ringAbove-cans",0x18B4,ᢴ,CANADIAN SYLLABICS POY,poCans_ringAboveCans
+syllabic,pa_ringAbove-cans,"pa-cans, ringAbove-cans",0x18B5,ᢵ,CANADIAN SYLLABICS PAY,paCans_ringAboveCans
+syllabic,dot_po_ringAbove-cans,"dot-cans, po-cans, ringAbove-cans",0x18B6,ᢶ,CANADIAN SYLLABICS PWOY,dotCans_poCans_ringAboveCans
 syllabic,po_dieresis-cans,"po-cans, dieresis-cans",0x1435,ᐵ,CANADIAN SYLLABICS Y-CREE POO,poCans_dieresisCans
 syllabic,pa_dieresis-cans,"pa-cans, dieresis-cans",0x1448,ᑈ,CANADIAN SYLLABICS Y-CREE PWAA,paCans_dieresisCans
-syllabic,pa-with-diagonal-dieresis-cans,,,,,paWithDiagonalDieresisCans
+syllabic,paWithDiagonalDieresis-cans,,,,,paWithDiagonalDieresisCans
 syllabic,fe-cans,,0x1553,ᕓ,CANADIAN SYLLABICS FE,feCans
 syllabic,fi-cans,,0x1555,ᕕ,CANADIAN SYLLABICS FI,fiCans
 syllabic,fo-cans,,0x1557,ᕗ,CANADIAN SYLLABICS FO,foCans
 syllabic,fa-cans,,0x1559,ᕙ,CANADIAN SYLLABICS FA,faCans
-syllabic,fi_ring-above-cans,"fi-cans, ring-above-cans",0x1554,ᕔ,CANADIAN SYLLABICS FAAI,fiCans_ringAboveCans
-syllabic,fi_dot-above-cans,"fi-cans, dot-above-cans",0x1556,ᕖ,CANADIAN SYLLABICS FII,fiCans_dotAboveCans
-syllabic,fo_dot-above-cans,"fo-cans, dot-above-cans",0x1558,ᕘ,CANADIAN SYLLABICS FOO,foCans_dotAboveCans
-syllabic,fa_dot-above-cans,"fa-cans, dot-above-cans",0x155A,ᕚ,CANADIAN SYLLABICS FAA,faCans_dotAboveCans
-syllabic,dot_fa_dot-above-cans,"dot-cans, fa-cans, dot-above-cans",0x155B,ᕛ,CANADIAN SYLLABICS FWAA,dotCans_faCans_dotAboveCans
-syllabic,fa_dot-above_dot-cans,"fa-cans, dot-above-cans, dot-cans",0x155C,ᕜ,CANADIAN SYLLABICS WEST-CREE FWAA,faCans_dotAboveCans_dotCans
+syllabic,fi_ringAbove-cans,"fi-cans, ringAbove-cans",0x1554,ᕔ,CANADIAN SYLLABICS FAAI,fiCans_ringAboveCans
+syllabic,fi_dotAbove-cans,"fi-cans, dotAbove-cans",0x1556,ᕖ,CANADIAN SYLLABICS FII,fiCans_dotAboveCans
+syllabic,fo_dotAbove-cans,"fo-cans, dotAbove-cans",0x1558,ᕘ,CANADIAN SYLLABICS FOO,foCans_dotAboveCans
+syllabic,fa_dotAbove-cans,"fa-cans, dotAbove-cans",0x155A,ᕚ,CANADIAN SYLLABICS FAA,faCans_dotAboveCans
+syllabic,dot_fa_dotAbove-cans,"dot-cans, fa-cans, dotAbove-cans",0x155B,ᕛ,CANADIAN SYLLABICS FWAA,dotCans_faCans_dotAboveCans
+syllabic,fa_dotAbove_dot-cans,"fa-cans, dotAbove-cans, dot-cans",0x155C,ᕜ,CANADIAN SYLLABICS WEST-CREE FWAA,faCans_dotAboveCans_dotCans
 syllabic,te-cans,,0x144C,ᑌ,CANADIAN SYLLABICS TE,teCans
 syllabic,ti-cans,,0x144E,ᑎ,CANADIAN SYLLABICS TI,tiCans
 syllabic,to-cans,,0x1450,ᑐ,CANADIAN SYLLABICS TO,toCans
 syllabic,ta-cans,,0x1455,ᑕ,CANADIAN SYLLABICS TA,taCans
-syllabic,sup-ti-cans,,0x18D5,ᣕ,CANADIAN SYLLABICS OJIBWAY T,supTiCans
-syllabic,sup-ta-cans,,0x1466,ᑦ,CANADIAN SYLLABICS T,supTaCans
-syllabic,ti_ring-above-cans,"ti-cans, ring-above-cans",0x144D,ᑍ,CANADIAN SYLLABICS TAAI,tiCans_ringAboveCans
-syllabic,ti_dot-above-cans,"ti-cans, dot-above-cans",0x144F,ᑏ,CANADIAN SYLLABICS TII,tiCans_dotAboveCans
-syllabic,to_dot-above-cans,"to-cans, dot-above-cans",0x1451,ᑑ,CANADIAN SYLLABICS TOO,toCans_dotAboveCans
-syllabic,ta_dot-above-cans,"ta-cans, dot-above-cans",0x1456,ᑖ,CANADIAN SYLLABICS TAA,taCans_dotAboveCans
+syllabic,supTi-cans,,0x18D5,ᣕ,CANADIAN SYLLABICS OJIBWAY T,supTiCans
+syllabic,supTa-cans,,0x1466,ᑦ,CANADIAN SYLLABICS T,supTaCans
+syllabic,ti_ringAbove-cans,"ti-cans, ringAbove-cans",0x144D,ᑍ,CANADIAN SYLLABICS TAAI,tiCans_ringAboveCans
+syllabic,ti_dotAbove-cans,"ti-cans, dotAbove-cans",0x144F,ᑏ,CANADIAN SYLLABICS TII,tiCans_dotAboveCans
+syllabic,to_dotAbove-cans,"to-cans, dotAbove-cans",0x1451,ᑑ,CANADIAN SYLLABICS TOO,toCans_dotAboveCans
+syllabic,ta_dotAbove-cans,"ta-cans, dotAbove-cans",0x1456,ᑖ,CANADIAN SYLLABICS TAA,taCans_dotAboveCans
 syllabic,dot_te-cans,"dot-cans, te-cans",0x1457,ᑗ,CANADIAN SYLLABICS TWE,dotCans_teCans
 syllabic,te_dot-cans,"te-cans, dot-cans",0x1458,ᑘ,CANADIAN SYLLABICS WEST-CREE TWE,teCans_dotCans
 syllabic,dot_ti-cans,"dot-cans, ti-cans",0x1459,ᑙ,CANADIAN SYLLABICS TWI,dotCans_tiCans
 syllabic,ti_dot-cans,"ti-cans, dot-cans",0x145A,ᑚ,CANADIAN SYLLABICS WEST-CREE TWI,tiCans_dotCans
-syllabic,dot_ti_dot-above-cans,"dot-cans, ti-cans, dot-above-cans",0x145B,ᑛ,CANADIAN SYLLABICS TWII,dotCans_tiCans_dotAboveCans
-syllabic,ti_dot-above_dot-cans,"ti-cans, dot-above-cans, dot-cans",0x145C,ᑜ,CANADIAN SYLLABICS WEST-CREE TWII,tiCans_dotAboveCans_dotCans
+syllabic,dot_ti_dotAbove-cans,"dot-cans, ti-cans, dotAbove-cans",0x145B,ᑛ,CANADIAN SYLLABICS TWII,dotCans_tiCans_dotAboveCans
+syllabic,ti_dotAbove_dot-cans,"ti-cans, dotAbove-cans, dot-cans",0x145C,ᑜ,CANADIAN SYLLABICS WEST-CREE TWII,tiCans_dotAboveCans_dotCans
 syllabic,dot_to-cans,"dot-cans, to-cans",0x145D,ᑝ,CANADIAN SYLLABICS TWO,dotCans_toCans
 syllabic,to_dot-cans,"to-cans, dot-cans",0x145E,ᑞ,CANADIAN SYLLABICS WEST-CREE TWO,toCans_dotCans
-syllabic,dot_to_dot-above-cans,"dot-cans, to-cans, dot-above-cans",0x145F,ᑟ,CANADIAN SYLLABICS TWOO,dotCans_toCans_dotAboveCans
-syllabic,to_dot-above_dot-cans,"to-cans, dot-above-cans, dot-cans",0x1460,ᑠ,CANADIAN SYLLABICS WEST-CREE TWOO,toCans_dotAboveCans_dotCans
+syllabic,dot_to_dotAbove-cans,"dot-cans, to-cans, dotAbove-cans",0x145F,ᑟ,CANADIAN SYLLABICS TWOO,dotCans_toCans_dotAboveCans
+syllabic,to_dotAbove_dot-cans,"to-cans, dotAbove-cans, dot-cans",0x1460,ᑠ,CANADIAN SYLLABICS WEST-CREE TWOO,toCans_dotAboveCans_dotCans
 syllabic,dot_ta-cans,"dot-cans, ta-cans",0x1461,ᑡ,CANADIAN SYLLABICS TWA,dotCans_taCans
 syllabic,ta_dot-cans,"ta-cans, dot-cans",0x1462,ᑢ,CANADIAN SYLLABICS WEST-CREE TWA,taCans_dotCans
-syllabic,dot_ta_dot-above-cans,"dot-cans, ta-cans, dot-above-cans",0x1463,ᑣ,CANADIAN SYLLABICS TWAA,dotCans_taCans_dotAboveCans
-syllabic,ta_dot-above_dot-cans,"ta-cans, dot-above-cans, dot-cans",0x1464,ᑤ,CANADIAN SYLLABICS WEST-CREE TWAA,taCans_dotAboveCans_dotCans
-syllabic,ta_ring-above-cans,"ta-cans, ring-above-cans",0x18B7,ᢷ,CANADIAN SYLLABICS TAY,taCans_ringAboveCans
-syllabic,te_sup-pipe-cans,"te-cans, sup-pipe-cans",0x1467,ᑧ,CANADIAN SYLLABICS TTE,teCans_supPipeCans
-syllabic,ti_sup-pipe-cans,"ti-cans, sup-pipe-cans",0x1468,ᑨ,CANADIAN SYLLABICS TTI,tiCans_supPipeCans
-syllabic,to_sup-pipe-cans,"to-cans, sup-pipe-cans",0x1469,ᑩ,CANADIAN SYLLABICS TTO,toCans_supPipeCans
-syllabic,ta_sup-pipe-cans,"ta-cans, sup-pipe-cans",0x146A,ᑪ,CANADIAN SYLLABICS TTA,taCans_supPipeCans
+syllabic,dot_ta_dotAbove-cans,"dot-cans, ta-cans, dotAbove-cans",0x1463,ᑣ,CANADIAN SYLLABICS TWAA,dotCans_taCans_dotAboveCans
+syllabic,ta_dotAbove_dot-cans,"ta-cans, dotAbove-cans, dot-cans",0x1464,ᑤ,CANADIAN SYLLABICS WEST-CREE TWAA,taCans_dotAboveCans_dotCans
+syllabic,ta_ringAbove-cans,"ta-cans, ringAbove-cans",0x18B7,ᢷ,CANADIAN SYLLABICS TAY,taCans_ringAboveCans
+syllabic,te_supPipe-cans,"te-cans, supPipe-cans",0x1467,ᑧ,CANADIAN SYLLABICS TTE,teCans_supPipeCans
+syllabic,ti_supPipe-cans,"ti-cans, supPipe-cans",0x1468,ᑨ,CANADIAN SYLLABICS TTI,tiCans_supPipeCans
+syllabic,to_supPipe-cans,"to-cans, supPipe-cans",0x1469,ᑩ,CANADIAN SYLLABICS TTO,toCans_supPipeCans
+syllabic,ta_supPipe-cans,"ta-cans, supPipe-cans",0x146A,ᑪ,CANADIAN SYLLABICS TTA,taCans_supPipeCans
 syllabic,to_dieresis-cans,"to-cans, dieresis-cans",0x1452,ᑒ,CANADIAN SYLLABICS Y-CREE TOO,toCans_dieresisCans
 syllabic,colon_ta-cans,"colon-cans, ta-cans",0x1465,ᑥ,CANADIAN SYLLABICS NASKAPI TWAA,colonCans_taCans
 syllabic,tthe-cans,,0x156B,ᕫ,CANADIAN SYLLABICS TTHE,ttheCans
@@ -209,226 +209,226 @@ syllabic,tthi-cans,,0x156C,ᕬ,CANADIAN SYLLABICS TTHI,tthiCans
 syllabic,ttho-cans,,0x156D,ᕭ,CANADIAN SYLLABICS TTHO,tthoCans
 syllabic,ttha-cans,,0x156E,ᕮ,CANADIAN SYLLABICS TTHA,tthaCans
 syllabic,tthe_dot-cans,"tthe-cans, dot-cans",0x18E5,ᣥ,CANADIAN SYLLABICS TTHWE,ttheCans_dotCans
-syllabic,ttho_dot-above-cans,"ttho-cans, dot-above-cans",0x18E6,ᣦ,CANADIAN SYLLABICS TTHOO,tthoCans_dotAboveCans
-syllabic,ttha_dot-above-cans,"ttha-cans, dot-above-cans",0x18E7,ᣧ,CANADIAN SYLLABICS TTHAA,tthaCans_dotAboveCans
+syllabic,ttho_dotAbove-cans,"ttho-cans, dotAbove-cans",0x18E6,ᣦ,CANADIAN SYLLABICS TTHOO,tthoCans_dotAboveCans
+syllabic,ttha_dotAbove-cans,"ttha-cans, dotAbove-cans",0x18E7,ᣧ,CANADIAN SYLLABICS TTHAA,tthaCans_dotAboveCans
 syllabic,tye-cans,,0x1570,ᕰ,CANADIAN SYLLABICS TYE,tyeCans
 syllabic,tyi-cans,,0x1571,ᕱ,CANADIAN SYLLABICS TYI,tyiCans
 syllabic,tyo-cans,,0x1572,ᕲ,CANADIAN SYLLABICS TYO,tyoCans
 syllabic,tya-cans,,0x1573,ᕳ,CANADIAN SYLLABICS TYA,tyaCans
 syllabic,the-cans,,0x155E,ᕞ,CANADIAN SYLLABICS THE,theCans
-syllabic,the-alt-cans,,0x155F,ᕟ,CANADIAN SYLLABICS N-CREE THE,theAltCans
+syllabic,theAlt-cans,,0x155F,ᕟ,CANADIAN SYLLABICS N-CREE THE,theAltCans
 syllabic,thi-cans,,0x1560,ᕠ,CANADIAN SYLLABICS THI,thiCans
-syllabic,thi-alt-cans,,0x1561,ᕡ,CANADIAN SYLLABICS N-CREE THI,thiAltCans
+syllabic,thiAlt-cans,,0x1561,ᕡ,CANADIAN SYLLABICS N-CREE THI,thiAltCans
 syllabic,tho-cans,,0x1564,ᕤ,CANADIAN SYLLABICS THO,thoCans
 syllabic,tha-cans,,0x1566,ᕦ,CANADIAN SYLLABICS THA,thaCans
-syllabic,thi_dot-above-cans,"thi-cans, dot-above-cans",0x1562,ᕢ,CANADIAN SYLLABICS THII,thiCans_dotAboveCans
-syllabic,thi-alt_dot-above-cans,"thi-alt-cans, dot-above-cans",0x1563,ᕣ,CANADIAN SYLLABICS N-CREE THII,thiAltCans_dotAboveCans
-syllabic,tho_dot-above-cans,"tho-cans, dot-above-cans",0x1565,ᕥ,CANADIAN SYLLABICS THOO,thoCans_dotAboveCans
-syllabic,tha_dot-above-cans,"tha-cans, dot-above-cans",0x1567,ᕧ,CANADIAN SYLLABICS THAA,thaCans_dotAboveCans
-syllabic,dot_tha_dot-above-cans,"dot-cans, tha-cans, dot-above-cans",0x1568,ᕨ,CANADIAN SYLLABICS THWAA,dotCans_thaCans_dotAboveCans
-syllabic,tha_dot-above_dot-cans,"tha-cans, dot-above-cans, dot-cans",0x1569,ᕩ,CANADIAN SYLLABICS WEST-CREE THWAA,thaCans_dotAboveCans_dotCans
+syllabic,thi_dotAbove-cans,"thi-cans, dotAbove-cans",0x1562,ᕢ,CANADIAN SYLLABICS THII,thiCans_dotAboveCans
+syllabic,thiAlt_dotAbove-cans,"thiAlt-cans, dotAbove-cans",0x1563,ᕣ,CANADIAN SYLLABICS N-CREE THII,thiAltCans_dotAboveCans
+syllabic,tho_dotAbove-cans,"tho-cans, dotAbove-cans",0x1565,ᕥ,CANADIAN SYLLABICS THOO,thoCans_dotAboveCans
+syllabic,tha_dotAbove-cans,"tha-cans, dotAbove-cans",0x1567,ᕧ,CANADIAN SYLLABICS THAA,thaCans_dotAboveCans
+syllabic,dot_tha_dotAbove-cans,"dot-cans, tha-cans, dotAbove-cans",0x1568,ᕨ,CANADIAN SYLLABICS THWAA,dotCans_thaCans_dotAboveCans
+syllabic,tha_dotAbove_dot-cans,"tha-cans, dotAbove-cans, dot-cans",0x1569,ᕩ,CANADIAN SYLLABICS WEST-CREE THWAA,thaCans_dotAboveCans_dotCans
 syllabic,the_dot-cans,"the-cans, dot-cans",0x18E3,ᣣ,CANADIAN SYLLABICS THWE,theCans_dotCans
 syllabic,tha_dot-cans,"tha-cans, dot-cans",0x18E4,ᣤ,CANADIAN SYLLABICS THWA,thaCans_dotCans
 syllabic,ke-cans,,0x146B,ᑫ,CANADIAN SYLLABICS KE,keCans
 syllabic,ki-cans,,0x146D,ᑭ,CANADIAN SYLLABICS KI,kiCans
 syllabic,ko-cans,,0x146F,ᑯ,CANADIAN SYLLABICS KO,koCans
 syllabic,ka-cans,,0x1472,ᑲ,CANADIAN SYLLABICS KA,kaCans
-syllabic,ki_ring-above-cans,"ki-cans, ring-above-cans",0x146C,ᑬ,CANADIAN SYLLABICS KAAI,kiCans_ringAboveCans
-syllabic,ki_dot-above-cans,"ki-cans, dot-above-cans",0x146E,ᑮ,CANADIAN SYLLABICS KII,kiCans_dotAboveCans
-syllabic,ko_dot-above-cans,"ko-cans, dot-above-cans",0x1470,ᑰ,CANADIAN SYLLABICS KOO,koCans_dotAboveCans
-syllabic,ka_dot-above-cans,"ka-cans, dot-above-cans",0x1473,ᑳ,CANADIAN SYLLABICS KAA,kaCans_dotAboveCans
+syllabic,ki_ringAbove-cans,"ki-cans, ringAbove-cans",0x146C,ᑬ,CANADIAN SYLLABICS KAAI,kiCans_ringAboveCans
+syllabic,ki_dotAbove-cans,"ki-cans, dotAbove-cans",0x146E,ᑮ,CANADIAN SYLLABICS KII,kiCans_dotAboveCans
+syllabic,ko_dotAbove-cans,"ko-cans, dotAbove-cans",0x1470,ᑰ,CANADIAN SYLLABICS KOO,koCans_dotAboveCans
+syllabic,ka_dotAbove-cans,"ka-cans, dotAbove-cans",0x1473,ᑳ,CANADIAN SYLLABICS KAA,kaCans_dotAboveCans
 syllabic,dot_ke-cans,"dot-cans, ke-cans",0x1474,ᑴ,CANADIAN SYLLABICS KWE,dotCans_keCans
 syllabic,ke_dot-cans,"ke-cans, dot-cans",0x1475,ᑵ,CANADIAN SYLLABICS WEST-CREE KWE,keCans_dotCans
 syllabic,dot_ki-cans,"dot-cans, ki-cans",0x1476,ᑶ,CANADIAN SYLLABICS KWI,dotCans_kiCans
 syllabic,ki_dot-cans,"ki-cans, dot-cans",0x1477,ᑷ,CANADIAN SYLLABICS WEST-CREE KWI,kiCans_dotCans
-syllabic,dot_ki_dot-above-cans,"dot-cans, ki-cans, dot-above-cans",0x1478,ᑸ,CANADIAN SYLLABICS KWII,dotCans_kiCans_dotAboveCans
-syllabic,ki_dot-above_dot-cans,"ki-cans, dot-above-cans, dot-cans",0x1479,ᑹ,CANADIAN SYLLABICS WEST-CREE KWII,kiCans_dotAboveCans_dotCans
+syllabic,dot_ki_dotAbove-cans,"dot-cans, ki-cans, dotAbove-cans",0x1478,ᑸ,CANADIAN SYLLABICS KWII,dotCans_kiCans_dotAboveCans
+syllabic,ki_dotAbove_dot-cans,"ki-cans, dotAbove-cans, dot-cans",0x1479,ᑹ,CANADIAN SYLLABICS WEST-CREE KWII,kiCans_dotAboveCans_dotCans
 syllabic,dot_ko-cans,"dot-cans, ko-cans",0x147A,ᑺ,CANADIAN SYLLABICS KWO,dotCans_koCans
 syllabic,ko_dot-cans,"ko-cans, dot-cans",0x147B,ᑻ,CANADIAN SYLLABICS WEST-CREE KWO,koCans_dotCans
-syllabic,dot_ko_dot-above-cans,"dot-cans, ko-cans, dot-above-cans",0x147C,ᑼ,CANADIAN SYLLABICS KWOO,dotCans_koCans_dotAboveCans
-syllabic,ko_dot-above_dot-cans,"ko-cans, dot-above-cans, dot-cans",0x147D,ᑽ,CANADIAN SYLLABICS WEST-CREE KWOO,koCans_dotAboveCans_dotCans
+syllabic,dot_ko_dotAbove-cans,"dot-cans, ko-cans, dotAbove-cans",0x147C,ᑼ,CANADIAN SYLLABICS KWOO,dotCans_koCans_dotAboveCans
+syllabic,ko_dotAbove_dot-cans,"ko-cans, dotAbove-cans, dot-cans",0x147D,ᑽ,CANADIAN SYLLABICS WEST-CREE KWOO,koCans_dotAboveCans_dotCans
 syllabic,dot_ka-cans,"dot-cans, ka-cans",0x147E,ᑾ,CANADIAN SYLLABICS KWA,dotCans_kaCans
 syllabic,ka_dot-cans,"ka-cans, dot-cans",0x147F,ᑿ,CANADIAN SYLLABICS WEST-CREE KWA,kaCans_dotCans
-syllabic,dot_ka_dot-above-cans,"dot-cans, ka-cans, dot-above-cans",0x1480,ᒀ,CANADIAN SYLLABICS KWAA,dotCans_kaCans_dotAboveCans
-syllabic,ka_dot-above_dot-cans,"ka-cans, dot-above-cans, dot-cans",0x1481,ᒁ,CANADIAN SYLLABICS WEST-CREE KWAA,kaCans_dotAboveCans_dotCans
-syllabic,ka_ring-above-cans,"ka-cans, ring-above-cans",0x18B8,ᢸ,CANADIAN SYLLABICS KAY,kaCans_ringAboveCans
-syllabic,dot_ka_ring-above-cans,"dot-cans, ka-cans, ring-above-cans",0x18B9,ᢹ,CANADIAN SYLLABICS KWAY,dotCans_kaCans_ringAboveCans
-syllabic,ke_sup-pipe-cans,"ke-cans, sup-pipe-cans",0x1485,ᒅ,CANADIAN SYLLABICS SOUTH-SLAVEY KEH,keCans_supPipeCans
-syllabic,ki_sup-pipe-cans,"ki-cans, sup-pipe-cans",0x1486,ᒆ,CANADIAN SYLLABICS SOUTH-SLAVEY KIH,kiCans_supPipeCans
-syllabic,ko_sup-pipe-cans,"ko-cans, sup-pipe-cans",0x1487,ᒇ,CANADIAN SYLLABICS SOUTH-SLAVEY KOH,koCans_supPipeCans
-syllabic,ka_sup-pipe-cans,"ka-cans, sup-pipe-cans",0x1488,ᒈ,CANADIAN SYLLABICS SOUTH-SLAVEY KAH,kaCans_supPipeCans
+syllabic,dot_ka_dotAbove-cans,"dot-cans, ka-cans, dotAbove-cans",0x1480,ᒀ,CANADIAN SYLLABICS KWAA,dotCans_kaCans_dotAboveCans
+syllabic,ka_dotAbove_dot-cans,"ka-cans, dotAbove-cans, dot-cans",0x1481,ᒁ,CANADIAN SYLLABICS WEST-CREE KWAA,kaCans_dotAboveCans_dotCans
+syllabic,ka_ringAbove-cans,"ka-cans, ringAbove-cans",0x18B8,ᢸ,CANADIAN SYLLABICS KAY,kaCans_ringAboveCans
+syllabic,dot_ka_ringAbove-cans,"dot-cans, ka-cans, ringAbove-cans",0x18B9,ᢹ,CANADIAN SYLLABICS KWAY,dotCans_kaCans_ringAboveCans
+syllabic,ke_supPipe-cans,"ke-cans, supPipe-cans",0x1485,ᒅ,CANADIAN SYLLABICS SOUTH-SLAVEY KEH,keCans_supPipeCans
+syllabic,ki_supPipe-cans,"ki-cans, supPipe-cans",0x1486,ᒆ,CANADIAN SYLLABICS SOUTH-SLAVEY KIH,kiCans_supPipeCans
+syllabic,ko_supPipe-cans,"ko-cans, supPipe-cans",0x1487,ᒇ,CANADIAN SYLLABICS SOUTH-SLAVEY KOH,koCans_supPipeCans
+syllabic,ka_supPipe-cans,"ka-cans, supPipe-cans",0x1488,ᒈ,CANADIAN SYLLABICS SOUTH-SLAVEY KAH,kaCans_supPipeCans
 syllabic,ko_dieresis-cans,"ko-cans, dieresis-cans",0x1471,ᑱ,CANADIAN SYLLABICS Y-CREE KOO,koCans_dieresisCans
 syllabic,colon_ka-cans,"colon-cans, ka-cans",0x1482,ᒂ,CANADIAN SYLLABICS NASKAPI KWAA,colonCans_kaCans
 syllabic,ne-cans,,0x14C0,ᓀ,CANADIAN SYLLABICS NE,neCans
 syllabic,ni-cans,,0x14C2,ᓂ,CANADIAN SYLLABICS NI,niCans
 syllabic,no-cans,,0x14C4,ᓄ,CANADIAN SYLLABICS NO,noCans
 syllabic,na-cans,,0x14C7,ᓇ,CANADIAN SYLLABICS NA,naCans
-syllabic,ni_ring-above-cans,"ni-cans, ring-above-cans",0x14C1,ᓁ,CANADIAN SYLLABICS NAAI,niCans_ringAboveCans
-syllabic,ni_dot-above-cans,"ni-cans, dot-above-cans",0x14C3,ᓃ,CANADIAN SYLLABICS NII,niCans_dotAboveCans
-syllabic,no_dot-above-cans,"no-cans, dot-above-cans",0x14C5,ᓅ,CANADIAN SYLLABICS NOO,noCans_dotAboveCans
-syllabic,na_dot-above-cans,"na-cans, dot-above-cans",0x14C8,ᓈ,CANADIAN SYLLABICS NAA,naCans_dotAboveCans
+syllabic,ni_ringAbove-cans,"ni-cans, ringAbove-cans",0x14C1,ᓁ,CANADIAN SYLLABICS NAAI,niCans_ringAboveCans
+syllabic,ni_dotAbove-cans,"ni-cans, dotAbove-cans",0x14C3,ᓃ,CANADIAN SYLLABICS NII,niCans_dotAboveCans
+syllabic,no_dotAbove-cans,"no-cans, dotAbove-cans",0x14C5,ᓅ,CANADIAN SYLLABICS NOO,noCans_dotAboveCans
+syllabic,na_dotAbove-cans,"na-cans, dotAbove-cans",0x14C8,ᓈ,CANADIAN SYLLABICS NAA,naCans_dotAboveCans
 syllabic,dot_ne-cans,"dot-cans, ne-cans",0x14C9,ᓉ,CANADIAN SYLLABICS NWE,dotCans_neCans
 syllabic,ne_dot-cans,"ne-cans, dot-cans",0x14CA,ᓊ,CANADIAN SYLLABICS WEST-CREE NWE,neCans_dotCans
 syllabic,dot_na-cans,"dot-cans, na-cans",0x14CB,ᓋ,CANADIAN SYLLABICS NWA,dotCans_naCans
 syllabic,na_dot-cans,"na-cans, dot-cans",0x14CC,ᓌ,CANADIAN SYLLABICS WEST-CREE NWA,naCans_dotCans
-syllabic,dot_na_dot-above-cans,"dot-cans, na-cans, dot-above-cans",0x14CD,ᓍ,CANADIAN SYLLABICS NWAA,dotCans_naCans_dotAboveCans
-syllabic,na_dot-above_dot-cans,"na-cans, dot-above-cans, dot-cans",0x14CE,ᓎ,CANADIAN SYLLABICS WEST-CREE NWAA,naCans_dotAboveCans_dotCans
-syllabic,no_ring-above-cans,"no-cans, ring-above-cans",0x18BB,ᢻ,CANADIAN SYLLABICS NOY,noCans_ringAboveCans
-syllabic,na_ring-above-cans,"na-cans, ring-above-cans",0x18BC,ᢼ,CANADIAN SYLLABICS NAY,naCans_ringAboveCans
+syllabic,dot_na_dotAbove-cans,"dot-cans, na-cans, dotAbove-cans",0x14CD,ᓍ,CANADIAN SYLLABICS NWAA,dotCans_naCans_dotAboveCans
+syllabic,na_dotAbove_dot-cans,"na-cans, dotAbove-cans, dot-cans",0x14CE,ᓎ,CANADIAN SYLLABICS WEST-CREE NWAA,naCans_dotAboveCans_dotCans
+syllabic,no_ringAbove-cans,"no-cans, ringAbove-cans",0x18BB,ᢻ,CANADIAN SYLLABICS NOY,noCans_ringAboveCans
+syllabic,na_ringAbove-cans,"na-cans, ringAbove-cans",0x18BC,ᢼ,CANADIAN SYLLABICS NAY,naCans_ringAboveCans
 syllabic,dot_ni-cans,"dot-cans, ni-cans",0x18C6,ᣆ,CANADIAN SYLLABICS NWI,dotCans_niCans
 syllabic,ni_dot-cans,"ni-cans, dot-cans",0x18C7,ᣇ,CANADIAN SYLLABICS OJIBWAY NWI,niCans_dotCans
-syllabic,dot_ni_dot-above-cans,"dot-cans, ni-cans, dot-above-cans",0x18C8,ᣈ,CANADIAN SYLLABICS NWII,dotCans_niCans_dotAboveCans
-syllabic,ni_dot-above_dot-cans,"ni-cans, dot-above-cans, dot-cans",0x18C9,ᣉ,CANADIAN SYLLABICS OJIBWAY NWII,niCans_dotAboveCans_dotCans
+syllabic,dot_ni_dotAbove-cans,"dot-cans, ni-cans, dotAbove-cans",0x18C8,ᣈ,CANADIAN SYLLABICS NWII,dotCans_niCans_dotAboveCans
+syllabic,ni_dotAbove_dot-cans,"ni-cans, dotAbove-cans, dot-cans",0x18C9,ᣉ,CANADIAN SYLLABICS OJIBWAY NWII,niCans_dotAboveCans_dotCans
 syllabic,dot_no-cans,"dot-cans, no-cans",0x18CA,ᣊ,CANADIAN SYLLABICS NWO,dotCans_noCans
 syllabic,no_dot-cans,"no-cans, dot-cans",0x18CB,ᣋ,CANADIAN SYLLABICS OJIBWAY NWO,noCans_dotCans
-syllabic,dot_no_dot-above-cans,"dot-cans, no-cans, dot-above-cans",0x18CC,ᣌ,CANADIAN SYLLABICS NWOO,dotCans_noCans_dotAboveCans
-syllabic,no_dot-above_dot-cans,"no-cans, dot-above-cans, dot-cans",0x18CD,ᣍ,CANADIAN SYLLABICS OJIBWAY NWOO,noCans_dotAboveCans_dotCans
+syllabic,dot_no_dotAbove-cans,"dot-cans, no-cans, dotAbove-cans",0x18CC,ᣌ,CANADIAN SYLLABICS NWOO,dotCans_noCans_dotAboveCans
+syllabic,no_dotAbove_dot-cans,"no-cans, dotAbove-cans, dot-cans",0x18CD,ᣍ,CANADIAN SYLLABICS OJIBWAY NWOO,noCans_dotAboveCans_dotCans
 syllabic,no_dieresis-cans,"no-cans, dieresis-cans",0x14C6,ᓆ,CANADIAN SYLLABICS Y-CREE NOO,noCans_dieresisCans
 syllabic,na_dieresis-cans,"na-cans, dieresis-cans",0x14CF,ᓏ,CANADIAN SYLLABICS NASKAPI NWAA,naCans_dieresisCans
-syllabic,ne-the-cans,"ne-cans, crossbar-above-cans",0x159B,ᖛ,CANADIAN SYLLABICS WOODS-CREE THE,neTheCans
-syllabic,ni-thi-cans,"ni-cans, crossbar-above-cans",0x159C,ᖜ,CANADIAN SYLLABICS WOODS-CREE THI,niThiCans
-syllabic,no-tho-cans,"no-cans, crossbar-above-cans",0x159D,ᖝ,CANADIAN SYLLABICS WOODS-CREE THO,noThoCans
-syllabic,na-tha-cans,"na-cans, crossbar-above-cans",0x159E,ᖞ,CANADIAN SYLLABICS WOODS-CREE THA,naThaCans
-syllabic,ke-he-cans,,0x1574,ᕴ,CANADIAN SYLLABICS NUNAVIK HE,keHeCans
-syllabic,ki-hi-cans,,0x1575,ᕵ,CANADIAN SYLLABICS NUNAVIK HI,kiHiCans
-syllabic,ko-ho-cans,,0x1577,ᕷ,CANADIAN SYLLABICS NUNAVIK HO,koHoCans
-syllabic,ka-ha-cans,,0x1579,ᕹ,CANADIAN SYLLABICS NUNAVIK HA,kaHaCans
-syllabic,ki-hi_dot-above-cans,"ki-hi-cans, dot-above-cans",0x1576,ᕶ,CANADIAN SYLLABICS NUNAVIK HII,kiHiCans_dotAboveCans
-syllabic,ko-ho_dot-above-cans,"ko-ho-cans, dot-above-cans",0x1578,ᕸ,CANADIAN SYLLABICS NUNAVIK HOO,koHoCans_dotAboveCans
-syllabic,ka-ha_dot-above-cans,"ka-ha-cans, dot-above-cans",0x157A,ᕺ,CANADIAN SYLLABICS NUNAVIK HAA,kaHaCans_dotAboveCans
+syllabic,neThe-cans,"ne-cans, crossbarAbove-cans",0x159B,ᖛ,CANADIAN SYLLABICS WOODS-CREE THE,neTheCans
+syllabic,niThi-cans,"ni-cans, crossbarAbove-cans",0x159C,ᖜ,CANADIAN SYLLABICS WOODS-CREE THI,niThiCans
+syllabic,noTho-cans,"no-cans, crossbarAbove-cans",0x159D,ᖝ,CANADIAN SYLLABICS WOODS-CREE THO,noThoCans
+syllabic,naTha-cans,"na-cans, crossbarAbove-cans",0x159E,ᖞ,CANADIAN SYLLABICS WOODS-CREE THA,naThaCans
+syllabic,keHe-cans,,0x1574,ᕴ,CANADIAN SYLLABICS NUNAVIK HE,keHeCans
+syllabic,kiHi-cans,,0x1575,ᕵ,CANADIAN SYLLABICS NUNAVIK HI,kiHiCans
+syllabic,koHo-cans,,0x1577,ᕷ,CANADIAN SYLLABICS NUNAVIK HO,koHoCans
+syllabic,kaHa-cans,,0x1579,ᕹ,CANADIAN SYLLABICS NUNAVIK HA,kaHaCans
+syllabic,kiHi_dotAbove-cans,"kiHi-cans, dotAbove-cans",0x1576,ᕶ,CANADIAN SYLLABICS NUNAVIK HII,kiHiCans_dotAboveCans
+syllabic,koHo_dotAbove-cans,"koHo-cans, dotAbove-cans",0x1578,ᕸ,CANADIAN SYLLABICS NUNAVIK HOO,koHoCans_dotAboveCans
+syllabic,kaHa_dotAbove-cans,"kaHa-cans, dotAbove-cans",0x157A,ᕺ,CANADIAN SYLLABICS NUNAVIK HAA,kaHaCans_dotAboveCans
 syllabic,tlhe-cans,,0x1586,ᖆ,CANADIAN SYLLABICS TLHE,tlheCans
 syllabic,tlhi-cans,,0x1587,ᖇ,CANADIAN SYLLABICS TLHI,tlhiCans
 syllabic,tlho-cans,,0x1588,ᖈ,CANADIAN SYLLABICS TLHO,tlhoCans
 syllabic,tlha-cans,,0x1589,ᖉ,CANADIAN SYLLABICS TLHA,tlhaCans
 syllabic,tlhe_dot-cans,"tlhe-cans, dot-cans",0x18E8,ᣨ,CANADIAN SYLLABICS TLHWE,tlheCans_dotCans
-syllabic,tlho_dot-above-cans,"tlho-cans, dot-above-cans",0x18E9,ᣩ,CANADIAN SYLLABICS TLHOO,tlhoCans_dotAboveCans
-syllabic,open-ke-cans,,0x154B,ᕋ,CANADIAN SYLLABICS RA,openKeCans
-syllabic,open-ki-cans,,0x1548,ᕈ,CANADIAN SYLLABICS RO,openKiCans
-syllabic,open-ko-cans,,0x154D,ᕍ,CANADIAN SYLLABICS WEST-CREE LA,openKoCans
-syllabic,open-ka-cans,,0x154A,ᕊ,CANADIAN SYLLABICS WEST-CREE LO,openKaCans
-syllabic,open-ke_dot-above-cans,"open-ke-cans, dot-above-cans",0x154C,ᕌ,CANADIAN SYLLABICS RAA,openKeCans_dotAboveCans
-syllabic,open-ke_ring-above-cans,"open-ke-cans, ring-above-cans",0x18C5,ᣅ,CANADIAN SYLLABICS RAY,openKeCans_ringAboveCans
-syllabic,dot_open-ke_dot-above-cans,"dot-cans, open-ke-cans, dot-above-cans",0x154E,ᕎ,CANADIAN SYLLABICS RWAA,dotCans_openKeCans_dotAboveCans
-syllabic,open-ke_dot-above_dot-cans,"open-ke-cans, dot-above-cans, dot-cans",0x154F,ᕏ,CANADIAN SYLLABICS WEST-CREE RWAA,openKeCans_dotAboveCans_dotCans
-syllabic,open-ki_dot-above-cans,"open-ki-cans, dot-above-cans",0x1549,ᕉ,CANADIAN SYLLABICS ROO,openKiCans_dotAboveCans
-syllabic,dot_open-ki-cans,"dot-cans, open-ki-cans",0x18D1,ᣑ,CANADIAN SYLLABICS RWO,dotCans_openKiCans
-syllabic,dot_open-ki_dot-above-cans,"dot-cans, open-ki-cans, dot-above-cans",0x18D2,ᣒ,CANADIAN SYLLABICS RWOO,dotCans_openKiCans_dotAboveCans
-syllabic,dot_open-ke-cans,"dot-cans, open-ke-cans",0x18D3,ᣓ,CANADIAN SYLLABICS RWA,dotCans_openKeCans
-syllabic,sup-ra_ke-cans,"sup-ra-cans, ke-cans",0x166F,ᙯ,CANADIAN SYLLABICS QAI,supRaCans_keCans
-syllabic,sup-ra_ki_ring-above-cans,"sup-ra-cans, ki-cans, ring-above-cans",0x157E,ᕾ,CANADIAN SYLLABICS QAAI,supRaCans_kiCans_ringAboveCans
-syllabic,sup-ra_ki-cans,"sup-ra-cans, ki-cans",0x157F,ᕿ,CANADIAN SYLLABICS QI,supRaCans_kiCans
-syllabic,sup-ra_ki_dot-above-cans,"sup-ra-cans, ki-cans, dot-above-cans",0x1580,ᖀ,CANADIAN SYLLABICS QII,supRaCans_kiCans_dotAboveCans
-syllabic,sup-ra_ko-cans,"sup-ra-cans, ko-cans",0x1581,ᖁ,CANADIAN SYLLABICS QO,supRaCans_koCans
-syllabic,sup-ra_ko_dot-above-cans,"sup-ra-cans, ko-cans, dot-above-cans",0x1582,ᖂ,CANADIAN SYLLABICS QOO,supRaCans_koCans_dotAboveCans
-syllabic,sup-ra_ka-cans,"sup-ra-cans, ka-cans",0x1583,ᖃ,CANADIAN SYLLABICS QA,supRaCans_kaCans
-syllabic,sup-ra_ka_dot-above-cans,"sup-ra-cans, ka-cans, dot-above-cans",0x1584,ᖄ,CANADIAN SYLLABICS QAA,supRaCans_kaCans_dotAboveCans
-syllabic,open-ne-cans,,0x1543,ᕃ,CANADIAN SYLLABICS R-CREE RE,openNeCans
-syllabic,open-ni-cans,,0x1542,ᕂ,CANADIAN SYLLABICS RE,openNiCans
-syllabic,open-no-cans,,0x1544,ᕄ,CANADIAN SYLLABICS WEST-CREE LE,openNoCans
-syllabic,open-na-cans,,0x1546,ᕆ,CANADIAN SYLLABICS RI,openNaCans
-syllabic,open-na_ring-above-cans,"open-na-cans, ring-above-cans",0x1545,ᕅ,CANADIAN SYLLABICS RAAI,openNaCans_ringAboveCans
-syllabic,open-na_dot-above-cans,"open-na-cans, dot-above-cans",0x1547,ᕇ,CANADIAN SYLLABICS RII,openNaCans_dotAboveCans
-syllabic,open-ne_dot-cans,"open-ne-cans, dot-cans",0x18E0,ᣠ,CANADIAN SYLLABICS R-CREE RWE,openNeCans_dotCans
-syllabic,open-ka_dot-above-cans,"open-ka-cans, dot-above-cans",0x18E1,ᣡ,CANADIAN SYLLABICS WEST-CREE LOO,openKaCans_dotAboveCans
-syllabic,open-ko_dot-above-cans,"open-ko-cans, dot-above-cans",0x18E2,ᣢ,CANADIAN SYLLABICS WEST-CREE LAA,openKoCans_dotAboveCans
-syllabic,dot_open-ne-cans,"dot-cans, open-ne-cans",0x18CE,ᣎ,CANADIAN SYLLABICS RWEE,dotCans_openNeCans
-syllabic,dot_open-na-cans,"dot-cans, open-na-cans",0x18CF,ᣏ,CANADIAN SYLLABICS RWI,dotCans_openNaCans
-syllabic,dot_open-na_dot-above-cans,"dot-cans, open-na-cans, dot-above-cans",0x18D0,ᣐ,CANADIAN SYLLABICS RWII,dotCans_openNaCans_dotAboveCans
-syllabic,sup-na-ca_ce-cans,"sup-na-ca-cans, ce-cans",0x1670,ᙰ,CANADIAN SYLLABICS NGAI,supNaCaCans_ceCans
-syllabic,sup-na-ca_ci_ring-above-cans,"sup-na-ca-cans, ci-cans, ring-above-cans",0x158E,ᖎ,CANADIAN SYLLABICS NGAAI,supNaCaCans_ciCans_ringAboveCans
-syllabic,sup-na-ca_ci-cans,"sup-na-ca-cans, ci-cans",0x158F,ᖏ,CANADIAN SYLLABICS NGI,supNaCaCans_ciCans
-syllabic,sup-na-ca_ci_dot-above-cans,"sup-na-ca-cans, ci-cans, dot-above-cans",0x1590,ᖐ,CANADIAN SYLLABICS NGII,supNaCaCans_ciCans_dotAboveCans
-syllabic,sup-na-ca_co-cans,"sup-na-ca-cans, co-cans",0x1591,ᖑ,CANADIAN SYLLABICS NGO,supNaCaCans_coCans
-syllabic,sup-na-ca_co_dot-above-cans,"sup-na-ca-cans, co-cans, dot-above-cans",0x1592,ᖒ,CANADIAN SYLLABICS NGOO,supNaCaCans_coCans_dotAboveCans
-syllabic,sup-na-ca_ca-cans,"sup-na-ca-cans, ca-cans",0x1593,ᖓ,CANADIAN SYLLABICS NGA,supNaCaCans_caCans
-syllabic,sup-na-ca_ca_dot-above-cans,"sup-na-ca-cans, ca-cans, dot-above-cans",0x1594,ᖔ,CANADIAN SYLLABICS NGAA,supNaCaCans_caCans_dotAboveCans
-syllabic,sup-na-na-ca_ci-cans,"sup-na-na-ca-cans, ci-cans",0x1671,ᙱ,CANADIAN SYLLABICS NNGI,supNaNaCaCans_ciCans
-syllabic,sup-na-na-ca_ci_dot-above-cans,"sup-na-na-ca-cans, ci-cans, dot-above-cans",0x1672,ᙲ,CANADIAN SYLLABICS NNGII,supNaNaCaCans_ciCans_dotAboveCans
-syllabic,sup-na-na-ca_co-cans,"sup-na-na-ca-cans, co-cans",0x1673,ᙳ,CANADIAN SYLLABICS NNGO,supNaNaCaCans_coCans
-syllabic,sup-na-na-ca_co_dot-above-cans,"sup-na-na-ca-cans, co-cans, dot-above-cans",0x1674,ᙴ,CANADIAN SYLLABICS NNGOO,supNaNaCaCans_coCans_dotAboveCans
-syllabic,sup-na-na-ca_ca-cans,"sup-na-na-ca-cans, ca-cans",0x1675,ᙵ,CANADIAN SYLLABICS NNGA,supNaNaCaCans_caCans
-syllabic,sup-na-na-ca_ca_dot-above-cans,"sup-na-na-ca-cans, ca-cans, dot-above-cans",0x1676,ᙶ,CANADIAN SYLLABICS NNGAA,supNaNaCaCans_caCans_dotAboveCans
+syllabic,tlho_dotAbove-cans,"tlho-cans, dotAbove-cans",0x18E9,ᣩ,CANADIAN SYLLABICS TLHOO,tlhoCans_dotAboveCans
+syllabic,openKe-cans,,0x154B,ᕋ,CANADIAN SYLLABICS RA,openKeCans
+syllabic,openKi-cans,,0x1548,ᕈ,CANADIAN SYLLABICS RO,openKiCans
+syllabic,openKo-cans,,0x154D,ᕍ,CANADIAN SYLLABICS WEST-CREE LA,openKoCans
+syllabic,openKa-cans,,0x154A,ᕊ,CANADIAN SYLLABICS WEST-CREE LO,openKaCans
+syllabic,openKe_dotAbove-cans,"openKe-cans, dotAbove-cans",0x154C,ᕌ,CANADIAN SYLLABICS RAA,openKeCans_dotAboveCans
+syllabic,openKe_ringAbove-cans,"openKe-cans, ringAbove-cans",0x18C5,ᣅ,CANADIAN SYLLABICS RAY,openKeCans_ringAboveCans
+syllabic,dot_openKe_dotAbove-cans,"dot-cans, openKe-cans, dotAbove-cans",0x154E,ᕎ,CANADIAN SYLLABICS RWAA,dotCans_openKeCans_dotAboveCans
+syllabic,openKe_dotAbove_dot-cans,"openKe-cans, dotAbove-cans, dot-cans",0x154F,ᕏ,CANADIAN SYLLABICS WEST-CREE RWAA,openKeCans_dotAboveCans_dotCans
+syllabic,openKi_dotAbove-cans,"openKi-cans, dotAbove-cans",0x1549,ᕉ,CANADIAN SYLLABICS ROO,openKiCans_dotAboveCans
+syllabic,dot_openKi-cans,"dot-cans, openKi-cans",0x18D1,ᣑ,CANADIAN SYLLABICS RWO,dotCans_openKiCans
+syllabic,dot_openKi_dotAbove-cans,"dot-cans, openKi-cans, dotAbove-cans",0x18D2,ᣒ,CANADIAN SYLLABICS RWOO,dotCans_openKiCans_dotAboveCans
+syllabic,dot_openKe-cans,"dot-cans, openKe-cans",0x18D3,ᣓ,CANADIAN SYLLABICS RWA,dotCans_openKeCans
+syllabic,supRa_ke-cans,"supRa-cans, ke-cans",0x166F,ᙯ,CANADIAN SYLLABICS QAI,supRaCans_keCans
+syllabic,supRa_ki_ringAbove-cans,"supRa-cans, ki-cans, ringAbove-cans",0x157E,ᕾ,CANADIAN SYLLABICS QAAI,supRaCans_kiCans_ringAboveCans
+syllabic,supRa_ki-cans,"supRa-cans, ki-cans",0x157F,ᕿ,CANADIAN SYLLABICS QI,supRaCans_kiCans
+syllabic,supRa_ki_dotAbove-cans,"supRa-cans, ki-cans, dotAbove-cans",0x1580,ᖀ,CANADIAN SYLLABICS QII,supRaCans_kiCans_dotAboveCans
+syllabic,supRa_ko-cans,"supRa-cans, ko-cans",0x1581,ᖁ,CANADIAN SYLLABICS QO,supRaCans_koCans
+syllabic,supRa_ko_dotAbove-cans,"supRa-cans, ko-cans, dotAbove-cans",0x1582,ᖂ,CANADIAN SYLLABICS QOO,supRaCans_koCans_dotAboveCans
+syllabic,supRa_ka-cans,"supRa-cans, ka-cans",0x1583,ᖃ,CANADIAN SYLLABICS QA,supRaCans_kaCans
+syllabic,supRa_ka_dotAbove-cans,"supRa-cans, ka-cans, dotAbove-cans",0x1584,ᖄ,CANADIAN SYLLABICS QAA,supRaCans_kaCans_dotAboveCans
+syllabic,openNe-cans,,0x1543,ᕃ,CANADIAN SYLLABICS R-CREE RE,openNeCans
+syllabic,openNi-cans,,0x1542,ᕂ,CANADIAN SYLLABICS RE,openNiCans
+syllabic,openNo-cans,,0x1544,ᕄ,CANADIAN SYLLABICS WEST-CREE LE,openNoCans
+syllabic,openNa-cans,,0x1546,ᕆ,CANADIAN SYLLABICS RI,openNaCans
+syllabic,openNa_ringAbove-cans,"openNa-cans, ringAbove-cans",0x1545,ᕅ,CANADIAN SYLLABICS RAAI,openNaCans_ringAboveCans
+syllabic,openNa_dotAbove-cans,"openNa-cans, dotAbove-cans",0x1547,ᕇ,CANADIAN SYLLABICS RII,openNaCans_dotAboveCans
+syllabic,openNe_dot-cans,"openNe-cans, dot-cans",0x18E0,ᣠ,CANADIAN SYLLABICS R-CREE RWE,openNeCans_dotCans
+syllabic,openKa_dotAbove-cans,"openKa-cans, dotAbove-cans",0x18E1,ᣡ,CANADIAN SYLLABICS WEST-CREE LOO,openKaCans_dotAboveCans
+syllabic,openKo_dotAbove-cans,"openKo-cans, dotAbove-cans",0x18E2,ᣢ,CANADIAN SYLLABICS WEST-CREE LAA,openKoCans_dotAboveCans
+syllabic,dot_openNe-cans,"dot-cans, openNe-cans",0x18CE,ᣎ,CANADIAN SYLLABICS RWEE,dotCans_openNeCans
+syllabic,dot_openNa-cans,"dot-cans, openNa-cans",0x18CF,ᣏ,CANADIAN SYLLABICS RWI,dotCans_openNaCans
+syllabic,dot_openNa_dotAbove-cans,"dot-cans, openNa-cans, dotAbove-cans",0x18D0,ᣐ,CANADIAN SYLLABICS RWII,dotCans_openNaCans_dotAboveCans
+syllabic,supNaCa_ce-cans,"supNaCa-cans, ce-cans",0x1670,ᙰ,CANADIAN SYLLABICS NGAI,supNaCaCans_ceCans
+syllabic,supNaCa_ci_ringAbove-cans,"supNaCa-cans, ci-cans, ringAbove-cans",0x158E,ᖎ,CANADIAN SYLLABICS NGAAI,supNaCaCans_ciCans_ringAboveCans
+syllabic,supNaCa_ci-cans,"supNaCa-cans, ci-cans",0x158F,ᖏ,CANADIAN SYLLABICS NGI,supNaCaCans_ciCans
+syllabic,supNaCa_ci_dotAbove-cans,"supNaCa-cans, ci-cans, dotAbove-cans",0x1590,ᖐ,CANADIAN SYLLABICS NGII,supNaCaCans_ciCans_dotAboveCans
+syllabic,supNaCa_co-cans,"supNaCa-cans, co-cans",0x1591,ᖑ,CANADIAN SYLLABICS NGO,supNaCaCans_coCans
+syllabic,supNaCa_co_dotAbove-cans,"supNaCa-cans, co-cans, dotAbove-cans",0x1592,ᖒ,CANADIAN SYLLABICS NGOO,supNaCaCans_coCans_dotAboveCans
+syllabic,supNaCa_ca-cans,"supNaCa-cans, ca-cans",0x1593,ᖓ,CANADIAN SYLLABICS NGA,supNaCaCans_caCans
+syllabic,supNaCa_ca_dotAbove-cans,"supNaCa-cans, ca-cans, dotAbove-cans",0x1594,ᖔ,CANADIAN SYLLABICS NGAA,supNaCaCans_caCans_dotAboveCans
+syllabic,supNaNaCa_ci-cans,"supNaNaCa-cans, ci-cans",0x1671,ᙱ,CANADIAN SYLLABICS NNGI,supNaNaCaCans_ciCans
+syllabic,supNaNaCa_ci_dotAbove-cans,"supNaNaCa-cans, ci-cans, dotAbove-cans",0x1672,ᙲ,CANADIAN SYLLABICS NNGII,supNaNaCaCans_ciCans_dotAboveCans
+syllabic,supNaNaCa_co-cans,"supNaNaCa-cans, co-cans",0x1673,ᙳ,CANADIAN SYLLABICS NNGO,supNaNaCaCans_coCans
+syllabic,supNaNaCa_co_dotAbove-cans,"supNaNaCa-cans, co-cans, dotAbove-cans",0x1674,ᙴ,CANADIAN SYLLABICS NNGOO,supNaNaCaCans_coCans_dotAboveCans
+syllabic,supNaNaCa_ca-cans,"supNaNaCa-cans, ca-cans",0x1675,ᙵ,CANADIAN SYLLABICS NNGA,supNaNaCaCans_caCans
+syllabic,supNaNaCa_ca_dotAbove-cans,"supNaNaCa-cans, ca-cans, dotAbove-cans",0x1676,ᙶ,CANADIAN SYLLABICS NNGAA,supNaNaCaCans_caCans_dotAboveCans
 syllabic,ce-cans,,0x1489,ᒉ,CANADIAN SYLLABICS CE,ceCans
 syllabic,ci-cans,,0x148B,ᒋ,CANADIAN SYLLABICS CI,ciCans
 syllabic,co-cans,,0x148D,ᒍ,CANADIAN SYLLABICS CO,coCans
 syllabic,ca-cans,,0x1490,ᒐ,CANADIAN SYLLABICS CA,caCans
-syllabic,ci_ring-above-cans,"ci-cans, ring-above-cans",0x148A,ᒊ,CANADIAN SYLLABICS CAAI,ciCans_ringAboveCans
-syllabic,ci_dot-above-cans,"ci-cans, dot-above-cans",0x148C,ᒌ,CANADIAN SYLLABICS CII,ciCans_dotAboveCans
-syllabic,co_dot-above-cans,"co-cans, dot-above-cans",0x148E,ᒎ,CANADIAN SYLLABICS COO,coCans_dotAboveCans
-syllabic,ca_dot-above-cans,"ca-cans, dot-above-cans",0x1491,ᒑ,CANADIAN SYLLABICS CAA,caCans_dotAboveCans
+syllabic,ci_ringAbove-cans,"ci-cans, ringAbove-cans",0x148A,ᒊ,CANADIAN SYLLABICS CAAI,ciCans_ringAboveCans
+syllabic,ci_dotAbove-cans,"ci-cans, dotAbove-cans",0x148C,ᒌ,CANADIAN SYLLABICS CII,ciCans_dotAboveCans
+syllabic,co_dotAbove-cans,"co-cans, dotAbove-cans",0x148E,ᒎ,CANADIAN SYLLABICS COO,coCans_dotAboveCans
+syllabic,ca_dotAbove-cans,"ca-cans, dotAbove-cans",0x1491,ᒑ,CANADIAN SYLLABICS CAA,caCans_dotAboveCans
 syllabic,dot_ce-cans,"dot-cans, ce-cans",0x1492,ᒒ,CANADIAN SYLLABICS CWE,dotCans_ceCans
 syllabic,ce_dot-cans,"ce-cans, dot-cans",0x1493,ᒓ,CANADIAN SYLLABICS WEST-CREE CWE,ceCans_dotCans
 syllabic,dot_ci-cans,"dot-cans, ci-cans",0x1494,ᒔ,CANADIAN SYLLABICS CWI,dotCans_ciCans
 syllabic,ci_dot-cans,"ci-cans, dot-cans",0x1495,ᒕ,CANADIAN SYLLABICS WEST-CREE CWI,ciCans_dotCans
-syllabic,dot_ci_dot-above-cans,"dot-cans, ci-cans, dot-above-cans",0x1496,ᒖ,CANADIAN SYLLABICS CWII,dotCans_ciCans_dotAboveCans
-syllabic,ci_dot-above_dot-cans,"ci-cans, dot-above-cans, dot-cans",0x1497,ᒗ,CANADIAN SYLLABICS WEST-CREE CWII,ciCans_dotAboveCans_dotCans
+syllabic,dot_ci_dotAbove-cans,"dot-cans, ci-cans, dotAbove-cans",0x1496,ᒖ,CANADIAN SYLLABICS CWII,dotCans_ciCans_dotAboveCans
+syllabic,ci_dotAbove_dot-cans,"ci-cans, dotAbove-cans, dot-cans",0x1497,ᒗ,CANADIAN SYLLABICS WEST-CREE CWII,ciCans_dotAboveCans_dotCans
 syllabic,dot_co-cans,"dot-cans, co-cans",0x1498,ᒘ,CANADIAN SYLLABICS CWO,dotCans_coCans
 syllabic,co_dot-cans,"co-cans, dot-cans",0x1499,ᒙ,CANADIAN SYLLABICS WEST-CREE CWO,coCans_dotCans
-syllabic,dot_co_dot-above-cans,"dot-cans, co-cans, dot-above-cans",0x149A,ᒚ,CANADIAN SYLLABICS CWOO,dotCans_coCans_dotAboveCans
-syllabic,co_dot-above_dot-cans,"co-cans, dot-above-cans, dot-cans",0x149B,ᒛ,CANADIAN SYLLABICS WEST-CREE CWOO,coCans_dotAboveCans_dotCans
+syllabic,dot_co_dotAbove-cans,"dot-cans, co-cans, dotAbove-cans",0x149A,ᒚ,CANADIAN SYLLABICS CWOO,dotCans_coCans_dotAboveCans
+syllabic,co_dotAbove_dot-cans,"co-cans, dotAbove-cans, dot-cans",0x149B,ᒛ,CANADIAN SYLLABICS WEST-CREE CWOO,coCans_dotAboveCans_dotCans
 syllabic,dot_ca-cans,"dot-cans, ca-cans",0x149C,ᒜ,CANADIAN SYLLABICS CWA,dotCans_caCans
 syllabic,ca_dot-cans,"ca-cans, dot-cans",0x149D,ᒝ,CANADIAN SYLLABICS WEST-CREE CWA,caCans_dotCans
-syllabic,dot_ca_dot-above-cans,"dot-cans, ca-cans, dot-above-cans",0x149E,ᒞ,CANADIAN SYLLABICS CWAA,dotCans_caCans_dotAboveCans
-syllabic,ca_dot-above_dot-cans,"ca-cans, dot-above-cans, dot-cans",0x149F,ᒟ,CANADIAN SYLLABICS WEST-CREE CWAA,caCans_dotAboveCans_dotCans
+syllabic,dot_ca_dotAbove-cans,"dot-cans, ca-cans, dotAbove-cans",0x149E,ᒞ,CANADIAN SYLLABICS CWAA,dotCans_caCans_dotAboveCans
+syllabic,ca_dotAbove_dot-cans,"ca-cans, dotAbove-cans, dot-cans",0x149F,ᒟ,CANADIAN SYLLABICS WEST-CREE CWAA,caCans_dotAboveCans_dotCans
 syllabic,co_dieresis-cans,"co-cans, dieresis-cans",0x148F,ᒏ,CANADIAN SYLLABICS Y-CREE COO,coCans_dieresisCans
 syllabic,colon_ca-cans,"colon-cans, ca-cans",0x14A0,ᒠ,CANADIAN SYLLABICS NASKAPI CWAA,colonCans_caCans
 syllabic,le-cans,,0x14D3,ᓓ,CANADIAN SYLLABICS LE,leCans
 syllabic,li-cans,,0x14D5,ᓕ,CANADIAN SYLLABICS LI,liCans
 syllabic,lo-cans,,0x14D7,ᓗ,CANADIAN SYLLABICS LO,loCans
 syllabic,la-cans,,0x14DA,ᓚ,CANADIAN SYLLABICS LA,laCans
-syllabic,li_ring-above-cans,"li-cans, ring-above-cans",0x14D4,ᓔ,CANADIAN SYLLABICS LAAI,liCans_ringAboveCans
-syllabic,li_dot-above-cans,"li-cans, dot-above-cans",0x14D6,ᓖ,CANADIAN SYLLABICS LII,liCans_dotAboveCans
-syllabic,lo_dot-above-cans,"lo-cans, dot-above-cans",0x14D8,ᓘ,CANADIAN SYLLABICS LOO,loCans_dotAboveCans
-syllabic,la_dot-above-cans,"la-cans, dot-above-cans",0x14DB,ᓛ,CANADIAN SYLLABICS LAA,laCans_dotAboveCans
+syllabic,li_ringAbove-cans,"li-cans, ringAbove-cans",0x14D4,ᓔ,CANADIAN SYLLABICS LAAI,liCans_ringAboveCans
+syllabic,li_dotAbove-cans,"li-cans, dotAbove-cans",0x14D6,ᓖ,CANADIAN SYLLABICS LII,liCans_dotAboveCans
+syllabic,lo_dotAbove-cans,"lo-cans, dotAbove-cans",0x14D8,ᓘ,CANADIAN SYLLABICS LOO,loCans_dotAboveCans
+syllabic,la_dotAbove-cans,"la-cans, dotAbove-cans",0x14DB,ᓛ,CANADIAN SYLLABICS LAA,laCans_dotAboveCans
 syllabic,dot_le-cans,"dot-cans, le-cans",0x14DC,ᓜ,CANADIAN SYLLABICS LWE,dotCans_leCans
 syllabic,le_dot-cans,"le-cans, dot-cans",0x14DD,ᓝ,CANADIAN SYLLABICS WEST-CREE LWE,leCans_dotCans
 syllabic,dot_li-cans,"dot-cans, li-cans",0x14DE,ᓞ,CANADIAN SYLLABICS LWI,dotCans_liCans
 syllabic,li_dot-cans,"li-cans, dot-cans",0x14DF,ᓟ,CANADIAN SYLLABICS WEST-CREE LWI,liCans_dotCans
-syllabic,dot_li_dot-above-cans,"dot-cans, li-cans, dot-above-cans",0x14E0,ᓠ,CANADIAN SYLLABICS LWII,dotCans_liCans_dotAboveCans
-syllabic,li_dot-above_dot-cans,"li-cans, dot-above-cans, dot-cans",0x14E1,ᓡ,CANADIAN SYLLABICS WEST-CREE LWII,liCans_dotAboveCans_dotCans
+syllabic,dot_li_dotAbove-cans,"dot-cans, li-cans, dotAbove-cans",0x14E0,ᓠ,CANADIAN SYLLABICS LWII,dotCans_liCans_dotAboveCans
+syllabic,li_dotAbove_dot-cans,"li-cans, dotAbove-cans, dot-cans",0x14E1,ᓡ,CANADIAN SYLLABICS WEST-CREE LWII,liCans_dotAboveCans_dotCans
 syllabic,dot_lo-cans,"dot-cans, lo-cans",0x14E2,ᓢ,CANADIAN SYLLABICS LWO,dotCans_loCans
 syllabic,lo_dot-cans,"lo-cans, dot-cans",0x14E3,ᓣ,CANADIAN SYLLABICS WEST-CREE LWO,loCans_dotCans
-syllabic,dot_lo_dot-above-cans,"dot-cans, lo-cans, dot-above-cans",0x14E4,ᓤ,CANADIAN SYLLABICS LWOO,dotCans_loCans_dotAboveCans
-syllabic,lo_dot-above_dot-cans,"lo-cans, dot-above-cans, dot-cans",0x14E5,ᓥ,CANADIAN SYLLABICS WEST-CREE LWOO,loCans_dotAboveCans_dotCans
+syllabic,dot_lo_dotAbove-cans,"dot-cans, lo-cans, dotAbove-cans",0x14E4,ᓤ,CANADIAN SYLLABICS LWOO,dotCans_loCans_dotAboveCans
+syllabic,lo_dotAbove_dot-cans,"lo-cans, dotAbove-cans, dot-cans",0x14E5,ᓥ,CANADIAN SYLLABICS WEST-CREE LWOO,loCans_dotAboveCans_dotCans
 syllabic,dot_la-cans,"dot-cans, la-cans",0x14E6,ᓦ,CANADIAN SYLLABICS LWA,dotCans_laCans
 syllabic,la_dot-cans,"la-cans, dot-cans",0x14E7,ᓧ,CANADIAN SYLLABICS WEST-CREE LWA,laCans_dotCans
-syllabic,dot_la_dot-above-cans,"dot-cans, la-cans, dot-above-cans",0x14E8,ᓨ,CANADIAN SYLLABICS LWAA,dotCans_laCans_dotAboveCans
-syllabic,la_dot-above_dot-cans,"la-cans, dot-above-cans, dot-cans",0x14E9,ᓩ,CANADIAN SYLLABICS WEST-CREE LWAA,laCans_dotAboveCans_dotCans
-syllabic,la_ring-above-cans,"la-cans, ring-above-cans",0x18BD,ᢽ,CANADIAN SYLLABICS LAY,laCans_ringAboveCans
+syllabic,dot_la_dotAbove-cans,"dot-cans, la-cans, dotAbove-cans",0x14E8,ᓨ,CANADIAN SYLLABICS LWAA,dotCans_laCans_dotAboveCans
+syllabic,la_dotAbove_dot-cans,"la-cans, dotAbove-cans, dot-cans",0x14E9,ᓩ,CANADIAN SYLLABICS WEST-CREE LWAA,laCans_dotAboveCans_dotCans
+syllabic,la_ringAbove-cans,"la-cans, ringAbove-cans",0x18BD,ᢽ,CANADIAN SYLLABICS LAY,laCans_ringAboveCans
 syllabic,lo_dieresis-cans,"lo-cans, dieresis-cans",0x14D9,ᓙ,CANADIAN SYLLABICS Y-CREE LOO,loCans_dieresisCans
-syllabic,ce-re-cans,,0x158A,ᖊ,CANADIAN SYLLABICS WEST-CREE RE,ceReCans
-syllabic,ci-ri-cans,,0x158B,ᖋ,CANADIAN SYLLABICS WEST-CREE RI,ciRiCans
-syllabic,co-ro-cans,,0x158C,ᖌ,CANADIAN SYLLABICS WEST-CREE RO,coRoCans
-syllabic,ca-ra-cans,,0x158D,ᖍ,CANADIAN SYLLABICS WEST-CREE RA,caRaCans
+syllabic,ceRe-cans,,0x158A,ᖊ,CANADIAN SYLLABICS WEST-CREE RE,ceReCans
+syllabic,ciRi-cans,,0x158B,ᖋ,CANADIAN SYLLABICS WEST-CREE RI,ciRiCans
+syllabic,coRo-cans,,0x158C,ᖌ,CANADIAN SYLLABICS WEST-CREE RO,coRoCans
+syllabic,caRa-cans,,0x158D,ᖍ,CANADIAN SYLLABICS WEST-CREE RA,caRaCans
 syllabic,lhi-cans,,0x15A0,ᖠ,CANADIAN SYLLABICS LHI,lhiCans
 syllabic,lho-cans,,0x15A2,ᖢ,CANADIAN SYLLABICS LHO,lhoCans
 syllabic,lha-cans,,0x15A4,ᖤ,CANADIAN SYLLABICS LHA,lhaCans
-syllabic,lhi_dot-above-cans,"lhi-cans, dot-above-cans",0x15A1,ᖡ,CANADIAN SYLLABICS LHII,lhiCans_dotAboveCans
-syllabic,lho_dot-above-cans,"lho-cans, dot-above-cans",0x15A3,ᖣ,CANADIAN SYLLABICS LHOO,lhoCans_dotAboveCans
-syllabic,lha_dot-above-cans,"lha-cans, dot-above-cans",0x15A5,ᖥ,CANADIAN SYLLABICS LHAA,lhaCans_dotAboveCans
+syllabic,lhi_dotAbove-cans,"lhi-cans, dotAbove-cans",0x15A1,ᖡ,CANADIAN SYLLABICS LHII,lhiCans_dotAboveCans
+syllabic,lho_dotAbove-cans,"lho-cans, dotAbove-cans",0x15A3,ᖣ,CANADIAN SYLLABICS LHOO,lhoCans_dotAboveCans
+syllabic,lha_dotAbove-cans,"lha-cans, dotAbove-cans",0x15A5,ᖥ,CANADIAN SYLLABICS LHAA,lhaCans_dotAboveCans
 syllabic,me-cans,,0x14A3,ᒣ,CANADIAN SYLLABICS ME,meCans
 syllabic,mi-cans,,0x14A5,ᒥ,CANADIAN SYLLABICS MI,miCans
 syllabic,mo-cans,,0x14A7,ᒧ,CANADIAN SYLLABICS MO,moCans
 syllabic,ma-cans,,0x14AA,ᒪ,CANADIAN SYLLABICS MA,maCans
-syllabic,mi_ring-above-cans,"mi-cans, ring-above-cans",0x14A4,ᒤ,CANADIAN SYLLABICS MAAI,miCans_ringAboveCans
-syllabic,mi_dot-above-cans,"mi-cans, dot-above-cans",0x14A6,ᒦ,CANADIAN SYLLABICS MII,miCans_dotAboveCans
-syllabic,mo_dot-above-cans,"mo-cans, dot-above-cans",0x14A8,ᒨ,CANADIAN SYLLABICS MOO,moCans_dotAboveCans
-syllabic,ma_dot-above-cans,"ma-cans, dot-above-cans",0x14AB,ᒫ,CANADIAN SYLLABICS MAA,maCans_dotAboveCans
+syllabic,mi_ringAbove-cans,"mi-cans, ringAbove-cans",0x14A4,ᒤ,CANADIAN SYLLABICS MAAI,miCans_ringAboveCans
+syllabic,mi_dotAbove-cans,"mi-cans, dotAbove-cans",0x14A6,ᒦ,CANADIAN SYLLABICS MII,miCans_dotAboveCans
+syllabic,mo_dotAbove-cans,"mo-cans, dotAbove-cans",0x14A8,ᒨ,CANADIAN SYLLABICS MOO,moCans_dotAboveCans
+syllabic,ma_dotAbove-cans,"ma-cans, dotAbove-cans",0x14AB,ᒫ,CANADIAN SYLLABICS MAA,maCans_dotAboveCans
 syllabic,dot_me-cans,"dot-cans, me-cans",0x14AC,ᒬ,CANADIAN SYLLABICS MWE,dotCans_meCans
 syllabic,me_dot-cans,"me-cans, dot-cans",0x14AD,ᒭ,CANADIAN SYLLABICS WEST-CREE MWE,meCans_dotCans
 syllabic,dot_mi-cans,"dot-cans, mi-cans",0x14AE,ᒮ,CANADIAN SYLLABICS MWI,dotCans_miCans
 syllabic,mi_dot-cans,"mi-cans, dot-cans",0x14AF,ᒯ,CANADIAN SYLLABICS WEST-CREE MWI,miCans_dotCans
-syllabic,dot_mi_dot-above-cans,"dot-cans, mi-cans, dot-above-cans",0x14B0,ᒰ,CANADIAN SYLLABICS MWII,dotCans_miCans_dotAboveCans
-syllabic,mi_dot-above_dot-cans,"mi-cans, dot-above-cans, dot-cans",0x14B1,ᒱ,CANADIAN SYLLABICS WEST-CREE MWII,miCans_dotAboveCans_dotCans
+syllabic,dot_mi_dotAbove-cans,"dot-cans, mi-cans, dotAbove-cans",0x14B0,ᒰ,CANADIAN SYLLABICS MWII,dotCans_miCans_dotAboveCans
+syllabic,mi_dotAbove_dot-cans,"mi-cans, dotAbove-cans, dot-cans",0x14B1,ᒱ,CANADIAN SYLLABICS WEST-CREE MWII,miCans_dotAboveCans_dotCans
 syllabic,dot_mo-cans,"dot-cans, mo-cans",0x14B2,ᒲ,CANADIAN SYLLABICS MWO,dotCans_moCans
 syllabic,mo_dot-cans,"mo-cans, dot-cans",0x14B3,ᒳ,CANADIAN SYLLABICS WEST-CREE MWO,moCans_dotCans
-syllabic,dot_mo_dot-above-cans,"dot-cans, mo-cans, dot-above-cans",0x14B4,ᒴ,CANADIAN SYLLABICS MWOO,dotCans_moCans_dotAboveCans
-syllabic,mo_dot-above_dot-cans,"mo-cans, dot-above-cans, dot-cans",0x14B5,ᒵ,CANADIAN SYLLABICS WEST-CREE MWOO,moCans_dotAboveCans_dotCans
+syllabic,dot_mo_dotAbove-cans,"dot-cans, mo-cans, dotAbove-cans",0x14B4,ᒴ,CANADIAN SYLLABICS MWOO,dotCans_moCans_dotAboveCans
+syllabic,mo_dotAbove_dot-cans,"mo-cans, dotAbove-cans, dot-cans",0x14B5,ᒵ,CANADIAN SYLLABICS WEST-CREE MWOO,moCans_dotAboveCans_dotCans
 syllabic,dot_ma-cans,"dot-cans, ma-cans",0x14B6,ᒶ,CANADIAN SYLLABICS MWA,dotCans_maCans
 syllabic,ma_dot-cans,"ma-cans, dot-cans",0x14B7,ᒷ,CANADIAN SYLLABICS WEST-CREE MWA,maCans_dotCans
-syllabic,dot_ma_dot-above-cans,"dot-cans, ma-cans, dot-above-cans",0x14B8,ᒸ,CANADIAN SYLLABICS MWAA,dotCans_maCans_dotAboveCans
-syllabic,ma_dot-above_dot-cans,"ma-cans, dot-above-cans, dot-cans",0x14B9,ᒹ,CANADIAN SYLLABICS WEST-CREE MWAA,maCans_dotAboveCans_dotCans
-syllabic,ma_ring-above-cans,"ma-cans, ring-above-cans",0x18BA,ᢺ,CANADIAN SYLLABICS MAY,maCans_ringAboveCans
+syllabic,dot_ma_dotAbove-cans,"dot-cans, ma-cans, dotAbove-cans",0x14B8,ᒸ,CANADIAN SYLLABICS MWAA,dotCans_maCans_dotAboveCans
+syllabic,ma_dotAbove_dot-cans,"ma-cans, dotAbove-cans, dot-cans",0x14B9,ᒹ,CANADIAN SYLLABICS WEST-CREE MWAA,maCans_dotAboveCans_dotCans
+syllabic,ma_ringAbove-cans,"ma-cans, ringAbove-cans",0x18BA,ᢺ,CANADIAN SYLLABICS MAY,maCans_ringAboveCans
 syllabic,mo_dieresis-cans,"mo-cans, dieresis-cans",0x14A9,ᒩ,CANADIAN SYLLABICS Y-CREE MOO,moCans_dieresisCans
 syllabic,colon_ma-cans,"colon-cans, ma-cans",0x14BA,ᒺ,CANADIAN SYLLABICS NASKAPI MWAA,colonCans_maCans
 syllabic,se-cans,,0x14ED,ᓭ,CANADIAN SYLLABICS SE,seCans
@@ -437,82 +437,82 @@ syllabic,so-cans,,0x14F1,ᓱ,CANADIAN SYLLABICS SO,soCans
 syllabic,sa-cans,,0x14F4,ᓴ,CANADIAN SYLLABICS SA,saCans
 syllabic,dot_se-cans,"dot-cans, se-cans",0x14F6,ᓶ,CANADIAN SYLLABICS SWE,dotCans_seCans
 syllabic,se_dot-cans,"se-cans, dot-cans",0x14F7,ᓷ,CANADIAN SYLLABICS WEST-CREE SWE,seCans_dotCans
-syllabic,si_dot-above-cans,"si-cans, dot-above-cans",0x14F0,ᓰ,CANADIAN SYLLABICS SII,siCans_dotAboveCans
-syllabic,si_ring-above-cans,"si-cans, ring-above-cans",0x14EE,ᓮ,CANADIAN SYLLABICS SAAI,siCans_ringAboveCans
+syllabic,si_dotAbove-cans,"si-cans, dotAbove-cans",0x14F0,ᓰ,CANADIAN SYLLABICS SII,siCans_dotAboveCans
+syllabic,si_ringAbove-cans,"si-cans, ringAbove-cans",0x14EE,ᓮ,CANADIAN SYLLABICS SAAI,siCans_ringAboveCans
 syllabic,dot_si-cans,"dot-cans, si-cans",0x14F8,ᓸ,CANADIAN SYLLABICS SWI,dotCans_siCans
-syllabic,dot_si_dot-above-cans,"dot-cans, si-cans, dot-above-cans",0x14FA,ᓺ,CANADIAN SYLLABICS SWII,dotCans_siCans_dotAboveCans
+syllabic,dot_si_dotAbove-cans,"dot-cans, si-cans, dotAbove-cans",0x14FA,ᓺ,CANADIAN SYLLABICS SWII,dotCans_siCans_dotAboveCans
 syllabic,si_dot-cans,"si-cans, dot-cans",0x14F9,ᓹ,CANADIAN SYLLABICS WEST-CREE SWI,siCans_dotCans
-syllabic,si_dot-above_dot-cans,"si-cans, dot-above-cans, dot-cans",0x14FB,ᓻ,CANADIAN SYLLABICS WEST-CREE SWII,siCans_dotAboveCans_dotCans
-syllabic,so_dot-above-cans,"so-cans, dot-above-cans",0x14F2,ᓲ,CANADIAN SYLLABICS SOO,soCans_dotAboveCans
-syllabic,so_ring-above-cans,"so-cans, ring-above-cans",0x18BE,ᢾ,CANADIAN SYLLABICS SOY,soCans_ringAboveCans
+syllabic,si_dotAbove_dot-cans,"si-cans, dotAbove-cans, dot-cans",0x14FB,ᓻ,CANADIAN SYLLABICS WEST-CREE SWII,siCans_dotAboveCans_dotCans
+syllabic,so_dotAbove-cans,"so-cans, dotAbove-cans",0x14F2,ᓲ,CANADIAN SYLLABICS SOO,soCans_dotAboveCans
+syllabic,so_ringAbove-cans,"so-cans, ringAbove-cans",0x18BE,ᢾ,CANADIAN SYLLABICS SOY,soCans_ringAboveCans
 syllabic,dot_so-cans,"dot-cans, so-cans",0x14FC,ᓼ,CANADIAN SYLLABICS SWO,dotCans_soCans
-syllabic,dot_so_dot-above-cans,"dot-cans, so-cans, dot-above-cans",0x14FE,ᓾ,CANADIAN SYLLABICS SWOO,dotCans_soCans_dotAboveCans
+syllabic,dot_so_dotAbove-cans,"dot-cans, so-cans, dotAbove-cans",0x14FE,ᓾ,CANADIAN SYLLABICS SWOO,dotCans_soCans_dotAboveCans
 syllabic,so_dot-cans,"so-cans, dot-cans",0x14FD,ᓽ,CANADIAN SYLLABICS WEST-CREE SWO,soCans_dotCans
-syllabic,so_dot-above_dot-cans,"so-cans, dot-above-cans, dot-cans",0x14FF,ᓿ,CANADIAN SYLLABICS WEST-CREE SWOO,soCans_dotAboveCans_dotCans
-syllabic,sa_dot-above-cans,"sa-cans, dot-above-cans",0x14F5,ᓵ,CANADIAN SYLLABICS SAA,saCans_dotAboveCans
-syllabic,sa_ring-above-cans,"sa-cans, ring-above-cans",0x18BF,ᢿ,CANADIAN SYLLABICS SAY,saCans_ringAboveCans
+syllabic,so_dotAbove_dot-cans,"so-cans, dotAbove-cans, dot-cans",0x14FF,ᓿ,CANADIAN SYLLABICS WEST-CREE SWOO,soCans_dotAboveCans_dotCans
+syllabic,sa_dotAbove-cans,"sa-cans, dotAbove-cans",0x14F5,ᓵ,CANADIAN SYLLABICS SAA,saCans_dotAboveCans
+syllabic,sa_ringAbove-cans,"sa-cans, ringAbove-cans",0x18BF,ᢿ,CANADIAN SYLLABICS SAY,saCans_ringAboveCans
 syllabic,dot_sa-cans,"dot-cans, sa-cans",0x1500,ᔀ,CANADIAN SYLLABICS SWA,dotCans_saCans
-syllabic,dot_sa_dot-above-cans,"dot-cans, sa-cans, dot-above-cans",0x1502,ᔂ,CANADIAN SYLLABICS SWAA,dotCans_saCans_dotAboveCans
+syllabic,dot_sa_dotAbove-cans,"dot-cans, sa-cans, dotAbove-cans",0x1502,ᔂ,CANADIAN SYLLABICS SWAA,dotCans_saCans_dotAboveCans
 syllabic,sa_dot-cans,"sa-cans, dot-cans",0x1501,ᔁ,CANADIAN SYLLABICS WEST-CREE SWA,saCans_dotCans
-syllabic,sa_dot-above_dot-cans,"sa-cans, dot-above-cans, dot-cans",0x1503,ᔃ,CANADIAN SYLLABICS WEST-CREE SWAA,saCans_dotAboveCans_dotCans
+syllabic,sa_dotAbove_dot-cans,"sa-cans, dotAbove-cans, dot-cans",0x1503,ᔃ,CANADIAN SYLLABICS WEST-CREE SWAA,saCans_dotAboveCans_dotCans
 syllabic,so_dieresis-cans,"so-cans, dieresis-cans",0x14F3,ᓳ,CANADIAN SYLLABICS Y-CREE SOO,soCans_dieresisCans
 syllabic,colon_sa-cans,"colon-cans, sa-cans",0x1504,ᔄ,CANADIAN SYLLABICS NASKAPI SWAA,colonCans_saCans
-syllabic,si-hi-cans,,0x11AB0,𑪰,CANADIAN SYLLABICS NATTILIK HI,siHiCans
-syllabic,so-ho-cans,,0x11AB2,𑪲,CANADIAN SYLLABICS NATTILIK HO,soHoCans
-syllabic,sa-ha-cans,,0x11AB4,𑪴,CANADIAN SYLLABICS NATTILIK HA,saHaCans
+syllabic,siHi-cans,,0x11AB0,𑪰,CANADIAN SYLLABICS NATTILIK HI,siHiCans
+syllabic,soHo-cans,,0x11AB2,𑪲,CANADIAN SYLLABICS NATTILIK HO,soHoCans
+syllabic,saHa-cans,,0x11AB4,𑪴,CANADIAN SYLLABICS NATTILIK HA,saHaCans
 syllabic,shri-cans,,0x11AB6,𑪶,CANADIAN SYLLABICS NATTILIK SHRI,shriCans
 syllabic,shro-cans,,0x11AB8,𑪸,CANADIAN SYLLABICS NATTILIK SHRO,shroCans
 syllabic,shra-cans,,0x11ABA,𑪺,CANADIAN SYLLABICS NATTILIK SHRA,shraCans
-syllabic,si-hi_dot-above-cans,"si-hi-cans, dot-above-cans",0x11AB1,𑪱,CANADIAN SYLLABICS NATTILIK HII,siHiCans_dotAboveCans
-syllabic,so-ho_dot-above-cans,"so-ho-cans, dot-above-cans",0x11AB3,𑪳,CANADIAN SYLLABICS NATTILIK HOO,soHoCans_dotAboveCans
-syllabic,sa-ha_dot-above-cans,"sa-ha-cans, dot-above-cans",0x11AB5,𑪵,CANADIAN SYLLABICS NATTILIK HAA,saHaCans_dotAboveCans
-syllabic,shri_dot-above-cans,"shri-cans, dot-above-cans",0x11AB7,𑪷,CANADIAN SYLLABICS NATTILIK SHRII,shriCans_dotAboveCans
-syllabic,shro_dot-above-cans,"shro-cans, dot-above-cans",0x11AB9,𑪹,CANADIAN SYLLABICS NATTILIK SHROO,shroCans_dotAboveCans
-syllabic,shra_dot-above-cans,"shra-cans, dot-above-cans",0x11ABB,𑪻,CANADIAN SYLLABICS NATTILIK SHRAA,shraCans_dotAboveCans
-syllabic,sup-sa-with-dots_pa-cans,"sup-sa-with-dots-cans, pa-cans",0x150C,ᔌ,CANADIAN SYLLABICS NASKAPI SPWA,supSaWithDotsCans_paCans
-syllabic,sup-sa-with-dots_ta-cans,"sup-sa-with-dots-cans, ta-cans",0x150D,ᔍ,CANADIAN SYLLABICS NASKAPI STWA,supSaWithDotsCans_taCans
-syllabic,sup-sa-with-dots_ka-cans,"sup-sa-with-dots-cans, ka-cans",0x150E,ᔎ,CANADIAN SYLLABICS NASKAPI SKWA,supSaWithDotsCans_kaCans
-syllabic,sup-sa-with-dots_ca-cans,"sup-sa-with-dots-cans, ca-cans",0x150F,ᔏ,CANADIAN SYLLABICS NASKAPI SCWA,supSaWithDotsCans_caCans
+syllabic,siHi_dotAbove-cans,"siHi-cans, dotAbove-cans",0x11AB1,𑪱,CANADIAN SYLLABICS NATTILIK HII,siHiCans_dotAboveCans
+syllabic,soHo_dotAbove-cans,"soHo-cans, dotAbove-cans",0x11AB3,𑪳,CANADIAN SYLLABICS NATTILIK HOO,soHoCans_dotAboveCans
+syllabic,saHa_dotAbove-cans,"saHa-cans, dotAbove-cans",0x11AB5,𑪵,CANADIAN SYLLABICS NATTILIK HAA,saHaCans_dotAboveCans
+syllabic,shri_dotAbove-cans,"shri-cans, dotAbove-cans",0x11AB7,𑪷,CANADIAN SYLLABICS NATTILIK SHRII,shriCans_dotAboveCans
+syllabic,shro_dotAbove-cans,"shro-cans, dotAbove-cans",0x11AB9,𑪹,CANADIAN SYLLABICS NATTILIK SHROO,shroCans_dotAboveCans
+syllabic,shra_dotAbove-cans,"shra-cans, dotAbove-cans",0x11ABB,𑪻,CANADIAN SYLLABICS NATTILIK SHRAA,shraCans_dotAboveCans
+syllabic,supSaWithDots_pa-cans,"supSaWithDots-cans, pa-cans",0x150C,ᔌ,CANADIAN SYLLABICS NASKAPI SPWA,supSaWithDotsCans_paCans
+syllabic,supSaWithDots_ta-cans,"supSaWithDots-cans, ta-cans",0x150D,ᔍ,CANADIAN SYLLABICS NASKAPI STWA,supSaWithDotsCans_taCans
+syllabic,supSaWithDots_ka-cans,"supSaWithDots-cans, ka-cans",0x150E,ᔎ,CANADIAN SYLLABICS NASKAPI SKWA,supSaWithDotsCans_kaCans
+syllabic,supSaWithDots_ca-cans,"supSaWithDots-cans, ca-cans",0x150F,ᔏ,CANADIAN SYLLABICS NASKAPI SCWA,supSaWithDotsCans_caCans
 syllabic,ye-cans,,0x1526,ᔦ,CANADIAN SYLLABICS YE,yeCans
 syllabic,yi-cans,,0x1528,ᔨ,CANADIAN SYLLABICS YI,yiCans
 syllabic,yo-cans,,0x152A,ᔪ,CANADIAN SYLLABICS YO,yoCans
 syllabic,ya-cans,,0x152D,ᔭ,CANADIAN SYLLABICS YA,yaCans
-syllabic,yi_ring-above-cans,"yi-cans, ring-above-cans",0x1527,ᔧ,CANADIAN SYLLABICS YAAI,yiCans_ringAboveCans
-syllabic,yi_dot-above-cans,"yi-cans, dot-above-cans",0x1529,ᔩ,CANADIAN SYLLABICS YII,yiCans_dotAboveCans
-syllabic,yo_dot-above-cans,"yo-cans, dot-above-cans",0x152B,ᔫ,CANADIAN SYLLABICS YOO,yoCans_dotAboveCans
-syllabic,ya_dot-above-cans,"ya-cans, dot-above-cans",0x152E,ᔮ,CANADIAN SYLLABICS YAA,yaCans_dotAboveCans
+syllabic,yi_ringAbove-cans,"yi-cans, ringAbove-cans",0x1527,ᔧ,CANADIAN SYLLABICS YAAI,yiCans_ringAboveCans
+syllabic,yi_dotAbove-cans,"yi-cans, dotAbove-cans",0x1529,ᔩ,CANADIAN SYLLABICS YII,yiCans_dotAboveCans
+syllabic,yo_dotAbove-cans,"yo-cans, dotAbove-cans",0x152B,ᔫ,CANADIAN SYLLABICS YOO,yoCans_dotAboveCans
+syllabic,ya_dotAbove-cans,"ya-cans, dotAbove-cans",0x152E,ᔮ,CANADIAN SYLLABICS YAA,yaCans_dotAboveCans
 syllabic,dot_ye-cans,"dot-cans, ye-cans",0x152F,ᔯ,CANADIAN SYLLABICS YWE,dotCans_yeCans
 syllabic,ye_dot-cans,"ye-cans, dot-cans",0x1530,ᔰ,CANADIAN SYLLABICS WEST-CREE YWE,yeCans_dotCans
 syllabic,dot_yi-cans,"dot-cans, yi-cans",0x1531,ᔱ,CANADIAN SYLLABICS YWI,dotCans_yiCans
 syllabic,yi_dot-cans,"yi-cans, dot-cans",0x1532,ᔲ,CANADIAN SYLLABICS WEST-CREE YWI,yiCans_dotCans
-syllabic,dot_yi_dot-above-cans,"dot-cans, yi-cans, dot-above-cans",0x1533,ᔳ,CANADIAN SYLLABICS YWII,dotCans_yiCans_dotAboveCans
-syllabic,yi_dot-above_dot-cans,"yi-cans, dot-above-cans, dot-cans",0x1534,ᔴ,CANADIAN SYLLABICS WEST-CREE YWII,yiCans_dotAboveCans_dotCans
+syllabic,dot_yi_dotAbove-cans,"dot-cans, yi-cans, dotAbove-cans",0x1533,ᔳ,CANADIAN SYLLABICS YWII,dotCans_yiCans_dotAboveCans
+syllabic,yi_dotAbove_dot-cans,"yi-cans, dotAbove-cans, dot-cans",0x1534,ᔴ,CANADIAN SYLLABICS WEST-CREE YWII,yiCans_dotAboveCans_dotCans
 syllabic,dot_yo-cans,"dot-cans, yo-cans",0x1535,ᔵ,CANADIAN SYLLABICS YWO,dotCans_yoCans
 syllabic,yo_dot-cans,"yo-cans, dot-cans",0x1536,ᔶ,CANADIAN SYLLABICS WEST-CREE YWO,yoCans_dotCans
-syllabic,dot_yo_dot-above-cans,"dot-cans, yo-cans, dot-above-cans",0x1537,ᔷ,CANADIAN SYLLABICS YWOO,dotCans_yoCans_dotAboveCans
-syllabic,yo_dot-above_dot-cans,"yo-cans, dot-above-cans, dot-cans",0x1538,ᔸ,CANADIAN SYLLABICS WEST-CREE YWOO,yoCans_dotAboveCans_dotCans
+syllabic,dot_yo_dotAbove-cans,"dot-cans, yo-cans, dotAbove-cans",0x1537,ᔷ,CANADIAN SYLLABICS YWOO,dotCans_yoCans_dotAboveCans
+syllabic,yo_dotAbove_dot-cans,"yo-cans, dotAbove-cans, dot-cans",0x1538,ᔸ,CANADIAN SYLLABICS WEST-CREE YWOO,yoCans_dotAboveCans_dotCans
 syllabic,dot_ya-cans,"dot-cans, ya-cans",0x1539,ᔹ,CANADIAN SYLLABICS YWA,dotCans_yaCans
 syllabic,ya_dot-cans,"ya-cans, dot-cans",0x153A,ᔺ,CANADIAN SYLLABICS WEST-CREE YWA,yaCans_dotCans
-syllabic,dot_ya_dot-above-cans,"dot-cans, ya-cans, dot-above-cans",0x153B,ᔻ,CANADIAN SYLLABICS YWAA,dotCans_yaCans_dotAboveCans
-syllabic,ya_dot-above_dot-cans,"ya-cans, dot-above-cans, dot-cans",0x153C,ᔼ,CANADIAN SYLLABICS WEST-CREE YWAA,yaCans_dotAboveCans_dotCans
-syllabic,yo_ring-above-cans,"yo-cans, ring-above-cans",0x18C3,ᣃ,CANADIAN SYLLABICS YOY,yoCans_ringAboveCans
-syllabic,ya_ring-above-cans,"ya-cans, ring-above-cans",0x18C4,ᣄ,CANADIAN SYLLABICS YAY,yaCans_ringAboveCans
+syllabic,dot_ya_dotAbove-cans,"dot-cans, ya-cans, dotAbove-cans",0x153B,ᔻ,CANADIAN SYLLABICS YWAA,dotCans_yaCans_dotAboveCans
+syllabic,ya_dotAbove_dot-cans,"ya-cans, dotAbove-cans, dot-cans",0x153C,ᔼ,CANADIAN SYLLABICS WEST-CREE YWAA,yaCans_dotAboveCans_dotCans
+syllabic,yo_ringAbove-cans,"yo-cans, ringAbove-cans",0x18C3,ᣃ,CANADIAN SYLLABICS YOY,yoCans_ringAboveCans
+syllabic,ya_ringAbove-cans,"ya-cans, ringAbove-cans",0x18C4,ᣄ,CANADIAN SYLLABICS YAY,yaCans_ringAboveCans
 syllabic,yo_dieresis-cans,"yo-cans, dieresis-cans",0x152C,ᔬ,CANADIAN SYLLABICS Y-CREE YOO,yoCans_dieresisCans
 syllabic,colon_ya-cans,"colon-cans, ya-cans",0x153D,ᔽ,CANADIAN SYLLABICS NASKAPI YWAA,colonCans_yaCans
-syllabic,ye-the-cans,,0x15A7,ᖧ,CANADIAN SYLLABICS TH-CREE THE,yeTheCans
-syllabic,yi-thi-cans,,0x15A8,ᖨ,CANADIAN SYLLABICS TH-CREE THI,yiThiCans
-syllabic,yo-tho-cans,,0x15AA,ᖪ,CANADIAN SYLLABICS TH-CREE THO,yoThoCans
-syllabic,ya-tha-cans,,0x15AC,ᖬ,CANADIAN SYLLABICS TH-CREE THA,yaThaCans
-syllabic,yi-thi_dot-above-cans,"yi-thi-cans, dot-above-cans",0x15A9,ᖩ,CANADIAN SYLLABICS TH-CREE THII,yiThiCans_dotAboveCans
-syllabic,yo-tho_dot-above-cans,"yo-tho-cans, dot-above-cans",0x15AB,ᖫ,CANADIAN SYLLABICS TH-CREE THOO,yoThoCans_dotAboveCans
-syllabic,ya-tha_dot-above-cans,"ya-tha-cans, dot-above-cans",0x15AD,ᖭ,CANADIAN SYLLABICS TH-CREE THAA,yaThaCans_dotAboveCans
-syllabic,ye-the_dot-cans,"ye-the-cans, dot-cans",0x1677,ᙷ,CANADIAN SYLLABICS WOODS-CREE THWEE,yeTheCans_dotCans
-syllabic,yi-thi_dot-cans,"yi-thi-cans, dot-cans",0x1678,ᙸ,CANADIAN SYLLABICS WOODS-CREE THWI,yiThiCans_dotCans
-syllabic,yi-thi_dot-above_dot-cans,"yi-thi-cans, dot-above-cans, dot-cans",0x1679,ᙹ,CANADIAN SYLLABICS WOODS-CREE THWII,yiThiCans_dotAboveCans_dotCans
-syllabic,yo-tho_dot-cans,"yo-tho-cans, dot-cans",0x167A,ᙺ,CANADIAN SYLLABICS WOODS-CREE THWO,yoThoCans_dotCans
-syllabic,yo-tho_dot-above_dot-cans,"yo-tho-cans, dot-above-cans, dot-cans",0x167B,ᙻ,CANADIAN SYLLABICS WOODS-CREE THWOO,yoThoCans_dotAboveCans_dotCans
-syllabic,ya-tha_dot-cans,"ya-tha-cans, dot-cans",0x167C,ᙼ,CANADIAN SYLLABICS WOODS-CREE THWA,yaThaCans_dotCans
-syllabic,ya-tha_dot-above_dot-cans,"ya-tha-cans, dot-above-cans, dot-cans",0x167D,ᙽ,CANADIAN SYLLABICS WOODS-CREE THWAA,yaThaCans_dotAboveCans_dotCans
+syllabic,yeThe-cans,,0x15A7,ᖧ,CANADIAN SYLLABICS TH-CREE THE,yeTheCans
+syllabic,yiThi-cans,,0x15A8,ᖨ,CANADIAN SYLLABICS TH-CREE THI,yiThiCans
+syllabic,yoTho-cans,,0x15AA,ᖪ,CANADIAN SYLLABICS TH-CREE THO,yoThoCans
+syllabic,yaTha-cans,,0x15AC,ᖬ,CANADIAN SYLLABICS TH-CREE THA,yaThaCans
+syllabic,yiThi_dotAbove-cans,"yiThi-cans, dotAbove-cans",0x15A9,ᖩ,CANADIAN SYLLABICS TH-CREE THII,yiThiCans_dotAboveCans
+syllabic,yoTho_dotAbove-cans,"yoTho-cans, dotAbove-cans",0x15AB,ᖫ,CANADIAN SYLLABICS TH-CREE THOO,yoThoCans_dotAboveCans
+syllabic,yaTha_dotAbove-cans,"yaTha-cans, dotAbove-cans",0x15AD,ᖭ,CANADIAN SYLLABICS TH-CREE THAA,yaThaCans_dotAboveCans
+syllabic,yeThe_dot-cans,"yeThe-cans, dot-cans",0x1677,ᙷ,CANADIAN SYLLABICS WOODS-CREE THWEE,yeTheCans_dotCans
+syllabic,yiThi_dot-cans,"yiThi-cans, dot-cans",0x1678,ᙸ,CANADIAN SYLLABICS WOODS-CREE THWI,yiThiCans_dotCans
+syllabic,yiThi_dotAbove_dot-cans,"yiThi-cans, dotAbove-cans, dot-cans",0x1679,ᙹ,CANADIAN SYLLABICS WOODS-CREE THWII,yiThiCans_dotAboveCans_dotCans
+syllabic,yoTho_dot-cans,"yoTho-cans, dot-cans",0x167A,ᙺ,CANADIAN SYLLABICS WOODS-CREE THWO,yoThoCans_dotCans
+syllabic,yoTho_dotAbove_dot-cans,"yoTho-cans, dotAbove-cans, dot-cans",0x167B,ᙻ,CANADIAN SYLLABICS WOODS-CREE THWOO,yoThoCans_dotAboveCans_dotCans
+syllabic,yaTha_dot-cans,"yaTha-cans, dot-cans",0x167C,ᙼ,CANADIAN SYLLABICS WOODS-CREE THWA,yaThaCans_dotCans
+syllabic,yaTha_dotAbove_dot-cans,"yaTha-cans, dotAbove-cans, dot-cans",0x167D,ᙽ,CANADIAN SYLLABICS WOODS-CREE THWAA,yaThaCans_dotAboveCans_dotCans
 syllabic,spe-cans,,0x11ABC,𑪼,CANADIAN SYLLABICS SPE,speCans
 syllabic,spi-cans,,0x11ABD,𑪽,CANADIAN SYLLABICS SPI,spiCans
 syllabic,spo-cans,,0x11ABE,𑪾,CANADIAN SYLLABICS SPO,spoCans
@@ -521,227 +521,227 @@ syllabic,she-cans,,0x1510,ᔐ,CANADIAN SYLLABICS SHE,sheCans
 syllabic,shi-cans,,0x1511,ᔑ,CANADIAN SYLLABICS SHI,shiCans
 syllabic,sho-cans,,0x1513,ᔓ,CANADIAN SYLLABICS SHO,shoCans
 syllabic,sha-cans,,0x1515,ᔕ,CANADIAN SYLLABICS SHA,shaCans
-syllabic,shi_dot-above-cans,"shi-cans, dot-above-cans",0x1512,ᔒ,CANADIAN SYLLABICS SHII,shiCans_dotAboveCans
-syllabic,sho_dot-above-cans,"sho-cans, dot-above-cans",0x1514,ᔔ,CANADIAN SYLLABICS SHOO,shoCans_dotAboveCans
-syllabic,sha_dot-above-cans,"sha-cans, dot-above-cans",0x1516,ᔖ,CANADIAN SYLLABICS SHAA,shaCans_dotAboveCans
+syllabic,shi_dotAbove-cans,"shi-cans, dotAbove-cans",0x1512,ᔒ,CANADIAN SYLLABICS SHII,shiCans_dotAboveCans
+syllabic,sho_dotAbove-cans,"sho-cans, dotAbove-cans",0x1514,ᔔ,CANADIAN SYLLABICS SHOO,shoCans_dotAboveCans
+syllabic,sha_dotAbove-cans,"sha-cans, dotAbove-cans",0x1516,ᔖ,CANADIAN SYLLABICS SHAA,shaCans_dotAboveCans
 syllabic,dot_she-cans,"dot-cans, she-cans",0x1517,ᔗ,CANADIAN SYLLABICS SHWE,dotCans_sheCans
 syllabic,she_dot-cans,"she-cans, dot-cans",0x1518,ᔘ,CANADIAN SYLLABICS WEST-CREE SHWE,sheCans_dotCans
 syllabic,dot_shi-cans,"dot-cans, shi-cans",0x1519,ᔙ,CANADIAN SYLLABICS SHWI,dotCans_shiCans
 syllabic,shi_dot-cans,"shi-cans, dot-cans",0x151A,ᔚ,CANADIAN SYLLABICS WEST-CREE SHWI,shiCans_dotCans
-syllabic,dot_shi_dot-above-cans,"dot-cans, shi-cans, dot-above-cans",0x151B,ᔛ,CANADIAN SYLLABICS SHWII,dotCans_shiCans_dotAboveCans
-syllabic,shi_dot-above_dot-cans,"shi-cans, dot-above-cans, dot-cans",0x151C,ᔜ,CANADIAN SYLLABICS WEST-CREE SHWII,shiCans_dotAboveCans_dotCans
+syllabic,dot_shi_dotAbove-cans,"dot-cans, shi-cans, dotAbove-cans",0x151B,ᔛ,CANADIAN SYLLABICS SHWII,dotCans_shiCans_dotAboveCans
+syllabic,shi_dotAbove_dot-cans,"shi-cans, dotAbove-cans, dot-cans",0x151C,ᔜ,CANADIAN SYLLABICS WEST-CREE SHWII,shiCans_dotAboveCans_dotCans
 syllabic,dot_sho-cans,"dot-cans, sho-cans",0x151D,ᔝ,CANADIAN SYLLABICS SHWO,dotCans_shoCans
 syllabic,sho_dot-cans,"sho-cans, dot-cans",0x151E,ᔞ,CANADIAN SYLLABICS WEST-CREE SHWO,shoCans_dotCans
-syllabic,dot_sho_dot-above-cans,"dot-cans, sho-cans, dot-above-cans",0x151F,ᔟ,CANADIAN SYLLABICS SHWOO,dotCans_shoCans_dotAboveCans
-syllabic,sho_dot-above_dot-cans,"sho-cans, dot-above-cans, dot-cans",0x1520,ᔠ,CANADIAN SYLLABICS WEST-CREE SHWOO,shoCans_dotAboveCans_dotCans
+syllabic,dot_sho_dotAbove-cans,"dot-cans, sho-cans, dotAbove-cans",0x151F,ᔟ,CANADIAN SYLLABICS SHWOO,dotCans_shoCans_dotAboveCans
+syllabic,sho_dotAbove_dot-cans,"sho-cans, dotAbove-cans, dot-cans",0x1520,ᔠ,CANADIAN SYLLABICS WEST-CREE SHWOO,shoCans_dotAboveCans_dotCans
 syllabic,dot_sha-cans,"dot-cans, sha-cans",0x1521,ᔡ,CANADIAN SYLLABICS SHWA,dotCans_shaCans
 syllabic,sha_dot-cans,"sha-cans, dot-cans",0x1522,ᔢ,CANADIAN SYLLABICS WEST-CREE SHWA,shaCans_dotCans
-syllabic,dot_sha_dot-above-cans,"dot-cans, sha-cans, dot-above-cans",0x1523,ᔣ,CANADIAN SYLLABICS SHWAA,dotCans_shaCans_dotAboveCans
-syllabic,sha_dot-above_dot-cans,"sha-cans, dot-above-cans, dot-cans",0x1524,ᔤ,CANADIAN SYLLABICS WEST-CREE SHWAA,shaCans_dotAboveCans_dotCans
-syllabic,sho_ring-above-cans,"sho-cans, ring-above-cans",0x18C0,ᣀ,CANADIAN SYLLABICS SHOY,shoCans_ringAboveCans
-syllabic,sha_ring-above-cans,"sha-cans, ring-above-cans",0x18C1,ᣁ,CANADIAN SYLLABICS SHAY,shaCans_ringAboveCans
-syllabic,dot_sho_ring-above-cans,"dot-cans, sho-cans, ring-above-cans",0x18C2,ᣂ,CANADIAN SYLLABICS SHWOY,dotCans_shoCans_ringAboveCans
-syllabic,blackfoot-e-cans,,0x15B0,ᖰ,CANADIAN SYLLABICS BLACKFOOT E,blackfootECans
-syllabic,blackfoot-i-cans,,0x15B1,ᖱ,CANADIAN SYLLABICS BLACKFOOT I,blackfootICans
-syllabic,blackfoot-o-cans,,0x15B2,ᖲ,CANADIAN SYLLABICS BLACKFOOT O,blackfootOCans
-syllabic,blackfoot-a-cans,,0x15B3,ᖳ,CANADIAN SYLLABICS BLACKFOOT A,blackfootACans
-syllabic,blackfoot-we-cans,,0x15B4,ᖴ,CANADIAN SYLLABICS BLACKFOOT WE,blackfootWeCans
-syllabic,blackfoot-wi-cans,,0x15B5,ᖵ,CANADIAN SYLLABICS BLACKFOOT WI,blackfootWiCans
-syllabic,blackfoot-wo-cans,,0x15B6,ᖶ,CANADIAN SYLLABICS BLACKFOOT WO,blackfootWoCans
-syllabic,blackfoot-wa-cans,,0x15B7,ᖷ,CANADIAN SYLLABICS BLACKFOOT WA,blackfootWaCans
-syllabic,blackfoot-ne-cans,,0x15B8,ᖸ,CANADIAN SYLLABICS BLACKFOOT NE,blackfootNeCans
-syllabic,blackfoot-ni-cans,,0x15B9,ᖹ,CANADIAN SYLLABICS BLACKFOOT NI,blackfootNiCans
-syllabic,blackfoot-no-cans,,0x15BA,ᖺ,CANADIAN SYLLABICS BLACKFOOT NO,blackfootNoCans
-syllabic,blackfoot-na-cans,,0x15BB,ᖻ,CANADIAN SYLLABICS BLACKFOOT NA,blackfootNaCans
-syllabic,blackfoot-ke-cans,,0x15BC,ᖼ,CANADIAN SYLLABICS BLACKFOOT KE,blackfootKeCans
-syllabic,blackfoot-ki-cans,,0x15BD,ᖽ,CANADIAN SYLLABICS BLACKFOOT KI,blackfootKiCans
-syllabic,blackfoot-ko-cans,,0x15BE,ᖾ,CANADIAN SYLLABICS BLACKFOOT KO,blackfootKoCans
-syllabic,blackfoot-ka-cans,,0x15BF,ᖿ,CANADIAN SYLLABICS BLACKFOOT KA,blackfootKaCans
-syllabic,sayisi-m-cans,,0x14BF,ᒿ,CANADIAN SYLLABICS SAYISI M,sayisiMCans
-syllabic,sayisi-she-cans,,0x1597,ᖗ,CANADIAN SYLLABICS SAYISI SHE,sayisiSheCans
-syllabic,sayisi-shi-cans,,0x1598,ᖘ,CANADIAN SYLLABICS SAYISI SHI,sayisiShiCans
-syllabic,sayisi-shu-cans,,0x1599,ᖙ,CANADIAN SYLLABICS SAYISI SHO,sayisiShuCans
-syllabic,sayisi-sha-cans,,0x159A,ᖚ,CANADIAN SYLLABICS SAYISI SHA,sayisiShaCans
-syllabic,sayisi-he-cans,,0x15C0,ᗀ,CANADIAN SYLLABICS SAYISI HE,sayisiHeCans
-syllabic,sayisi-hi-cans,,0x15C1,ᗁ,CANADIAN SYLLABICS SAYISI HI,sayisiHiCans
-syllabic,sayisi-hu-cans,,0x15C2,ᗂ,CANADIAN SYLLABICS SAYISI HO,sayisiHuCans
-syllabic,sayisi-ha-cans,,0x15C3,ᗃ,CANADIAN SYLLABICS SAYISI HA,sayisiHaCans
-syllabic,sayisi-ja-cans,,0x1614,ᘔ,CANADIAN SYLLABICS CARRIER JU,sayisiJaCans
-syllabic,sayisi-ju-cans,,0x1615,ᘕ,CANADIAN SYLLABICS SAYISI JU,sayisiJuCans
-syllabic,sayisi-ji-cans,,0x161A,ᘚ,CANADIAN SYLLABICS SAYISI JI,sayisiJiCans
-syllabic,sayisi-je-cans,,0x161B,ᘛ,CANADIAN SYLLABICS CARRIER JA,sayisiJeCans
-syllabic,sayisi-she_dot-cans,"sayisi-she-cans, dot-cans",0x18EA,ᣪ,CANADIAN SYLLABICS SAYISI SHWE,sayisiSheCans_dotCans
-syllabic,sayisi-shu_dot-above-cans,"sayisi-shu-cans, dot-above-cans",0x18EB,ᣫ,CANADIAN SYLLABICS SAYISI SHOO,sayisiShuCans_dotAboveCans
-syllabic,sayisi-hu_dot-above-cans,"sayisi-hu-cans, dot-above-cans",0x18EC,ᣬ,CANADIAN SYLLABICS SAYISI HOO,sayisiHuCans_dotAboveCans
-syllabic,sayisi-ju_dot-above-cans,"sayisi-ju-cans, dot-above-cans",0x18F1,ᣱ,CANADIAN SYLLABICS SAYISI JUU,sayisiJuCans_dotAboveCans
-syllabic,sayisi-je_dot-cans,"sayisi-je-cans, dot-cans",0x18F2,ᣲ,CANADIAN SYLLABICS CARRIER JWA,sayisiJeCans_dotCans
-syllabic,carrier-ee-cans,,0x1408,ᐈ,CANADIAN SYLLABICS CARRIER EE,carrierEeCans
-syllabic,carrier-i-cans,,0x1409,ᐉ,CANADIAN SYLLABICS CARRIER I,carrierICans
-syllabic,carrier-hee-cans,,0x1436,ᐶ,CANADIAN SYLLABICS CARRIER HEE,carrierHeeCans
-syllabic,carrier-hi-cans,,0x1437,ᐷ,CANADIAN SYLLABICS CARRIER HI,carrierHiCans
-syllabic,carrier-dee-cans,,0x1453,ᑓ,CANADIAN SYLLABICS CARRIER DEE,carrierDeeCans
-syllabic,carrier-di-cans,,0x1454,ᑔ,CANADIAN SYLLABICS CARRIER DI,carrierDiCans
-syllabic,carrier-ghu-cans,,0x15C4,ᗄ,CANADIAN SYLLABICS CARRIER GHU,carrierGhuCans
-syllabic,carrier-gho-cans,,0x15C5,ᗅ,CANADIAN SYLLABICS CARRIER GHO,carrierGhoCans
-syllabic,carrier-ghe-cans,,0x15C6,ᗆ,CANADIAN SYLLABICS CARRIER GHE,carrierGheCans
-syllabic,carrier-ghee-cans,,0x15C7,ᗇ,CANADIAN SYLLABICS CARRIER GHEE,carrierGheeCans
-syllabic,carrier-ghi-cans,,0x15C8,ᗈ,CANADIAN SYLLABICS CARRIER GHI,carrierGhiCans
-syllabic,carrier-gha-cans,,0x15C9,ᗉ,CANADIAN SYLLABICS CARRIER GHA,carrierGhaCans
-syllabic,carrier-ru-cans,,0x15CA,ᗊ,CANADIAN SYLLABICS CARRIER RU,carrierRuCans
-syllabic,carrier-ro-cans,,0x15CB,ᗋ,CANADIAN SYLLABICS CARRIER RO,carrierRoCans
-syllabic,carrier-re-cans,,0x15CC,ᗌ,CANADIAN SYLLABICS CARRIER RE,carrierReCans
-syllabic,carrier-ree-cans,,0x15CD,ᗍ,CANADIAN SYLLABICS CARRIER REE,carrierReeCans
-syllabic,carrier-ri-cans,,0x15CE,ᗎ,CANADIAN SYLLABICS CARRIER RI,carrierRiCans
-syllabic,carrier-ra-cans,,0x15CF,ᗏ,CANADIAN SYLLABICS CARRIER RA,carrierRaCans
-syllabic,carrier-wu-cans,,0x15D0,ᗐ,CANADIAN SYLLABICS CARRIER WU,carrierWuCans
-syllabic,carrier-wo-cans,,0x15D1,ᗑ,CANADIAN SYLLABICS CARRIER WO,carrierWoCans
-syllabic,carrier-we-cans,,0x15D2,ᗒ,CANADIAN SYLLABICS CARRIER WE,carrierWeCans
-syllabic,carrier-wee-cans,,0x15D3,ᗓ,CANADIAN SYLLABICS CARRIER WEE,carrierWeeCans
-syllabic,carrier-wi-cans,,0x15D4,ᗔ,CANADIAN SYLLABICS CARRIER WI,carrierWiCans
-syllabic,carrier-wa-cans,,0x15D5,ᗕ,CANADIAN SYLLABICS CARRIER WA,carrierWaCans
-syllabic,carrier-hwu-cans,,0x15D6,ᗖ,CANADIAN SYLLABICS CARRIER HWU,carrierHwuCans
-syllabic,carrier-hwo-cans,,0x15D7,ᗗ,CANADIAN SYLLABICS CARRIER HWO,carrierHwoCans
-syllabic,carrier-hwe-cans,,0x15D8,ᗘ,CANADIAN SYLLABICS CARRIER HWE,carrierHweCans
-syllabic,carrier-hwee-cans,,0x15D9,ᗙ,CANADIAN SYLLABICS CARRIER HWEE,carrierHweeCans
-syllabic,carrier-hwi-cans,,0x15DA,ᗚ,CANADIAN SYLLABICS CARRIER HWI,carrierHwiCans
-syllabic,carrier-hwa-cans,,0x15DB,ᗛ,CANADIAN SYLLABICS CARRIER HWA,carrierHwaCans
-syllabic,carrier-thu-cans,,0x15DC,ᗜ,CANADIAN SYLLABICS CARRIER THU,carrierThuCans
-syllabic,carrier-tho-cans,,0x15DD,ᗝ,CANADIAN SYLLABICS CARRIER THO,carrierThoCans
-syllabic,carrier-the-cans,,0x15DE,ᗞ,CANADIAN SYLLABICS CARRIER THE,carrierTheCans
-syllabic,carrier-thee-cans,,0x15DF,ᗟ,CANADIAN SYLLABICS CARRIER THEE,carrierTheeCans
-syllabic,carrier-thi-cans,,0x15E0,ᗠ,CANADIAN SYLLABICS CARRIER THI,carrierThiCans
-syllabic,carrier-tha-cans,,0x15E1,ᗡ,CANADIAN SYLLABICS CARRIER THA,carrierThaCans
-syllabic,carrier-ttu-cans,,0x15E2,ᗢ,CANADIAN SYLLABICS CARRIER TTU,carrierTtuCans
-syllabic,carrier-tto-cans,,0x15E3,ᗣ,CANADIAN SYLLABICS CARRIER TTO,carrierTtoCans
-syllabic,carrier-tte-cans,,0x15E4,ᗤ,CANADIAN SYLLABICS CARRIER TTE,carrierTteCans
-syllabic,carrier-ttee-cans,,0x15E5,ᗥ,CANADIAN SYLLABICS CARRIER TTEE,carrierTteeCans
-syllabic,carrier-tti-cans,,0x15E6,ᗦ,CANADIAN SYLLABICS CARRIER TTI,carrierTtiCans
-syllabic,carrier-tta-cans,,0x15E7,ᗧ,CANADIAN SYLLABICS CARRIER TTA,carrierTtaCans
-syllabic,carrier-pu-cans,,0x15E8,ᗨ,CANADIAN SYLLABICS CARRIER PU,carrierPuCans
-syllabic,carrier-po-cans,,0x15E9,ᗩ,CANADIAN SYLLABICS CARRIER PO,carrierPoCans
-syllabic,carrier-pe-cans,,0x15EA,ᗪ,CANADIAN SYLLABICS CARRIER PE,carrierPeCans
-syllabic,carrier-pee-cans,,0x15EB,ᗫ,CANADIAN SYLLABICS CARRIER PEE,carrierPeeCans
-syllabic,carrier-pi-cans,,0x15EC,ᗬ,CANADIAN SYLLABICS CARRIER PI,carrierPiCans
-syllabic,carrier-pa-cans,,0x15ED,ᗭ,CANADIAN SYLLABICS CARRIER PA,carrierPaCans
-syllabic,carrier-gu-cans,,0x15EF,ᗯ,CANADIAN SYLLABICS CARRIER GU,carrierGuCans
-syllabic,carrier-go-cans,,0x15F0,ᗰ,CANADIAN SYLLABICS CARRIER GO,carrierGoCans
-syllabic,carrier-ge-cans,,0x15F1,ᗱ,CANADIAN SYLLABICS CARRIER GE,carrierGeCans
-syllabic,carrier-gee-cans,,0x15F2,ᗲ,CANADIAN SYLLABICS CARRIER GEE,carrierGeeCans
-syllabic,carrier-gi-cans,,0x15F3,ᗳ,CANADIAN SYLLABICS CARRIER GI,carrierGiCans
-syllabic,carrier-ga-cans,,0x15F4,ᗴ,CANADIAN SYLLABICS CARRIER GA,carrierGaCans
-syllabic,carrier-khu-cans,,0x15F5,ᗵ,CANADIAN SYLLABICS CARRIER KHU,carrierKhuCans
-syllabic,carrier-kho-cans,,0x15F6,ᗶ,CANADIAN SYLLABICS CARRIER KHO,carrierKhoCans
-syllabic,carrier-khe-cans,,0x15F7,ᗷ,CANADIAN SYLLABICS CARRIER KHE,carrierKheCans
-syllabic,carrier-khee-cans,,0x15F8,ᗸ,CANADIAN SYLLABICS CARRIER KHEE,carrierKheeCans
-syllabic,carrier-khi-cans,,0x15F9,ᗹ,CANADIAN SYLLABICS CARRIER KHI,carrierKhiCans
-syllabic,carrier-kha-cans,,0x15FA,ᗺ,CANADIAN SYLLABICS CARRIER KHA,carrierKhaCans
-syllabic,carrier-kku-cans,,0x15FB,ᗻ,CANADIAN SYLLABICS CARRIER KKU,carrierKkuCans
-syllabic,carrier-kko-cans,,0x15FC,ᗼ,CANADIAN SYLLABICS CARRIER KKO,carrierKkoCans
-syllabic,carrier-kke-cans,,0x15FD,ᗽ,CANADIAN SYLLABICS CARRIER KKE,carrierKkeCans
-syllabic,carrier-kkee-cans,,0x15FE,ᗾ,CANADIAN SYLLABICS CARRIER KKEE,carrierKkeeCans
-syllabic,carrier-kki-cans,,0x15FF,ᗿ,CANADIAN SYLLABICS CARRIER KKI,carrierKkiCans
-syllabic,carrier-kka-cans,,0x1600,ᘀ,CANADIAN SYLLABICS CARRIER KKA,carrierKkaCans
-syllabic,carrier-nu-cans,,0x1602,ᘂ,CANADIAN SYLLABICS CARRIER NU,carrierNuCans
-syllabic,carrier-no-cans,,0x1603,ᘃ,CANADIAN SYLLABICS CARRIER NO,carrierNoCans
-syllabic,carrier-ne-cans,,0x1604,ᘄ,CANADIAN SYLLABICS CARRIER NE,carrierNeCans
-syllabic,carrier-nee-cans,,0x1605,ᘅ,CANADIAN SYLLABICS CARRIER NEE,carrierNeeCans
-syllabic,carrier-ni-cans,,0x1606,ᘆ,CANADIAN SYLLABICS CARRIER NI,carrierNiCans
-syllabic,carrier-na-cans,,0x1607,ᘇ,CANADIAN SYLLABICS CARRIER NA,carrierNaCans
-syllabic,carrier-mu-cans,,0x1608,ᘈ,CANADIAN SYLLABICS CARRIER MU,carrierMuCans
-syllabic,carrier-mo-cans,,0x1609,ᘉ,CANADIAN SYLLABICS CARRIER MO,carrierMoCans
-syllabic,carrier-me-cans,,0x160A,ᘊ,CANADIAN SYLLABICS CARRIER ME,carrierMeCans
-syllabic,carrier-mee-cans,,0x160B,ᘋ,CANADIAN SYLLABICS CARRIER MEE,carrierMeeCans
-syllabic,carrier-mi-cans,,0x160C,ᘌ,CANADIAN SYLLABICS CARRIER MI,carrierMiCans
-syllabic,carrier-ma-cans,,0x160D,ᘍ,CANADIAN SYLLABICS CARRIER MA,carrierMaCans
-syllabic,carrier-yu-cans,,0x160E,ᘎ,CANADIAN SYLLABICS CARRIER YU,carrierYuCans
-syllabic,carrier-yo-cans,,0x160F,ᘏ,CANADIAN SYLLABICS CARRIER YO,carrierYoCans
-syllabic,carrier-ye-cans,,0x1610,ᘐ,CANADIAN SYLLABICS CARRIER YE,carrierYeCans
-syllabic,carrier-yee-cans,,0x1611,ᘑ,CANADIAN SYLLABICS CARRIER YEE,carrierYeeCans
-syllabic,carrier-yi-cans,,0x1612,ᘒ,CANADIAN SYLLABICS CARRIER YI,carrierYiCans
-syllabic,carrier-ya-cans,,0x1613,ᘓ,CANADIAN SYLLABICS CARRIER YA,carrierYaCans
-syllabic,carrier-jo-cans,,0x1616,ᘖ,CANADIAN SYLLABICS CARRIER JO,carrierJoCans
-syllabic,carrier-je-cans,,0x1617,ᘗ,CANADIAN SYLLABICS CARRIER JE,carrierJeCans
-syllabic,carrier-jee-cans,,0x1618,ᘘ,CANADIAN SYLLABICS CARRIER JEE,carrierJeeCans
-syllabic,carrier-ji-cans,,0x1619,ᘙ,CANADIAN SYLLABICS CARRIER JI,carrierJiCans
-syllabic,carrier-jju-cans,,0x161C,ᘜ,CANADIAN SYLLABICS CARRIER JJU,carrierJjuCans
-syllabic,carrier-jjo-cans,,0x161D,ᘝ,CANADIAN SYLLABICS CARRIER JJO,carrierJjoCans
-syllabic,carrier-jje-cans,,0x161E,ᘞ,CANADIAN SYLLABICS CARRIER JJE,carrierJjeCans
-syllabic,carrier-jjee-cans,,0x161F,ᘟ,CANADIAN SYLLABICS CARRIER JJEE,carrierJjeeCans
-syllabic,carrier-jji-cans,,0x1620,ᘠ,CANADIAN SYLLABICS CARRIER JJI,carrierJjiCans
-syllabic,carrier-jja-cans,,0x1621,ᘡ,CANADIAN SYLLABICS CARRIER JJA,carrierJjaCans
-syllabic,carrier-lu-cans,,0x1622,ᘢ,CANADIAN SYLLABICS CARRIER LU,carrierLuCans
-syllabic,carrier-lo-cans,,0x1623,ᘣ,CANADIAN SYLLABICS CARRIER LO,carrierLoCans
-syllabic,carrier-le-cans,,0x1624,ᘤ,CANADIAN SYLLABICS CARRIER LE,carrierLeCans
-syllabic,carrier-lee-cans,,0x1625,ᘥ,CANADIAN SYLLABICS CARRIER LEE,carrierLeeCans
-syllabic,carrier-li-cans,,0x1626,ᘦ,CANADIAN SYLLABICS CARRIER LI,carrierLiCans
-syllabic,carrier-la-cans,,0x1627,ᘧ,CANADIAN SYLLABICS CARRIER LA,carrierLaCans
-syllabic,carrier-dlu-cans,,0x1628,ᘨ,CANADIAN SYLLABICS CARRIER DLU,carrierDluCans
-syllabic,carrier-dlo-cans,,0x1629,ᘩ,CANADIAN SYLLABICS CARRIER DLO,carrierDloCans
-syllabic,carrier-dle-cans,,0x162A,ᘪ,CANADIAN SYLLABICS CARRIER DLE,carrierDleCans
-syllabic,carrier-dlee-cans,,0x162B,ᘫ,CANADIAN SYLLABICS CARRIER DLEE,carrierDleeCans
-syllabic,carrier-dli-cans,,0x162C,ᘬ,CANADIAN SYLLABICS CARRIER DLI,carrierDliCans
-syllabic,carrier-dla-cans,,0x162D,ᘭ,CANADIAN SYLLABICS CARRIER DLA,carrierDlaCans
-syllabic,carrier-lhu-cans,,0x162E,ᘮ,CANADIAN SYLLABICS CARRIER LHU,carrierLhuCans
-syllabic,carrier-lho-cans,,0x162F,ᘯ,CANADIAN SYLLABICS CARRIER LHO,carrierLhoCans
-syllabic,carrier-lhe-cans,,0x1630,ᘰ,CANADIAN SYLLABICS CARRIER LHE,carrierLheCans
-syllabic,carrier-lhee-cans,,0x1631,ᘱ,CANADIAN SYLLABICS CARRIER LHEE,carrierLheeCans
-syllabic,carrier-lhi-cans,,0x1632,ᘲ,CANADIAN SYLLABICS CARRIER LHI,carrierLhiCans
-syllabic,carrier-lha-cans,,0x1633,ᘳ,CANADIAN SYLLABICS CARRIER LHA,carrierLhaCans
-syllabic,carrier-tlhu-cans,,0x1634,ᘴ,CANADIAN SYLLABICS CARRIER TLHU,carrierTlhuCans
-syllabic,carrier-tlho-cans,,0x1635,ᘵ,CANADIAN SYLLABICS CARRIER TLHO,carrierTlhoCans
-syllabic,carrier-tlhe-cans,,0x1636,ᘶ,CANADIAN SYLLABICS CARRIER TLHE,carrierTlheCans
-syllabic,carrier-tlhee-cans,,0x1637,ᘷ,CANADIAN SYLLABICS CARRIER TLHEE,carrierTlheeCans
-syllabic,carrier-tlhi-cans,,0x1638,ᘸ,CANADIAN SYLLABICS CARRIER TLHI,carrierTlhiCans
-syllabic,carrier-tlha-cans,,0x1639,ᘹ,CANADIAN SYLLABICS CARRIER TLHA,carrierTlhaCans
-syllabic,carrier-tlu-cans,,0x163A,ᘺ,CANADIAN SYLLABICS CARRIER TLU,carrierTluCans
-syllabic,carrier-tlo-cans,,0x163B,ᘻ,CANADIAN SYLLABICS CARRIER TLO,carrierTloCans
-syllabic,carrier-tle-cans,,0x163C,ᘼ,CANADIAN SYLLABICS CARRIER TLE,carrierTleCans
-syllabic,carrier-tlee-cans,,0x163D,ᘽ,CANADIAN SYLLABICS CARRIER TLEE,carrierTleeCans
-syllabic,carrier-tli-cans,,0x163E,ᘾ,CANADIAN SYLLABICS CARRIER TLI,carrierTliCans
-syllabic,carrier-tla-cans,,0x163F,ᘿ,CANADIAN SYLLABICS CARRIER TLA,carrierTlaCans
-syllabic,carrier-zu-cans,,0x1640,ᙀ,CANADIAN SYLLABICS CARRIER ZU,carrierZuCans
-syllabic,carrier-zo-cans,,0x1641,ᙁ,CANADIAN SYLLABICS CARRIER ZO,carrierZoCans
-syllabic,carrier-ze-cans,,0x1642,ᙂ,CANADIAN SYLLABICS CARRIER ZE,carrierZeCans
-syllabic,carrier-zee-cans,,0x1643,ᙃ,CANADIAN SYLLABICS CARRIER ZEE,carrierZeeCans
-syllabic,carrier-zi-cans,,0x1644,ᙄ,CANADIAN SYLLABICS CARRIER ZI,carrierZiCans
-syllabic,carrier-za-cans,,0x1645,ᙅ,CANADIAN SYLLABICS CARRIER ZA,carrierZaCans
-syllabic,carrier-dzu-cans,,0x1648,ᙈ,CANADIAN SYLLABICS CARRIER DZU,carrierDzuCans
-syllabic,carrier-dzo-cans,,0x1649,ᙉ,CANADIAN SYLLABICS CARRIER DZO,carrierDzoCans
-syllabic,carrier-dze-cans,,0x164A,ᙊ,CANADIAN SYLLABICS CARRIER DZE,carrierDzeCans
-syllabic,carrier-dzee-cans,,0x164B,ᙋ,CANADIAN SYLLABICS CARRIER DZEE,carrierDzeeCans
-syllabic,carrier-dzi-cans,,0x164C,ᙌ,CANADIAN SYLLABICS CARRIER DZI,carrierDziCans
-syllabic,carrier-dza-cans,,0x164D,ᙍ,CANADIAN SYLLABICS CARRIER DZA,carrierDzaCans
-syllabic,carrier-su-cans,,0x164E,ᙎ,CANADIAN SYLLABICS CARRIER SU,carrierSuCans
-syllabic,carrier-so-cans,,0x164F,ᙏ,CANADIAN SYLLABICS CARRIER SO,carrierSoCans
-syllabic,carrier-se-cans,,0x1650,ᙐ,CANADIAN SYLLABICS CARRIER SE,carrierSeCans
-syllabic,carrier-see-cans,,0x1651,ᙑ,CANADIAN SYLLABICS CARRIER SEE,carrierSeeCans
-syllabic,carrier-si-cans,,0x1652,ᙒ,CANADIAN SYLLABICS CARRIER SI,carrierSiCans
-syllabic,carrier-sa-cans,,0x1653,ᙓ,CANADIAN SYLLABICS CARRIER SA,carrierSaCans
-syllabic,carrier-shu-cans,,0x1654,ᙔ,CANADIAN SYLLABICS CARRIER SHU,carrierShuCans
-syllabic,carrier-sho-cans,,0x1655,ᙕ,CANADIAN SYLLABICS CARRIER SHO,carrierShoCans
-syllabic,carrier-she-cans,,0x1656,ᙖ,CANADIAN SYLLABICS CARRIER SHE,carrierSheCans
-syllabic,carrier-shee-cans,,0x1657,ᙗ,CANADIAN SYLLABICS CARRIER SHEE,carrierSheeCans
-syllabic,carrier-shi-cans,,0x1658,ᙘ,CANADIAN SYLLABICS CARRIER SHI,carrierShiCans
-syllabic,carrier-sha-cans,,0x1659,ᙙ,CANADIAN SYLLABICS CARRIER SHA,carrierShaCans
-syllabic,carrier-tsu-cans,,0x165B,ᙛ,CANADIAN SYLLABICS CARRIER TSU,carrierTsuCans
-syllabic,carrier-tso-cans,,0x165C,ᙜ,CANADIAN SYLLABICS CARRIER TSO,carrierTsoCans
-syllabic,carrier-tse-cans,,0x165D,ᙝ,CANADIAN SYLLABICS CARRIER TSE,carrierTseCans
-syllabic,carrier-tsee-cans,,0x165E,ᙞ,CANADIAN SYLLABICS CARRIER TSEE,carrierTseeCans
-syllabic,carrier-tsi-cans,,0x165F,ᙟ,CANADIAN SYLLABICS CARRIER TSI,carrierTsiCans
-syllabic,carrier-tsa-cans,,0x1660,ᙠ,CANADIAN SYLLABICS CARRIER TSA,carrierTsaCans
-syllabic,carrier-chu-cans,,0x1661,ᙡ,CANADIAN SYLLABICS CARRIER CHU,carrierChuCans
-syllabic,carrier-cho-cans,,0x1662,ᙢ,CANADIAN SYLLABICS CARRIER CHO,carrierChoCans
-syllabic,carrier-che-cans,,0x1663,ᙣ,CANADIAN SYLLABICS CARRIER CHE,carrierCheCans
-syllabic,carrier-chee-cans,,0x1664,ᙤ,CANADIAN SYLLABICS CARRIER CHEE,carrierCheeCans
-syllabic,carrier-chi-cans,,0x1665,ᙥ,CANADIAN SYLLABICS CARRIER CHI,carrierChiCans
-syllabic,carrier-cha-cans,,0x1666,ᙦ,CANADIAN SYLLABICS CARRIER CHA,carrierChaCans
-syllabic,carrier-ttsu-cans,,0x1667,ᙧ,CANADIAN SYLLABICS CARRIER TTSU,carrierTtsuCans
-syllabic,carrier-ttso-cans,,0x1668,ᙨ,CANADIAN SYLLABICS CARRIER TTSO,carrierTtsoCans
-syllabic,carrier-ttse-cans,,0x1669,ᙩ,CANADIAN SYLLABICS CARRIER TTSE,carrierTtseCans
-syllabic,carrier-ttsee-cans,,0x166A,ᙪ,CANADIAN SYLLABICS CARRIER TTSEE,carrierTtseeCans
-syllabic,carrier-ttsi-cans,,0x166B,ᙫ,CANADIAN SYLLABICS CARRIER TTSI,carrierTtsiCans
-syllabic,carrier-ttsa-cans,,0x166C,ᙬ,CANADIAN SYLLABICS CARRIER TTSA,carrierTtsaCans
-syllabic,carrier-gu_dot-cans,"carrier-gu-cans, dot-cans",0x18ED,ᣭ,CANADIAN SYLLABICS CARRIER GWU,carrierGuCans_dotCans
-syllabic,carrier-ge_dot-above-cans,"carrier-ge-cans, dot-above-cans",0x18EE,ᣮ,CANADIAN SYLLABICS CARRIER DENE GEE,carrierGeCans_dotAboveCans
-syllabic,carrier-ga_dot-above-cans,"carrier-ga-cans, dot-above-cans",0x18EF,ᣯ,CANADIAN SYLLABICS CARRIER GAA,carrierGaCans_dotAboveCans
-syllabic,carrier-ga_dot-cans,"carrier-ga-cans, dot-cans",0x18F0,ᣰ,CANADIAN SYLLABICS CARRIER GWA,carrierGaCans_dotCans
+syllabic,dot_sha_dotAbove-cans,"dot-cans, sha-cans, dotAbove-cans",0x1523,ᔣ,CANADIAN SYLLABICS SHWAA,dotCans_shaCans_dotAboveCans
+syllabic,sha_dotAbove_dot-cans,"sha-cans, dotAbove-cans, dot-cans",0x1524,ᔤ,CANADIAN SYLLABICS WEST-CREE SHWAA,shaCans_dotAboveCans_dotCans
+syllabic,sho_ringAbove-cans,"sho-cans, ringAbove-cans",0x18C0,ᣀ,CANADIAN SYLLABICS SHOY,shoCans_ringAboveCans
+syllabic,sha_ringAbove-cans,"sha-cans, ringAbove-cans",0x18C1,ᣁ,CANADIAN SYLLABICS SHAY,shaCans_ringAboveCans
+syllabic,dot_sho_ringAbove-cans,"dot-cans, sho-cans, ringAbove-cans",0x18C2,ᣂ,CANADIAN SYLLABICS SHWOY,dotCans_shoCans_ringAboveCans
+syllabic,blackfootE-cans,,0x15B0,ᖰ,CANADIAN SYLLABICS BLACKFOOT E,blackfootECans
+syllabic,blackfootI-cans,,0x15B1,ᖱ,CANADIAN SYLLABICS BLACKFOOT I,blackfootICans
+syllabic,blackfootO-cans,,0x15B2,ᖲ,CANADIAN SYLLABICS BLACKFOOT O,blackfootOCans
+syllabic,blackfootA-cans,,0x15B3,ᖳ,CANADIAN SYLLABICS BLACKFOOT A,blackfootACans
+syllabic,blackfootWe-cans,,0x15B4,ᖴ,CANADIAN SYLLABICS BLACKFOOT WE,blackfootWeCans
+syllabic,blackfootWi-cans,,0x15B5,ᖵ,CANADIAN SYLLABICS BLACKFOOT WI,blackfootWiCans
+syllabic,blackfootWo-cans,,0x15B6,ᖶ,CANADIAN SYLLABICS BLACKFOOT WO,blackfootWoCans
+syllabic,blackfootWa-cans,,0x15B7,ᖷ,CANADIAN SYLLABICS BLACKFOOT WA,blackfootWaCans
+syllabic,blackfootNe-cans,,0x15B8,ᖸ,CANADIAN SYLLABICS BLACKFOOT NE,blackfootNeCans
+syllabic,blackfootNi-cans,,0x15B9,ᖹ,CANADIAN SYLLABICS BLACKFOOT NI,blackfootNiCans
+syllabic,blackfootNo-cans,,0x15BA,ᖺ,CANADIAN SYLLABICS BLACKFOOT NO,blackfootNoCans
+syllabic,blackfootNa-cans,,0x15BB,ᖻ,CANADIAN SYLLABICS BLACKFOOT NA,blackfootNaCans
+syllabic,blackfootKe-cans,,0x15BC,ᖼ,CANADIAN SYLLABICS BLACKFOOT KE,blackfootKeCans
+syllabic,blackfootKi-cans,,0x15BD,ᖽ,CANADIAN SYLLABICS BLACKFOOT KI,blackfootKiCans
+syllabic,blackfootKo-cans,,0x15BE,ᖾ,CANADIAN SYLLABICS BLACKFOOT KO,blackfootKoCans
+syllabic,blackfootKa-cans,,0x15BF,ᖿ,CANADIAN SYLLABICS BLACKFOOT KA,blackfootKaCans
+syllabic,sayisiM-cans,,0x14BF,ᒿ,CANADIAN SYLLABICS SAYISI M,sayisiMCans
+syllabic,sayisiShe-cans,,0x1597,ᖗ,CANADIAN SYLLABICS SAYISI SHE,sayisiSheCans
+syllabic,sayisiShi-cans,,0x1598,ᖘ,CANADIAN SYLLABICS SAYISI SHI,sayisiShiCans
+syllabic,sayisiShu-cans,,0x1599,ᖙ,CANADIAN SYLLABICS SAYISI SHO,sayisiShuCans
+syllabic,sayisiSha-cans,,0x159A,ᖚ,CANADIAN SYLLABICS SAYISI SHA,sayisiShaCans
+syllabic,sayisiHe-cans,,0x15C0,ᗀ,CANADIAN SYLLABICS SAYISI HE,sayisiHeCans
+syllabic,sayisiHi-cans,,0x15C1,ᗁ,CANADIAN SYLLABICS SAYISI HI,sayisiHiCans
+syllabic,sayisiHu-cans,,0x15C2,ᗂ,CANADIAN SYLLABICS SAYISI HO,sayisiHuCans
+syllabic,sayisiHa-cans,,0x15C3,ᗃ,CANADIAN SYLLABICS SAYISI HA,sayisiHaCans
+syllabic,sayisiJa-cans,,0x1614,ᘔ,CANADIAN SYLLABICS CARRIER JU,sayisiJaCans
+syllabic,sayisiJu-cans,,0x1615,ᘕ,CANADIAN SYLLABICS SAYISI JU,sayisiJuCans
+syllabic,sayisiJi-cans,,0x161A,ᘚ,CANADIAN SYLLABICS SAYISI JI,sayisiJiCans
+syllabic,sayisiJe-cans,,0x161B,ᘛ,CANADIAN SYLLABICS CARRIER JA,sayisiJeCans
+syllabic,sayisiShe_dot-cans,"sayisiShe-cans, dot-cans",0x18EA,ᣪ,CANADIAN SYLLABICS SAYISI SHWE,sayisiSheCans_dotCans
+syllabic,sayisiShu_dotAbove-cans,"sayisiShu-cans, dotAbove-cans",0x18EB,ᣫ,CANADIAN SYLLABICS SAYISI SHOO,sayisiShuCans_dotAboveCans
+syllabic,sayisiHu_dotAbove-cans,"sayisiHu-cans, dotAbove-cans",0x18EC,ᣬ,CANADIAN SYLLABICS SAYISI HOO,sayisiHuCans_dotAboveCans
+syllabic,sayisiJu_dotAbove-cans,"sayisiJu-cans, dotAbove-cans",0x18F1,ᣱ,CANADIAN SYLLABICS SAYISI JUU,sayisiJuCans_dotAboveCans
+syllabic,sayisiJe_dot-cans,"sayisiJe-cans, dot-cans",0x18F2,ᣲ,CANADIAN SYLLABICS CARRIER JWA,sayisiJeCans_dotCans
+syllabic,carrierEe-cans,,0x1408,ᐈ,CANADIAN SYLLABICS CARRIER EE,carrierEeCans
+syllabic,carrierI-cans,,0x1409,ᐉ,CANADIAN SYLLABICS CARRIER I,carrierICans
+syllabic,carrierHee-cans,,0x1436,ᐶ,CANADIAN SYLLABICS CARRIER HEE,carrierHeeCans
+syllabic,carrierHi-cans,,0x1437,ᐷ,CANADIAN SYLLABICS CARRIER HI,carrierHiCans
+syllabic,carrierDee-cans,,0x1453,ᑓ,CANADIAN SYLLABICS CARRIER DEE,carrierDeeCans
+syllabic,carrierDi-cans,,0x1454,ᑔ,CANADIAN SYLLABICS CARRIER DI,carrierDiCans
+syllabic,carrierGhu-cans,,0x15C4,ᗄ,CANADIAN SYLLABICS CARRIER GHU,carrierGhuCans
+syllabic,carrierGho-cans,,0x15C5,ᗅ,CANADIAN SYLLABICS CARRIER GHO,carrierGhoCans
+syllabic,carrierGhe-cans,,0x15C6,ᗆ,CANADIAN SYLLABICS CARRIER GHE,carrierGheCans
+syllabic,carrierGhee-cans,,0x15C7,ᗇ,CANADIAN SYLLABICS CARRIER GHEE,carrierGheeCans
+syllabic,carrierGhi-cans,,0x15C8,ᗈ,CANADIAN SYLLABICS CARRIER GHI,carrierGhiCans
+syllabic,carrierGha-cans,,0x15C9,ᗉ,CANADIAN SYLLABICS CARRIER GHA,carrierGhaCans
+syllabic,carrierRu-cans,,0x15CA,ᗊ,CANADIAN SYLLABICS CARRIER RU,carrierRuCans
+syllabic,carrierRo-cans,,0x15CB,ᗋ,CANADIAN SYLLABICS CARRIER RO,carrierRoCans
+syllabic,carrierRe-cans,,0x15CC,ᗌ,CANADIAN SYLLABICS CARRIER RE,carrierReCans
+syllabic,carrierRee-cans,,0x15CD,ᗍ,CANADIAN SYLLABICS CARRIER REE,carrierReeCans
+syllabic,carrierRi-cans,,0x15CE,ᗎ,CANADIAN SYLLABICS CARRIER RI,carrierRiCans
+syllabic,carrierRa-cans,,0x15CF,ᗏ,CANADIAN SYLLABICS CARRIER RA,carrierRaCans
+syllabic,carrierWu-cans,,0x15D0,ᗐ,CANADIAN SYLLABICS CARRIER WU,carrierWuCans
+syllabic,carrierWo-cans,,0x15D1,ᗑ,CANADIAN SYLLABICS CARRIER WO,carrierWoCans
+syllabic,carrierWe-cans,,0x15D2,ᗒ,CANADIAN SYLLABICS CARRIER WE,carrierWeCans
+syllabic,carrierWee-cans,,0x15D3,ᗓ,CANADIAN SYLLABICS CARRIER WEE,carrierWeeCans
+syllabic,carrierWi-cans,,0x15D4,ᗔ,CANADIAN SYLLABICS CARRIER WI,carrierWiCans
+syllabic,carrierWa-cans,,0x15D5,ᗕ,CANADIAN SYLLABICS CARRIER WA,carrierWaCans
+syllabic,carrierHwu-cans,,0x15D6,ᗖ,CANADIAN SYLLABICS CARRIER HWU,carrierHwuCans
+syllabic,carrierHwo-cans,,0x15D7,ᗗ,CANADIAN SYLLABICS CARRIER HWO,carrierHwoCans
+syllabic,carrierHwe-cans,,0x15D8,ᗘ,CANADIAN SYLLABICS CARRIER HWE,carrierHweCans
+syllabic,carrierHwee-cans,,0x15D9,ᗙ,CANADIAN SYLLABICS CARRIER HWEE,carrierHweeCans
+syllabic,carrierHwi-cans,,0x15DA,ᗚ,CANADIAN SYLLABICS CARRIER HWI,carrierHwiCans
+syllabic,carrierHwa-cans,,0x15DB,ᗛ,CANADIAN SYLLABICS CARRIER HWA,carrierHwaCans
+syllabic,carrierThu-cans,,0x15DC,ᗜ,CANADIAN SYLLABICS CARRIER THU,carrierThuCans
+syllabic,carrierTho-cans,,0x15DD,ᗝ,CANADIAN SYLLABICS CARRIER THO,carrierThoCans
+syllabic,carrierThe-cans,,0x15DE,ᗞ,CANADIAN SYLLABICS CARRIER THE,carrierTheCans
+syllabic,carrierThee-cans,,0x15DF,ᗟ,CANADIAN SYLLABICS CARRIER THEE,carrierTheeCans
+syllabic,carrierThi-cans,,0x15E0,ᗠ,CANADIAN SYLLABICS CARRIER THI,carrierThiCans
+syllabic,carrierTha-cans,,0x15E1,ᗡ,CANADIAN SYLLABICS CARRIER THA,carrierThaCans
+syllabic,carrierTtu-cans,,0x15E2,ᗢ,CANADIAN SYLLABICS CARRIER TTU,carrierTtuCans
+syllabic,carrierTto-cans,,0x15E3,ᗣ,CANADIAN SYLLABICS CARRIER TTO,carrierTtoCans
+syllabic,carrierTte-cans,,0x15E4,ᗤ,CANADIAN SYLLABICS CARRIER TTE,carrierTteCans
+syllabic,carrierTtee-cans,,0x15E5,ᗥ,CANADIAN SYLLABICS CARRIER TTEE,carrierTteeCans
+syllabic,carrierTti-cans,,0x15E6,ᗦ,CANADIAN SYLLABICS CARRIER TTI,carrierTtiCans
+syllabic,carrierTta-cans,,0x15E7,ᗧ,CANADIAN SYLLABICS CARRIER TTA,carrierTtaCans
+syllabic,carrierPu-cans,,0x15E8,ᗨ,CANADIAN SYLLABICS CARRIER PU,carrierPuCans
+syllabic,carrierPo-cans,,0x15E9,ᗩ,CANADIAN SYLLABICS CARRIER PO,carrierPoCans
+syllabic,carrierPe-cans,,0x15EA,ᗪ,CANADIAN SYLLABICS CARRIER PE,carrierPeCans
+syllabic,carrierPee-cans,,0x15EB,ᗫ,CANADIAN SYLLABICS CARRIER PEE,carrierPeeCans
+syllabic,carrierPi-cans,,0x15EC,ᗬ,CANADIAN SYLLABICS CARRIER PI,carrierPiCans
+syllabic,carrierPa-cans,,0x15ED,ᗭ,CANADIAN SYLLABICS CARRIER PA,carrierPaCans
+syllabic,carrierGu-cans,,0x15EF,ᗯ,CANADIAN SYLLABICS CARRIER GU,carrierGuCans
+syllabic,carrierGo-cans,,0x15F0,ᗰ,CANADIAN SYLLABICS CARRIER GO,carrierGoCans
+syllabic,carrierGe-cans,,0x15F1,ᗱ,CANADIAN SYLLABICS CARRIER GE,carrierGeCans
+syllabic,carrierGee-cans,,0x15F2,ᗲ,CANADIAN SYLLABICS CARRIER GEE,carrierGeeCans
+syllabic,carrierGi-cans,,0x15F3,ᗳ,CANADIAN SYLLABICS CARRIER GI,carrierGiCans
+syllabic,carrierGa-cans,,0x15F4,ᗴ,CANADIAN SYLLABICS CARRIER GA,carrierGaCans
+syllabic,carrierKhu-cans,,0x15F5,ᗵ,CANADIAN SYLLABICS CARRIER KHU,carrierKhuCans
+syllabic,carrierKho-cans,,0x15F6,ᗶ,CANADIAN SYLLABICS CARRIER KHO,carrierKhoCans
+syllabic,carrierKhe-cans,,0x15F7,ᗷ,CANADIAN SYLLABICS CARRIER KHE,carrierKheCans
+syllabic,carrierKhee-cans,,0x15F8,ᗸ,CANADIAN SYLLABICS CARRIER KHEE,carrierKheeCans
+syllabic,carrierKhi-cans,,0x15F9,ᗹ,CANADIAN SYLLABICS CARRIER KHI,carrierKhiCans
+syllabic,carrierKha-cans,,0x15FA,ᗺ,CANADIAN SYLLABICS CARRIER KHA,carrierKhaCans
+syllabic,carrierKku-cans,,0x15FB,ᗻ,CANADIAN SYLLABICS CARRIER KKU,carrierKkuCans
+syllabic,carrierKko-cans,,0x15FC,ᗼ,CANADIAN SYLLABICS CARRIER KKO,carrierKkoCans
+syllabic,carrierKke-cans,,0x15FD,ᗽ,CANADIAN SYLLABICS CARRIER KKE,carrierKkeCans
+syllabic,carrierKkee-cans,,0x15FE,ᗾ,CANADIAN SYLLABICS CARRIER KKEE,carrierKkeeCans
+syllabic,carrierKki-cans,,0x15FF,ᗿ,CANADIAN SYLLABICS CARRIER KKI,carrierKkiCans
+syllabic,carrierKka-cans,,0x1600,ᘀ,CANADIAN SYLLABICS CARRIER KKA,carrierKkaCans
+syllabic,carrierNu-cans,,0x1602,ᘂ,CANADIAN SYLLABICS CARRIER NU,carrierNuCans
+syllabic,carrierNo-cans,,0x1603,ᘃ,CANADIAN SYLLABICS CARRIER NO,carrierNoCans
+syllabic,carrierNe-cans,,0x1604,ᘄ,CANADIAN SYLLABICS CARRIER NE,carrierNeCans
+syllabic,carrierNee-cans,,0x1605,ᘅ,CANADIAN SYLLABICS CARRIER NEE,carrierNeeCans
+syllabic,carrierNi-cans,,0x1606,ᘆ,CANADIAN SYLLABICS CARRIER NI,carrierNiCans
+syllabic,carrierNa-cans,,0x1607,ᘇ,CANADIAN SYLLABICS CARRIER NA,carrierNaCans
+syllabic,carrierMu-cans,,0x1608,ᘈ,CANADIAN SYLLABICS CARRIER MU,carrierMuCans
+syllabic,carrierMo-cans,,0x1609,ᘉ,CANADIAN SYLLABICS CARRIER MO,carrierMoCans
+syllabic,carrierMe-cans,,0x160A,ᘊ,CANADIAN SYLLABICS CARRIER ME,carrierMeCans
+syllabic,carrierMee-cans,,0x160B,ᘋ,CANADIAN SYLLABICS CARRIER MEE,carrierMeeCans
+syllabic,carrierMi-cans,,0x160C,ᘌ,CANADIAN SYLLABICS CARRIER MI,carrierMiCans
+syllabic,carrierMa-cans,,0x160D,ᘍ,CANADIAN SYLLABICS CARRIER MA,carrierMaCans
+syllabic,carrierYu-cans,,0x160E,ᘎ,CANADIAN SYLLABICS CARRIER YU,carrierYuCans
+syllabic,carrierYo-cans,,0x160F,ᘏ,CANADIAN SYLLABICS CARRIER YO,carrierYoCans
+syllabic,carrierYe-cans,,0x1610,ᘐ,CANADIAN SYLLABICS CARRIER YE,carrierYeCans
+syllabic,carrierYee-cans,,0x1611,ᘑ,CANADIAN SYLLABICS CARRIER YEE,carrierYeeCans
+syllabic,carrierYi-cans,,0x1612,ᘒ,CANADIAN SYLLABICS CARRIER YI,carrierYiCans
+syllabic,carrierYa-cans,,0x1613,ᘓ,CANADIAN SYLLABICS CARRIER YA,carrierYaCans
+syllabic,carrierJo-cans,,0x1616,ᘖ,CANADIAN SYLLABICS CARRIER JO,carrierJoCans
+syllabic,carrierJe-cans,,0x1617,ᘗ,CANADIAN SYLLABICS CARRIER JE,carrierJeCans
+syllabic,carrierJee-cans,,0x1618,ᘘ,CANADIAN SYLLABICS CARRIER JEE,carrierJeeCans
+syllabic,carrierJi-cans,,0x1619,ᘙ,CANADIAN SYLLABICS CARRIER JI,carrierJiCans
+syllabic,carrierJju-cans,,0x161C,ᘜ,CANADIAN SYLLABICS CARRIER JJU,carrierJjuCans
+syllabic,carrierJjo-cans,,0x161D,ᘝ,CANADIAN SYLLABICS CARRIER JJO,carrierJjoCans
+syllabic,carrierJje-cans,,0x161E,ᘞ,CANADIAN SYLLABICS CARRIER JJE,carrierJjeCans
+syllabic,carrierJjee-cans,,0x161F,ᘟ,CANADIAN SYLLABICS CARRIER JJEE,carrierJjeeCans
+syllabic,carrierJji-cans,,0x1620,ᘠ,CANADIAN SYLLABICS CARRIER JJI,carrierJjiCans
+syllabic,carrierJja-cans,,0x1621,ᘡ,CANADIAN SYLLABICS CARRIER JJA,carrierJjaCans
+syllabic,carrierLu-cans,,0x1622,ᘢ,CANADIAN SYLLABICS CARRIER LU,carrierLuCans
+syllabic,carrierLo-cans,,0x1623,ᘣ,CANADIAN SYLLABICS CARRIER LO,carrierLoCans
+syllabic,carrierLe-cans,,0x1624,ᘤ,CANADIAN SYLLABICS CARRIER LE,carrierLeCans
+syllabic,carrierLee-cans,,0x1625,ᘥ,CANADIAN SYLLABICS CARRIER LEE,carrierLeeCans
+syllabic,carrierLi-cans,,0x1626,ᘦ,CANADIAN SYLLABICS CARRIER LI,carrierLiCans
+syllabic,carrierLa-cans,,0x1627,ᘧ,CANADIAN SYLLABICS CARRIER LA,carrierLaCans
+syllabic,carrierDlu-cans,,0x1628,ᘨ,CANADIAN SYLLABICS CARRIER DLU,carrierDluCans
+syllabic,carrierDlo-cans,,0x1629,ᘩ,CANADIAN SYLLABICS CARRIER DLO,carrierDloCans
+syllabic,carrierDle-cans,,0x162A,ᘪ,CANADIAN SYLLABICS CARRIER DLE,carrierDleCans
+syllabic,carrierDlee-cans,,0x162B,ᘫ,CANADIAN SYLLABICS CARRIER DLEE,carrierDleeCans
+syllabic,carrierDli-cans,,0x162C,ᘬ,CANADIAN SYLLABICS CARRIER DLI,carrierDliCans
+syllabic,carrierDla-cans,,0x162D,ᘭ,CANADIAN SYLLABICS CARRIER DLA,carrierDlaCans
+syllabic,carrierLhu-cans,,0x162E,ᘮ,CANADIAN SYLLABICS CARRIER LHU,carrierLhuCans
+syllabic,carrierLho-cans,,0x162F,ᘯ,CANADIAN SYLLABICS CARRIER LHO,carrierLhoCans
+syllabic,carrierLhe-cans,,0x1630,ᘰ,CANADIAN SYLLABICS CARRIER LHE,carrierLheCans
+syllabic,carrierLhee-cans,,0x1631,ᘱ,CANADIAN SYLLABICS CARRIER LHEE,carrierLheeCans
+syllabic,carrierLhi-cans,,0x1632,ᘲ,CANADIAN SYLLABICS CARRIER LHI,carrierLhiCans
+syllabic,carrierLha-cans,,0x1633,ᘳ,CANADIAN SYLLABICS CARRIER LHA,carrierLhaCans
+syllabic,carrierTlhu-cans,,0x1634,ᘴ,CANADIAN SYLLABICS CARRIER TLHU,carrierTlhuCans
+syllabic,carrierTlho-cans,,0x1635,ᘵ,CANADIAN SYLLABICS CARRIER TLHO,carrierTlhoCans
+syllabic,carrierTlhe-cans,,0x1636,ᘶ,CANADIAN SYLLABICS CARRIER TLHE,carrierTlheCans
+syllabic,carrierTlhee-cans,,0x1637,ᘷ,CANADIAN SYLLABICS CARRIER TLHEE,carrierTlheeCans
+syllabic,carrierTlhi-cans,,0x1638,ᘸ,CANADIAN SYLLABICS CARRIER TLHI,carrierTlhiCans
+syllabic,carrierTlha-cans,,0x1639,ᘹ,CANADIAN SYLLABICS CARRIER TLHA,carrierTlhaCans
+syllabic,carrierTlu-cans,,0x163A,ᘺ,CANADIAN SYLLABICS CARRIER TLU,carrierTluCans
+syllabic,carrierTlo-cans,,0x163B,ᘻ,CANADIAN SYLLABICS CARRIER TLO,carrierTloCans
+syllabic,carrierTle-cans,,0x163C,ᘼ,CANADIAN SYLLABICS CARRIER TLE,carrierTleCans
+syllabic,carrierTlee-cans,,0x163D,ᘽ,CANADIAN SYLLABICS CARRIER TLEE,carrierTleeCans
+syllabic,carrierTli-cans,,0x163E,ᘾ,CANADIAN SYLLABICS CARRIER TLI,carrierTliCans
+syllabic,carrierTla-cans,,0x163F,ᘿ,CANADIAN SYLLABICS CARRIER TLA,carrierTlaCans
+syllabic,carrierZu-cans,,0x1640,ᙀ,CANADIAN SYLLABICS CARRIER ZU,carrierZuCans
+syllabic,carrierZo-cans,,0x1641,ᙁ,CANADIAN SYLLABICS CARRIER ZO,carrierZoCans
+syllabic,carrierZe-cans,,0x1642,ᙂ,CANADIAN SYLLABICS CARRIER ZE,carrierZeCans
+syllabic,carrierZee-cans,,0x1643,ᙃ,CANADIAN SYLLABICS CARRIER ZEE,carrierZeeCans
+syllabic,carrierZi-cans,,0x1644,ᙄ,CANADIAN SYLLABICS CARRIER ZI,carrierZiCans
+syllabic,carrierZa-cans,,0x1645,ᙅ,CANADIAN SYLLABICS CARRIER ZA,carrierZaCans
+syllabic,carrierDzu-cans,,0x1648,ᙈ,CANADIAN SYLLABICS CARRIER DZU,carrierDzuCans
+syllabic,carrierDzo-cans,,0x1649,ᙉ,CANADIAN SYLLABICS CARRIER DZO,carrierDzoCans
+syllabic,carrierDze-cans,,0x164A,ᙊ,CANADIAN SYLLABICS CARRIER DZE,carrierDzeCans
+syllabic,carrierDzee-cans,,0x164B,ᙋ,CANADIAN SYLLABICS CARRIER DZEE,carrierDzeeCans
+syllabic,carrierDzi-cans,,0x164C,ᙌ,CANADIAN SYLLABICS CARRIER DZI,carrierDziCans
+syllabic,carrierDza-cans,,0x164D,ᙍ,CANADIAN SYLLABICS CARRIER DZA,carrierDzaCans
+syllabic,carrierSu-cans,,0x164E,ᙎ,CANADIAN SYLLABICS CARRIER SU,carrierSuCans
+syllabic,carrierSo-cans,,0x164F,ᙏ,CANADIAN SYLLABICS CARRIER SO,carrierSoCans
+syllabic,carrierSe-cans,,0x1650,ᙐ,CANADIAN SYLLABICS CARRIER SE,carrierSeCans
+syllabic,carrierSee-cans,,0x1651,ᙑ,CANADIAN SYLLABICS CARRIER SEE,carrierSeeCans
+syllabic,carrierSi-cans,,0x1652,ᙒ,CANADIAN SYLLABICS CARRIER SI,carrierSiCans
+syllabic,carrierSa-cans,,0x1653,ᙓ,CANADIAN SYLLABICS CARRIER SA,carrierSaCans
+syllabic,carrierShu-cans,,0x1654,ᙔ,CANADIAN SYLLABICS CARRIER SHU,carrierShuCans
+syllabic,carrierSho-cans,,0x1655,ᙕ,CANADIAN SYLLABICS CARRIER SHO,carrierShoCans
+syllabic,carrierShe-cans,,0x1656,ᙖ,CANADIAN SYLLABICS CARRIER SHE,carrierSheCans
+syllabic,carrierShee-cans,,0x1657,ᙗ,CANADIAN SYLLABICS CARRIER SHEE,carrierSheeCans
+syllabic,carrierShi-cans,,0x1658,ᙘ,CANADIAN SYLLABICS CARRIER SHI,carrierShiCans
+syllabic,carrierSha-cans,,0x1659,ᙙ,CANADIAN SYLLABICS CARRIER SHA,carrierShaCans
+syllabic,carrierTsu-cans,,0x165B,ᙛ,CANADIAN SYLLABICS CARRIER TSU,carrierTsuCans
+syllabic,carrierTso-cans,,0x165C,ᙜ,CANADIAN SYLLABICS CARRIER TSO,carrierTsoCans
+syllabic,carrierTse-cans,,0x165D,ᙝ,CANADIAN SYLLABICS CARRIER TSE,carrierTseCans
+syllabic,carrierTsee-cans,,0x165E,ᙞ,CANADIAN SYLLABICS CARRIER TSEE,carrierTseeCans
+syllabic,carrierTsi-cans,,0x165F,ᙟ,CANADIAN SYLLABICS CARRIER TSI,carrierTsiCans
+syllabic,carrierTsa-cans,,0x1660,ᙠ,CANADIAN SYLLABICS CARRIER TSA,carrierTsaCans
+syllabic,carrierChu-cans,,0x1661,ᙡ,CANADIAN SYLLABICS CARRIER CHU,carrierChuCans
+syllabic,carrierCho-cans,,0x1662,ᙢ,CANADIAN SYLLABICS CARRIER CHO,carrierChoCans
+syllabic,carrierChe-cans,,0x1663,ᙣ,CANADIAN SYLLABICS CARRIER CHE,carrierCheCans
+syllabic,carrierChee-cans,,0x1664,ᙤ,CANADIAN SYLLABICS CARRIER CHEE,carrierCheeCans
+syllabic,carrierChi-cans,,0x1665,ᙥ,CANADIAN SYLLABICS CARRIER CHI,carrierChiCans
+syllabic,carrierCha-cans,,0x1666,ᙦ,CANADIAN SYLLABICS CARRIER CHA,carrierChaCans
+syllabic,carrierTtsu-cans,,0x1667,ᙧ,CANADIAN SYLLABICS CARRIER TTSU,carrierTtsuCans
+syllabic,carrierTtso-cans,,0x1668,ᙨ,CANADIAN SYLLABICS CARRIER TTSO,carrierTtsoCans
+syllabic,carrierTtse-cans,,0x1669,ᙩ,CANADIAN SYLLABICS CARRIER TTSE,carrierTtseCans
+syllabic,carrierTtsee-cans,,0x166A,ᙪ,CANADIAN SYLLABICS CARRIER TTSEE,carrierTtseeCans
+syllabic,carrierTtsi-cans,,0x166B,ᙫ,CANADIAN SYLLABICS CARRIER TTSI,carrierTtsiCans
+syllabic,carrierTtsa-cans,,0x166C,ᙬ,CANADIAN SYLLABICS CARRIER TTSA,carrierTtsaCans
+syllabic,carrierGu_dot-cans,"carrierGu-cans, dot-cans",0x18ED,ᣭ,CANADIAN SYLLABICS CARRIER GWU,carrierGuCans_dotCans
+syllabic,carrierGe_dotAbove-cans,"carrierGe-cans, dotAbove-cans",0x18EE,ᣮ,CANADIAN SYLLABICS CARRIER DENE GEE,carrierGeCans_dotAboveCans
+syllabic,carrierGa_dotAbove-cans,"carrierGa-cans, dotAbove-cans",0x18EF,ᣯ,CANADIAN SYLLABICS CARRIER GAA,carrierGaCans_dotAboveCans
+syllabic,carrierGa_dot-cans,"carrierGa-cans, dot-cans",0x18F0,ᣰ,CANADIAN SYLLABICS CARRIER GWA,carrierGaCans_dotCans
