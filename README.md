@@ -51,3 +51,7 @@ The following sections provide an overview of the local typographic preferences 
 [Syllabics Glyph Set](/glyph-set/syllabics.csv)
 
 [Syllabics Kerning](/kerning/)
+
+
+## Acknowledgements and Sources
+We are grateful to work in collaboration with many First Nations and Inuit language keepers, Elders, and communities towards identifying the correct orthographic and typographic requirements for their language's writing systems. As well, we also consult historical and contemporary literature and materials to build a comprehensive understanding of Syllabics typography and requirements for font development. Acknolwedgements and sources for specific languages are found in each individual file as they pertain to each language community. General sources can be found in the [General Typographic Requirements](/general-requirements.md) file.
