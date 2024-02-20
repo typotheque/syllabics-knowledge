@@ -12,3 +12,6 @@ The Naskapi language is part of the Cree language dialect continuum, and as such
 
 Naskapi Syllabics Subset:
 > ᐧ ᐃ ᐅ ᐊ ᐎ ᐛ ᐱ ᐳ ᐸ ᑎ ᑐ ᑕ ᑭ ᑯ ᑲ ᒋ ᒍ ᒐ ᒥ ᒧ ᒪ ᓂ ᓄ ᓇ ᓯ ᓱ ᓴ ᔨ ᔪ ᔭ ᓕ ᓗ ᓚ ᕆ ᕈ ᕋ ᑈ ᑥ ᒂ ᒠ ᒺ ᓏ ᔄ ᔽ ᔋᐸ ᔍ ᔎ ᔏ ᐤ ᑉ ᑦ ᒃ ᒡ ᒻ ᓐ ᔅ ᔾ ᓪ ᕐ ᐦ ᐧ ᒄ ᔋ ᐀ ᙮
+
+#### Acknowledgements
+We would like to acknowledge and thank with gratitude Bill Jancewicz for sharing his knowledge of Naskapi Syllabics, as well as Cree and the Algonquian Syllabics.
