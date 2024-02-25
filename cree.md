@@ -119,3 +119,5 @@ We would like to acknowledge and thank with gratitude Louise Campbell, Ken Papan
 - John Horden, *Bible and Gospel history, in Saulteux, Society for Promoting Christian Knowledge*, London, 1860
 
 - Marie-Odile Junker, "[Syllabic font orientation](https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/syllabic-font-orientation/)", In *East Cree Language Resources*, EastCree.org
+  
+- [British and Foreign Bible Society], *The four Gospels and the Acts of the Apostles*. British and Foreign Bible Society, London, 1903
