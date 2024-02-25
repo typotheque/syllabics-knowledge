@@ -61,3 +61,15 @@ Western Ojibwe is the dialect of Ojibwe spoken by the communities west of Ontari
 Western Ojibwe Syllabics Subset:
 
 > ᐧ ᐁ ᐃ ᐅ ᐊ ᐄ ᐆ ᐋ ᐯ ᐱ ᐳ ᐸ ᐲ ᐴ ᐹ ᑌ ᑎ ᑐ ᑕ ᑏ ᑑ ᑖ ᑫ ᑭ ᑯ ᑲ ᑮ ᑰ ᑳ ᒉ ᒋ ᒍ ᒐ ᒌ ᒎ ᒑ ᒣ ᒥ ᒧ ᒪ ᒦ ᒨ ᒫ ᓀ ᓂ ᓄ ᓇ ᓃ ᓅ ᓈ ᓭ ᓯ ᓱ ᓴ ᓰ ᓲ ᓵ ᔐ ᔑ ᔓ ᔕ ᔒ ᔔ ᔖ ᔦ ᔨ ᔪ ᔭ ᔩ ᔫ ᔮ ᐧᐁ ᐧᐃ ᐧᐅ ᐧᐊ ᐧᐄ ᐧᐆ ᐧᐋ ᑊ ᐟ ᐠ ᐨ ᒼ ᐣ ᐢ ᐡ ᕀ ᐤ ᓬ ᕒ ᐦ ᕁ ᐀ ᙮ - .
+
+#### Acknowledgements
+We would like to acknowledge and thank with gratitude Bill Jancewicz for sharing his knowledge of Cree and the Algonquian Syllabics.
+
+#### Sources
+- James Evans, *ᓇᑲᒧᐏᓇ ᐅᒪᐢᑮᑯᐘ ᐅᑎᑘᐏᓂᐘᐤ (Swampy Cree Hymn book)*. Norway House, 1841.
+- John Horden, *Bible and Gospel history, in Saulteux, Society for Promoting Christian Knowledge*, London, 1860
+- Charles Fiero, ‘Style manual for syllabics’. In *Promoting Native Writing Systems in Canada*, pp 95–104, OISE Press, 1985
+- [Canadian Bible Society], *ᐃᐃᐁᐧ ᒥᓇᐧᒋᒧᐃᐧᣙ ᑲᐃᓇ ᑐᑕᣖ ᐊᐊ ᒪᣖ / The Gospel of Mark in Northern Ojibway (Saulteaux) and English (TEV)*. Canadian Bible Society, 1974
+- [Canadian Standards Association], [Proposed pDAM for Unified Canadian Aboriginal Syllabics](https://www.evertype.com/standards/sl/n1441-en.html). ISO/IEC JTC1/SC2/WG2 N1441, 10 June 1996
+- [Wawatay News](https://www.wawataynews.ca/), *ᐗᐗᑌ ᐊᒋᒧᐎᓇᐣ / Wawatay News*, 17 July, 2020 Vol.47, No. 7, PM#0382659799
+- International Organization for Standardization, *Information technology—Universal Multiple-Octet Coded Character Set (UCS): Part 1: Architecture and Basic Multilingual Plane: Amendment 11: Unified Canadian Aboriginal Syllabics*. From ISO/IEC 10646–1:1993, FDAM 11, L2/98–128, 1998
