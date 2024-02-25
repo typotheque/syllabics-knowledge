@@ -33,3 +33,15 @@ The Dakelh Syllabics should be represented in the same manner as the Square Form
 #### Acknowledgements
 We would like to acknowledge and thank with gratitude Dakelh language keepers ᗮᘧᐣᙒᔆ  ᗮᘦᐣᙆ (Francois Prince) and ᑓᐣᘆᔆ  ᗷᒼᗫᐩᘧᐣᐪ (Dennis Cumberland) for sharing their knowledge of Dakelh Syllabics, and for our continued collaboration together.
 
+#### Sources
+ᗮᘧᐣᙒᔆ  ᗮᘦᐣᙆ (Francois Prince), ᑓᐣᘆᔆ  ᗷᒼᗫᐩᘧᐣᐪ (Dennis Cumberland), Kevin King, "Proposed changes to the representative glyphs of the Unified Canadian Aboriginal Syllabics code charts", [L2/21-141], The Unicode Consortium, 7 July 2021
+
+International Organization for Standardization, *Information technology—Universal Multiple-Octet Coded Character Set (UCS): Part 1: Architecture and Basic Multilingual Plane: Amendment 11: Unified Canadian Aboriginal Syllabics*. From ISO/IEC 10646–1:1993, FDAM 11, L2/98–128, 1998
+
+Adrien-Gabriel Morice, ᗫᣟ ᑐᔆᘼᔆ ᐅᙨᑐᐟᣟᐈᑋ / Carrier reading-book. Fort Saint James, 1894.
+
+Adrien-Gabriel Morice, Mission Papers (ᑐᔆᘼᔆ ᘇᗘᑊᘄᐟ), Second Edition (ᗪᒡ   2   ᑐᔆᘼᔆ), Volume 11 (ᗪᒡ   11   ᙓᘄᐣ), 1891.
+
+ᑓᐣᘆᔆ  ᗷᒼᗫᐩᘧᐣᐪ (Dennis Cumberland), ‘Discussing the history of the Dakelh (Carrier) Syllabics.’ 10 March 2021, Telephone interview with Kevin King.
+
+ᑓᐣᘆᔆ  ᗷᒼᗫᐩᘧᐣᐪ (Dennis Cumberland), ᗮᘧᐣᙒᔆ  ᗮᘦᐣᙆ (Francois Prince), ‘Question about Syllabics rotation in Morice document & single ‘s’ and ‘z’ sound character shapes.’Email correspondence with Kevin King recieved 21 April 2021, 4:13 am EST and 23 April 2021, 11:43 am EST
