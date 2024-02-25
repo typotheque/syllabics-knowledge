@@ -121,3 +121,4 @@ We would like to acknowledge and thank with gratitude Louise Campbell, Ken Papan
 - Marie-Odile Junker, "[Syllabic font orientation](https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/syllabic-font-orientation/)", In *East Cree Language Resources*, EastCree.org
   
 - [British and Foreign Bible Society], *The four Gospels and the Acts of the Apostles*. British and Foreign Bible Society, London, 1903
+- [Canadian Standards Association], Proposed pDAM for Unified Canadian Aboriginal Syllabics. ISO/IEC JTC1/SC2/WG2 N1441, 10 June 1996
