@@ -39,3 +39,5 @@ We would like to acknowledge and thank with gratitude Nattilik language keepers 
 > This letter can be found in [L2/20-255](https://www.unicode.org/L2/L2020/20255-ucas-adds.pdf), page 6.
 
 - [The Government of Nunavut](https://www.gov.nu.ca/iu)
+
+- [Canadian Standards Association], [Proposed pDAM for Unified Canadian Aboriginal Syllabics](https://www.evertype.com/standards/sl/n1441-en.html). ISO/IEC JTC1/SC2/WG2 N1441, 10 June 1996
