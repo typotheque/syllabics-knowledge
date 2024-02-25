@@ -29,13 +29,13 @@ Inuktut Syllabics Subset:
 We would like to acknowledge and thank with gratitude Nattilik language keepers ᓂᓚᐅᓛᖅ ᐊᒡᓘᒃᑲᖅ (Nilaulaaq Aglukkaq), ᑕᒪᓕᒃ (Janet Tamalik McGrath), ᐊᑏᒪ (Attima) and ᐃᓕ𑪴ᐱ (Elisabeth) 𑪴ᓪᓚᕆ (Hadlari), ᕿ’ᖓᖅᑐᖅ ᐃᑦᑐᓗᒃ (Qi’ngaqtuq Kevin Eetoolook), ᐊᕐᓇᐅᔪᖅ ᐊᓗᑭ (Arnaoyok Alookee), and Kimberly ᓰᑦᖁᕐᓗᒃ Fairman for sharing their knowledge of Nattilingmiutut and Nattilik Syllabics, and for our continued collaboration.
 
 #### Sources
-[The Unicode Consortium], "Proposal to encode 16 additional characters to the Unified Canadian Aboriginal Syllabics", [L2/20-255](https://www.unicode.org/L2/L2020/20255-ucas-adds.pdf), The Unicode Consortium, 2020
+- [The Unicode Consortium], "Proposal to encode 16 additional characters to the Unified Canadian Aboriginal Syllabics", [L2/20-255](https://www.unicode.org/L2/L2020/20255-ucas-adds.pdf), The Unicode Consortium, 2020
 
-International Organization for Standardization, *Information technology—Universal Multiple-Octet Coded Character Set (UCS): Part 1: Architecture and Basic Multilingual Plane: Amendment 11: Unified Canadian Aboriginal Syllabics*. From ISO/IEC 10646–1:1993, FDAM 11, L2/98–128, 1998
+- International Organization for Standardization, *Information technology—Universal Multiple-Octet Coded Character Set (UCS): Part 1: Architecture and Basic Multilingual Plane: Amendment 11: Unified Canadian Aboriginal Syllabics*. From ISO/IEC 10646–1:1993, FDAM 11, L2/98–128, 1998
 
-ᐃᓕᓴᕐᓂᓕᕆᒥᖅ / Kativik Ilisarniliriniq, *ᐋᕐᕐᑭᓯᒪᑎᑦᓯᓂᕐᓄᑦ ᐸᕐᒣᓀᒍᑏᑦ 2016–2023 / Strategic plan 2016–2023*. from ᑲᑎᕕᒃ ᐃᓕᓴᕐᓂᓕᕆᒥᖅ, [Kativik Ilisarniliriniq](https://www.kativik.qc.ca/in/), 2016.
+- ᐃᓕᓴᕐᓂᓕᕆᒥᖅ / Kativik Ilisarniliriniq, *ᐋᕐᕐᑭᓯᒪᑎᑦᓯᓂᕐᓄᑦ ᐸᕐᒣᓀᒍᑏᑦ 2016–2023 / Strategic plan 2016–2023*. from ᑲᑎᕕᒃ ᐃᓕᓴᕐᓂᓕᕆᒥᖅ, [Kativik Ilisarniliriniq](https://www.kativik.qc.ca/in/), 2016.
 
-Janet Tamalik McGrath, *Letter of support to the Unicode Technical Committee*. 3 September 2020.
+- Janet Tamalik McGrath, *Letter of support to the Unicode Technical Committee*. 3 September 2020.
 > This letter can be found in [L2/20-255](https://www.unicode.org/L2/L2020/20255-ucas-adds.pdf), page 6.
 
-[The Government of Nunavut](https://www.gov.nu.ca/iu)
+- [The Government of Nunavut](https://www.gov.nu.ca/iu)
