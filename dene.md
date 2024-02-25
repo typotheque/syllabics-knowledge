@@ -83,3 +83,12 @@ South Slavey Syllabics Subset:
 > ᐊ ᐁ ᐃ ᐅ ᐆ ᐸ ᐯ ᐱ ᐳ ᐴ ᗴ ᗯ ᗰ ᗱ ᣮ ᑕ ᑌ ᑎ ᑐ ᑑ ᐣᑕ ᐣᑌ ᐣᑎ ᐣᑐ ᐣᑑ ᗃ ᗀ ᗁ ᗂ ᣬ ᑲ ᑫ ᑭ ᑯ ᑰ ᖉ ᖆ ᖇ ᖈ ᣩ ᕍ ᕃ ᕄ ᕊ ᣡ ᒪ ᒣ ᒥ ᒧ ᒨ ᓇ ᓀ ᓂ ᓄ ᓅ ᓴ ᓭ ᓯ ᓱ ᓲ ᖚ ᖗ ᖘ ᖙ ᣫ ᕦ ᕞ ᕠ ᕤ ᕥ ᒐ ᒉ ᒋ ᒍ ᒎ ᕮ ᕫ ᕬ ᕭ ᣦ ᘔ ᘛ ᘚ ᘕ ᣱ ᐧᐊ ᐧᐁ ᐧᐃ ᐧᐅ ᐧᐆ ᔭ ᔦ ᔨ ᔪ ᔫ ᑉ ᐨ ᑊ ᐠ ᐟ ᒼ ᐣ ᐡ ᐢ ᒡ ᒢ ᕀ ᐦ ʼ - .
 
 
+#### Sources
+- William Carpenter Bompass, *Prayers, lessons, and hymns in the Tenni or Slavi language of the Indians of Mackenzie River in the North-West Territory of Canada*. London, Society for Promoting Christian Knowledge, 1900
+- [Binasii incorporated], [Sayisi Dene dictionary](https://play.google.com/store/apps/details?id=com.binasii.tadouleDictionary&hl=en_CA&gl=US). Version 2.7. Binasii Incorporated, copyright 2017, accessed 18 June 2020
+- [Canadian Standards Association], Proposed pDAM for Unified Canadian Aboriginal Syllabics. ISO/IEC JTC1/SC2/WG2 N1441, 10 June 1996
+- W.W. Kirkby, *Manual of devotion and instruction in the Chipewyan language, for the Indians of Churchill*. Society for Promoting Christian Knowledge, London, 1879
+- Père Legoff, *ᑲᑐᕄᐠ ᑌᓀᔦ ᑎᐠᕄᓭ / Livre de prières en langue Montagnaise*. C. O. Beauchemin & Fils, Libraires-Imprimeurs, 1890
+- Louise Perrault, *Prières, cantiques et catechisme en langue Montagnaise ou Chipeweyan*. Pauperes Evangelizantur, Montréal, 1857
+- Émile Fortuné Stanislas Joseph Petitiot, *Dictionnaire de la langue dènè-dindjié dialectes montagnais ou chippewayan, peaux de lièvre et loucheux, renfermant en outre un grand nombre de termes propres à sept autres dialectes de la même langue*. Edited by Ernest Leroux, Libraire des sociétés asiatiques de Paris, de Calcutta, de New-Haven (ÉtatsUnie), de Shanghai (Chine), de l’école des langues orientales vivantes,de la société philologique, etc., Paris, 1876
+- Jean Baptiste Thibault, *ᐊᔭᒥᐁ ᓀᐃᔭᐁᐧᒪᓯᓇᐃᑲᐣ ᐊᔭᒥᐊᐃᐧᓇ ᓇᑲᒧᓇ ᒥᓇ ᑭᐢᑭᓄᐊᒪᑐᐃᐧᓇ / Prières, cantiques, catéchisme, etc., en langue crise*. Imprimerie de Louis Perrault, Montréal, 1866
