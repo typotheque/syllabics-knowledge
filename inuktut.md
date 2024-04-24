@@ -19,7 +19,7 @@ The Inuktut languages of Nunavut and Nunavik have had a very strong connection t
 
 > Also note that Nattilingmiutut does not use a final character for the "ch series" (ᕠ ᕢ ᕤ ᕥ ᕦ ᕧ), and therefore U+156A ᕪ CANADIAN SYLLABICS TH is not required for this orthography.
 
-❸ Note that Nattilingmiutut uses the character U+02BC ʼ MODIFIER LETTER APOSTROPHE to mark the glottal stop in it's Syllabics orthography, in contrast to the Syllabics glyph preferred by other communities for this letter, which use U+144A ᑊ CANADIAN SYLLABICS WEST-CREE P. Some users of Nattilik Syllabics may also use U+2019 ’ RIGHT SINGLE QUOTATION MARK to mark glottal stop, but U+02BC is preferred.
+❸ Note that Nattilingmiutut uses the character U+2019 ’ RIGHT SINGLE QUOTATION MARK to mark glottal stop in it's Syllabics orthography, in contrast to the Syllabics glyph preferred by other communities for this letter, which use U+144A ᑊ CANADIAN SYLLABICS WEST-CREE P.
 
 
 Inuktut Syllabics Subset:
